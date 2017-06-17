@@ -16,6 +16,10 @@ categories: [Elective Courses]
 
 **Grading:** About right
 
+**Attendance Policy:** No mandatory attendance
+
+**This Course has:** Assignments, Endsem
+
 **Topics Covered in the Course:**  
 Vortex Methods and Smoothed Particle Hydrodynamics for Fluid flow simulations
 
@@ -34,5 +38,8 @@ Just one End-Sem and all the questions were asked based on what is taught in lec
 
 **Other Remarks:**  
 Take this course only if you know fair amount of coding beforehand.
+
+**How strongly would you recommend someone for taking this course (Not recommended-Strongly Recommended)?**  
+Recommended
 
 ###### Disclaimer:The content of this website are opinions expressed by individual students. The information provided is for guidance purposes. Use the information at your own risk.
