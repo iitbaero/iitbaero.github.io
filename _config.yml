@@ -6,7 +6,7 @@ reading_time:     false # if true, shows the estimated reading time for a post
 logo:             images/logo.png # logo visible in the topbar
 excerpt_separator: <!--more-->
 
-url: http://iitbaero.github.io
+url: https://iitbaero.github.io
 baseurl: ''
 
 # draw your top menu here
