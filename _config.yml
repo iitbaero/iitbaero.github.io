@@ -1,0 +1,70 @@
+title:            DAMP, Aerospace Engineering
+description:      DAMP, Aerospace Engineering
+
+reading_time:     false # if true, shows the estimated reading time for a post
+
+logo:             images/logo.png # logo visible in the topbar
+excerpt_separator: <!--more-->
+
+url: http://iitbaero.github.io
+baseurl: ''
+
+# draw your top menu here
+# each item must have a title and a url.
+#   To list post categories. use type: 'categories'
+#   To create sub categories. add a submenu item
+# See the example
+menu:
+  - title: 'Home'
+    url: '/'
+  - title: 'Tags'
+    url: '/tags'
+  - title: 'Categories'
+    url: '/categories'
+    type: 'categories'
+
+# Owner/author information
+owner:
+  name:           Aerospace D-AMP
+  site:           http://iitbaero.github.io
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-101173204-1
+google_verify:
+bing_verify:
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Asia/Kolkata
+locale:      en_US
+future:      true
+highlighter: rouge
+markdown:    kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+# Amount of post to show on home page
+paginate: 5
+
+# if true, shows the floatting share buttons
+float_share: false
+
+comments: false
+
+# Octopress
+# Default extensions
+post_ext: md
+page_ext: md
+# Found in _templates/
+post_layout: post
+page_layout: page
+# Format titles with titlecase?
+titlecase: true
+
+include: [".htaccess"]
+exclude: ["demo/*", "lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+gems: [jekyll-paginate]
+theme: neo-hpstr-jekyll-theme

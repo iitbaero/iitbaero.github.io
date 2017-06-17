@@ -1,0 +1,13 @@
+---
+layout: {{ layout }}
+title: {{ title }}
+author: {{author}}
+date: {{ date }}
+modified:
+description:
+image:
+  feature:
+  credit:
+  creditlink:
+share:
+---
