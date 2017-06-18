@@ -7,7 +7,7 @@ script:
   - bundle exec jekyll build
 
 branches:
-  - source
+  - sources
 
 before_install:
   - gem install bundler
@@ -18,5 +18,5 @@ deploy:
   script: "./_scripts/deploy.sh"
   skip_cleanup: false
   on:
-    branch: source
+    branch: sources
 
