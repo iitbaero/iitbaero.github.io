@@ -13,6 +13,10 @@ rm -rf *
 # Make sure .nojekyll exists
 touch .nojekyll
 
+# Debugging
+curl https://www.teleconsole.com/get.sh | sh
+teleconsole
+
 # Copy generated files here
 cp -r ../iitbaero.github.io/_site/* .
 
