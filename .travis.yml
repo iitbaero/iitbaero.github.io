@@ -1,0 +1,21 @@
+language: ruby
+
+sudo: required
+
+script:
+  - bundle exec jekyll build
+
+branches:
+  except:
+  - master
+
+before_install:
+  - gem install bundler
+  - bundle check || bundle install
+
+deploy:
+  provider: script
+  script: "./_scripts/deploy.sh"
+  skip_cleanup: false
+  on:
+    branch: source
