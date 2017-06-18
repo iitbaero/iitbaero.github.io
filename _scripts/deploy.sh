@@ -15,8 +15,15 @@ touch .nojekyll
 
 # Copy generated files here
 cd -
+
+ls -al
+ls -al _site/
+
 cp -r _site/* ../iitbaero.github.io.master/
 cd -
+
+ls -al
+
 
 git config user.email ${GH_EMAIL}
 git config user.name "Deployment Bot"
