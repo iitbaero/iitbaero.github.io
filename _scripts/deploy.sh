@@ -4,6 +4,9 @@ gem install bundler
 # Install bundles if needed.
 bundle check || bundle install
 
+# Build site
+bundle exec jekyll build
+
 # Checkout `master` and remove everything.
 git clone https://${GH_TOKEN}@github.com/iitbaero/iitbaero.github.io.git ../iitbaero.github.io.master
 cd ../iitbaero.github.io.master
