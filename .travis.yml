@@ -1,5 +1,8 @@
 language: ruby
 
+rvm:
+  - 2.2
+
 script:
   - bundle exec jekyll build
 
@@ -9,7 +12,7 @@ branches:
 
 before_install:
   - gem install bundler
-  - bundle check || bundle install
+  - bundle install
 
 deploy:
   provider: script
