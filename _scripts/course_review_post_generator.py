@@ -1,6 +1,8 @@
 import csv
 import sys
 
+from datetime import date
+
 
 class PostGenerator:
 
@@ -38,9 +40,7 @@ class PostGenerator:
             "": "nil"
         }
 
-        t = review[0].split(" ")[0].split("/")
-
-        self.date = t[2] + "-" + t[1] + "-" + t[0]
+        self.date = str(date.today())
         self.author = review[1]
         self.course_code = review[2]
         self.course_name = review[3]
