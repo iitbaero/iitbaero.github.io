@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AE 429: Aircraft Design Lab(Fall 2016)"
+title: "AE 429: Aircraft Design Lab (Fall 2016)"
 author: Vikas Kurapati
 description: "Course Review: AE429"
 modified: 2017-06-18

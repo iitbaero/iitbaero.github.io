@@ -72,7 +72,7 @@ class PostGenerator:
         header = [
             "---",
             "layout: post",
-            "title: \"" + self.course_code + ": " + self.course_name + "(Fall/Spring 201x)\"",
+            "title: \"" + self.course_code + ": " + self.course_name + " (Fall/Spring 201x)\"",
             "author: " + self.author, "description: \"Course Review: " + self.course_code + "\"",
             "modified: " + self.date,
             "tags: [Course Reviews, ]",
