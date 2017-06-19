@@ -113,13 +113,9 @@ class PostGenerator:
         self.generate_footer()
 
     def save_post(self):
-        print("\n")
-        print("=" * 80)
-        print("\n")
-        print("\n\n".join(self.post))
-        print("\n")
-        print("=" * 80)
-        print("\n")
+        f = open(self.date + "-" + self.course_name.replace(" ", "-"), "w")
+        f.write("\n\n".join(self.post))
+        f.close()
 
     def generate_and_save_post(self):
         self.generate_post()
