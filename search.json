@@ -1,11 +1,21 @@
 [
   
     {
+      "title"    : "AE 152: Introduction to Aerospace Engineering (Spring 2016)",
+      "category" : "",
+      "tags"     : "Course Reviews, First Year Courses",
+      "url"      : "https://iitbaero.github.io/first%20year%20courses/Introduction-to-Aerospace-Engineering/",
+      "date"     : "2017-06-19 00:00:00 +0530",
+      "author"   : "Anmol Sikka"
+    } ,
+  
+    {
       "title"    : "AE 429: Aircraft Design Lab (Fall 2016)",
       "category" : "",
       "tags"     : "Course Reviews, Fourth Year Courses",
       "url"      : "https://iitbaero.github.io/fourth%20year%20courses/Aircraft-Design-Lab/",
-      "date"     : "2017-06-18 00:00:00 +0530"
+      "date"     : "2017-06-18 00:00:00 +0530",
+      "author"   : "Vikas Kurapati"
     } ,
   
     {
@@ -13,7 +23,8 @@
       "category" : "",
       "tags"     : "Course Reviews, Second Year Courses",
       "url"      : "https://iitbaero.github.io/second%20year%20courses/Thermodynamics/",
-      "date"     : "2017-06-17 00:00:00 +0530"
+      "date"     : "2017-06-17 00:00:00 +0530",
+      "author"   : "Shashank Verma"
     } ,
   
     {
@@ -21,7 +32,8 @@
       "category" : "",
       "tags"     : "Course Reviews, Electives",
       "url"      : "https://iitbaero.github.io/elective%20courses/Particle-Methods-for-Fluid-Flows/",
-      "date"     : "2017-06-17 00:00:00 +0530"
+      "date"     : "2017-06-17 00:00:00 +0530",
+      "author"   : "Vikas Kurapati"
     } 
   
 ]
