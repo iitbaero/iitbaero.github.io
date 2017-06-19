@@ -91,8 +91,9 @@ class PostGenerator:
             "**This Course has:** " + self.course_assessments, "**Prerequisites:** " + self.course_prerequisites,
             "**Topics Covered in the Course:**  \n" + self.course_syllabus,
             "**Weightage:**  \n" + self.course_assessment_weightage,
-            "**How are the Assignments & Projects for this course?**  \n" + self.course_lecture_lab_review,
-            "**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**  \n" + self.course_assignments_projects,
+            "**How are the Lectures/Labs for this course?**  \n" + self.course_lecture_lab_review,
+            "**How are the Assignments & Projects for this course?**  \n" + self.course_assignments_projects,
+            "**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**  \n" + self.course_exams,
             "**Other Remarks:**  \n" + self.comments, "**References:**  \n" + self.course_references,
             "** How strongly would you recommend someone for taking this course (Not recommended-Strongly Recommended)?**  \n" + self.course_recommendation
         ]
@@ -113,7 +114,7 @@ class PostGenerator:
         self.generate_footer()
 
     def save_post(self):
-        f = open(self.date + "-" + self.course_name.replace(" ", "-"), "w")
+        f = open(self.date + "-" + self.course_name.replace(" ", "-") + ".md", "w")
         f.write("\n\n".join(self.post))
         f.close()
 

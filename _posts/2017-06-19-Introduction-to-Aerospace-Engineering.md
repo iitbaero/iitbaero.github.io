@@ -31,11 +31,14 @@ aircraft, Basic Aerodynamics: Fluid dynamic equations & their basis, Ideal fluid
 Mid-Sem 30%  
 End-Sem 50%
 
-**How are the Assignments & Projects for this course?**  
+**How are the Lectures/Labs for this course?**  
 Lectures were interesting enough. Though sometimes they got monotonous. But being someone with interest in the course. I enjoyed the lectures.
 
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**  
+**How are the Assignments & Projects for this course?**  
 There was single assignment to make a PPT for Aerospace History of India. It was easy enough. You get lots of time to do that.
+
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**  
+Exams are on a tougher side. You need your concepts very clear for the theory questions and for the numericals practice is required. 
 
 **References:**  
 Introduction to Flight, Anderson
