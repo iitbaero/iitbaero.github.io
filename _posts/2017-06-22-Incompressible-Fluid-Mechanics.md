@@ -4,8 +4,8 @@ title: "AE 225: Incompressible Fluid Mechanics (Fall 2016)"
 author: Kaustubh Sridhar
 description: "Course Review: AE225"
 modified: 2017-06-22
-tags: [Course Reviews, Second Year Course Reviews]
-categories: [Second Year Course Reviews]
+tags: [Course Reviews, Second Year Courses]
+categories: [Second Year Courses]
 ---
 
 **Course Instructor:** Aniruddha Sinha

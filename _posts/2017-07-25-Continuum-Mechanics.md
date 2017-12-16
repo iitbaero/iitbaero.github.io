@@ -8,7 +8,7 @@ tags: [Course Reviews, Elective Courses]
 categories: [Elective Courses]
 ---
 
-**Course Instructor:** Guruprasad
+**Course Instructor:** PJ Guruprasad
 
 **Course Difficulty:** Moderate
 
