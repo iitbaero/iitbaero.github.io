@@ -33,8 +33,8 @@ __*Our Goals:*__
 * What we look for? - Students who are motivated in helping others and will be dedicated to do so.
 
 # What is Aerospace Engineering?
-![Aerospace Engineering](/images/aero.gif)
 
+![Aerospace Engineering](/images/aero.gif)
 
 
 <div style="text-align: justify">
