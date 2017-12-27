@@ -22,7 +22,7 @@ __*Our Goals:*__
 * Motivate students to perform better in academics as well as encourage them to excel in their other interests.
 * Improve communication between the faculty and students.
 
-## Initiatitives by the 2017-18 Team:
+## Initiatitives by the 2017-18 team:
 * Setting up the new __Department Academic Volunteer Programme__ . This new wing of the DAMP team focuses on conducting Academic Help Sessions for students and takes up other teaching related activities.
 * Creating an **ARP guideline** for helping ARP students in the most effective way.
 * Starting **Math Help Sessions** for students to boost Mathematical skills.
@@ -33,7 +33,10 @@ __*Our Goals:*__
 * What we look for? - Students who are motivated in helping others and will be dedicated to do so.
 
 # What is Aerospace Engineering?
-![Aerospace Engineering](https://drive.google.com/file/d/12NfyDABfYUdJQdQLoSGX4l7iRWV0CYdo/preview)
+![Aerospace Engineering](/images/aero.gif)
+
+
+
 <div style="text-align: justify">
 Starting from the stone age, we have built a computer generation now.
 Somewhere in between we saw a dream, to fly, to touch the sky, a dream
