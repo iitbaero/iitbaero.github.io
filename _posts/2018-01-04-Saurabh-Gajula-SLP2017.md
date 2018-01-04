@@ -3,9 +3,8 @@ layout: post
 title: "SLP: Case studies on Sentiment analysis and it's applicatoins (Fall/Spring 201x)"
 author: Saurabh Gajula
 description: "Project Review: SLP"
-modified: 2017-12-21
-tags: [Project Reviews,SLP ]
-categories: [SLP]
+modified: 2018-01-04
+tags: [SLP]
 ---
 
 **Project Guide:** Prof. R. P. Shimpi

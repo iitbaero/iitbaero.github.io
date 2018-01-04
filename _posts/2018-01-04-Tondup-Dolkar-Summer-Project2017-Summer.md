@@ -3,9 +3,8 @@ layout: post
 title: "Summer Project: Scramjet Analysis (Fall/Spring 201x)"
 author: Tondup Dolkar
 description: "Project Review: Summer Project"
-modified: 2017-12-21
-tags: [Project Reviews,Summer Project ]
-categories: [Summer Project]
+modified: 2018-01-04
+tags: [Summer Project]
 ---
 
 **Project Guide:** Prof. Krishnendu Sinha

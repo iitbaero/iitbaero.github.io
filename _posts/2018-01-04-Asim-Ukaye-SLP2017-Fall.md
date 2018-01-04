@@ -3,9 +3,8 @@ layout: post
 title: "SLP: Optimization of Wind Farms` (Fall/Spring 201x)"
 author: Asim Ukaye
 description: "Project Review: SLP"
-modified: 2017-12-21
-tags: [Project Reviews,SLP ]
-categories: [SLP]
+modified: 2018-01-04
+tags: [SLP]
 ---
 
 **Project Guide:** R.P. Shimpi

@@ -3,9 +3,8 @@ layout: post
 title: "SLP: Autonomous Indoor Drone Navigation (Fall/Spring 201x)"
 author: Kaustubh Sridhar
 description: "Project Review: SLP"
-modified: 2017-12-21
-tags: [Project Reviews,SLP ]
-categories: [SLP]
+modified: 2018-01-04
+tags: [SLP]
 ---
 
 **Project Guide:** Prof. Hemendra Arya, Prof. Leena Vachhani

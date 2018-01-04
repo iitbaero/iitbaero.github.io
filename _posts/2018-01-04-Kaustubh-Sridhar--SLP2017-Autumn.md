@@ -3,9 +3,8 @@ layout: post
 title: "SLP: Back stepping Control for trajectiry tracking with a Parrot AR Drones (Fall/Spring 201x)"
 author: Kaustubh Sridhar 
 description: "Project Review: SLP"
-modified: 2017-12-21
-tags: [Project Reviews,SLP ]
-categories: [SLP]
+modified: 2018-01-04
+tags: [SLP]
 ---
 
 **Project Guide:** Prof. Srikant Sukumar (syscon), Prof. Hemendra Arya

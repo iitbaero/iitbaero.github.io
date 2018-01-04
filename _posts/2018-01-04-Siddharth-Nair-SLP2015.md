@@ -3,9 +3,8 @@ layout: post
 title: "SLP: Space-filling curves for robotic applications (Fall/Spring 201x)"
 author: Siddharth Nair
 description: "Project Review: SLP"
-modified: 2017-12-21
-tags: [Project Reviews,SLP ]
-categories: [SLP]
+modified: 2018-01-04
+tags: [SLP]
 ---
 
 **Project Guide:** Prof. Arpita Sinha and Prof. Leena Vachhani

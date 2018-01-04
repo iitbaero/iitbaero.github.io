@@ -3,9 +3,8 @@ layout: post
 title: "Non-Credited: Shape optimization of multi element airship envelope for maximizing payload (Fall/Spring 201x)"
 author: Athul Viswam
 description: "Project Review: Non-Credited"
-modified: 2017-12-21
-tags: [Project Reviews,Non-Credited ]
-categories: [Non-Credited]
+modified: 2018-01-04
+tags: [Non-Credited]
 ---
 
 **Project Guide:** Prof Rajkumar S Pant
