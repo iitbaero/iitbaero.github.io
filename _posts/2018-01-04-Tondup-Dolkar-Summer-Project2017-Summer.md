@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summer Project: Scramjet Analysis (Fall/Spring 201x)"
+title: "Summer Project: Scramjet Analysis"
 author: Tondup Dolkar
 description: "Project Review: Summer Project"
 modified: 2018-01-04

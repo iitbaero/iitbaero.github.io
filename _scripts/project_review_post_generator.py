@@ -69,7 +69,7 @@ class PostGenerator:
         header = [
             "---",
             "layout: post",
-            "title: \"" + self.project_type + ": " + self.project_title+ " (Fall/Spring 201x)\"",
+            "title: \"" + self.project_type + ": " + self.project_title,
             "author: " + self.author, "description: \"Project Review: " + self.project_type + "\"",
             "modified: " + self.date,
             "tags: ["+self.project_type+"]",

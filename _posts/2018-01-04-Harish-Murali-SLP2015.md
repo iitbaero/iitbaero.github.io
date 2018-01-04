@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SLP: Simulation of internal flows with ANSYS Fluent (Fall/Spring 201x)"
+title: "SLP: Simulation of internal flows with ANSYS Fluent"
 author: Harish Murali
 description: "Project Review: SLP"
 modified: 2018-01-04

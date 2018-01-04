@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SLP: Orbit Solutions for Non-Spherical Earth Model (Fall/Spring 201x)"
+title: "SLP: Orbit Solutions for Non-Spherical Earth Model"
 author: Anmol Sikka
 description: "Project Review: SLP"
 modified: 2018-01-04

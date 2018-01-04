@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SURP: Technical vetting of a real aircraft (Fall/Spring 201x)"
+title: "SURP: Technical vetting of a real aircraft"
 author: Athul Viswam
 description: "Project Review: SURP"
 modified: 2018-01-04

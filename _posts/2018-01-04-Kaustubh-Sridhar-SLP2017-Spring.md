@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SLP: Autonomous Indoor Drone Navigation (Fall/Spring 201x)"
+title: "SLP: Autonomous Indoor Drone Navigation"
 author: Kaustubh Sridhar
 description: "Project Review: SLP"
 modified: 2018-01-04

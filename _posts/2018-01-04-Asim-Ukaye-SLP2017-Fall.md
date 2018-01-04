@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SLP: Optimization of Wind Farms` (Fall/Spring 201x)"
+title: "SLP: Optimization of Wind Farms"
 author: Asim Ukaye
 description: "Project Review: SLP"
 modified: 2018-01-04

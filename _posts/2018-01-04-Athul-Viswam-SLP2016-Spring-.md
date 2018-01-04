@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SLP: Aerodynamic analysis of airships (Fall/Spring 201x)"
+title: "SLP: Aerodynamic analysis of airships"
 author: Athul Viswam
 description: "Project Review: SLP"
 modified: 2018-01-04

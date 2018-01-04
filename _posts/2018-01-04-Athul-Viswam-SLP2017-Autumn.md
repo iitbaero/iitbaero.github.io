@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SLP: Hypersonic Shock Wave Boundary Layer Interactions (Fall/Spring 201x)"
+title: "SLP: Hypersonic Shock Wave Boundary Layer Interactions"
 author: Athul Viswam
 description: "Project Review: SLP"
 modified: 2018-01-04

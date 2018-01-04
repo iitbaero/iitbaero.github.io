@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SLP: Analysis of fluid flow over 2D bodies using Ansys Fluent  (Fall/Spring 201x)"
+title: "SLP: Analysis of fluid flow over 2D bodies using Ansys Fluent"
 author: Divyanshu Gola
 description: "Project Review: SLP"
 modified: 2018-01-04

@@ -13,7 +13,9 @@ This blog is made with the purpose of sharing course and project reviews through
 * Grading
 * Weightage Distribution
 * Recommendations
+
 and also a brief description of the Courses and Projects as they were run in that year. Help us in spreading this information by sharing the blog link with as many students as possible. 
+
 # The Team
 
 ![Team Photo](https://drive.google.com/uc?export=view&id=0B0utpdeQnMnWaVdZMzI0dnZ1UlU)
@@ -40,27 +42,40 @@ __*Our Goals:*__
 * Team Members are students from 3rd year and above. They are selected through a dynamic process of interviews and peer-to-peer reviews.
 * What we look for? - Students who are motivated in helping others and will be dedicated to do so.
 
-# What is Aerospace Engineering?
+## What is Aerospace Engineering?
 
 ![Aerospace Engineering](/images/aero.gif)
 
-
 <div style="text-align: justify">
-Starting from the stone age, we have built a computer generation now.
-Somewhere in between we saw a dream, to fly, to touch the sky, a dream
-which didn’t let us sleep, for days, for months and for years. In the beginning of
-the 20 th century, the world saw the birth of an engineering discipline. It rapidly
-expanded it’s wings, over the years, a speed with which no technology grew,
-nurtured by the people who made history. Yes, It is nothing but the Aerospace
-Engineering, the technology which gave wings to our desire to fly, the
-technology which put man on moon, the technology which made us move
-faster than the speed of sound which was once thought to be impossible, a
-technology.
+The beginning of
+the 20th century, the world saw the birth of an engineering discipline which rapidly
+expanded it’s wings over the years. Indeed, Aerospace
+Engineering gave wings to our desire to fly, put man on the moon, and took us
+faster than the speed of sound.
 
 Aerospace engineering is a diverse and rapidly changing field which includes
-four major technologies: aerodynamics, dynamics and control, propulsion, and
-structures and materials. The primary application of aerospace engineering is
+four major subdomains: 
+</div>
+
+
+* Aerodynamics
+* Dynamics and Control
+* Propulsion, and
+* Structures and Materials.
+
+<div style="text-align: justify">
+The primary application of aerospace engineering is
 the design and development of aircraft, missiles and spacecraft. However,
-aerospace engineering may also be applied to other vehicles and systems such
+it may also be applied to other vehicles and systems such
 as submarines, automobiles, trains, trucks, buses and rapid transit.
+</div>
+
+
+
+<div style="text-align: center" >
+<div style="color:#0000FF" >
+
+<i>Created and Mantained by: Raj Krishnan & Asim Ukaye</i>
+
+</div>
 </div>

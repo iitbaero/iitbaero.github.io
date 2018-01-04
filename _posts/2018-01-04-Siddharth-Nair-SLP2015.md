@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SLP: Space-filling curves for robotic applications (Fall/Spring 201x)"
+title: "SLP: Space-filling curves for robotic applications"
 author: Siddharth Nair
 description: "Project Review: SLP"
 modified: 2018-01-04
