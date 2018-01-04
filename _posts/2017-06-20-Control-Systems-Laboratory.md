@@ -4,7 +4,6 @@ title: "AE 427: Control Systems Laboratory (Fall 2016)"
 author: Siddharth Nair
 description: "Course Review: AE 427"
 modified: 2017-06-20
-tags: [Course Reviews, Fourth Year Courses]
 categories: [Fourth Year Courses]
 ---
 

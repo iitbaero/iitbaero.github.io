@@ -4,7 +4,6 @@ title: "AE 690: Control System Design Techniques (Spring 2017)"
 author: Siddharth Nair
 description: "Course Review: AE 690"
 modified: 2017-06-23
-tags: [Course Reviews, Elective Courses]
 categories: [Elective Courses]
 ---
 

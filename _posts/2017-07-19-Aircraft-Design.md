@@ -4,7 +4,6 @@ title: "AE 332: Aircraft Design (Spring 2017)"
 author: Harish Murali
 description: "Course Review: AE332"
 modified: 2017-07-19
-tags: [Course Reviews, Third Year Courses]
 categories: [Third Year Courses]
 ---
 

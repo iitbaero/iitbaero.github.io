@@ -4,7 +4,6 @@ title: "AE 238: Aerospace Structural Mechanics (Fall 2016)"
 author: Atharva Sunil Sathe
 description: "Course Review: AE238"
 modified: 2017-06-22
-tags: [Course Reviews, Second Year Courses]
 categories: [Second Year Courses]
 ---
 

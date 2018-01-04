@@ -4,7 +4,6 @@ title: "AE 461: Aviation fuels and Combustion (Fall 2016)"
 author: Krishna Kumar kedia
 description: "Course Review: AE461"
 modified: 2017-07-20
-tags: [Course Reviews, Elective Courses]
 categories: [Elective Courses]
 ---
 

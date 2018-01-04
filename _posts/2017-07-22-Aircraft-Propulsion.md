@@ -4,7 +4,6 @@ title: "AE 234: Aircraft Propulsion (Spring 2017)"
 author: Karthik Mahesh
 description: "Course Review: AE234"
 modified: 2017-07-22
-tags: [Course Reviews, Second Year Courses]
 categories: [Second Year Courses]
 ---
 

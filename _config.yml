@@ -15,13 +15,12 @@ baseurl: ''
 #   To create sub categories. add a submenu item
 # See the example
 menu:
-  - title: 'Home'
-    url: '/'
-  - title: 'Tags'
+  - title: 'Project Reviews'
     url: '/tags'
-  - title: 'Categories'
+  - title: 'Course Reviews'
     url: '/categories'
     type: 'categories'
+
 
 # Owner/author information
 owner:
@@ -48,7 +47,7 @@ sass:
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
-paginate: 5
+# paginate: 5
 
 # if true, shows the floatting share buttons
 float_share: false

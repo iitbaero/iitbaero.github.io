@@ -4,7 +4,6 @@ title: "AE 240: Spaceflight Mechanics (Spring 2017)"
 author: Ayush Khandelwal
 description: "Course Review: AE 240"
 modified: 2017-06-21
-tags: [Course Reviews, Second Year Courses]
 categories: [Second Year Courses]
 ---
 

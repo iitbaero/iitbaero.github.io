@@ -4,7 +4,6 @@ title: "AE 305: Flight Mechanics II (Fall 2016)"
 author: Saurabh Gajula
 description: "Course Review: AE 305"
 modified: 2017-07-21
-tags: [Course Reviews, Third Year Courses]
 categories: [Third Year Courses]
 ---
 

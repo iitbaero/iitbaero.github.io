@@ -4,11 +4,10 @@ title: "AE 639: Continuum Mechanics (Spring 2017)"
 author: Krishna Kumar Kedia
 description: "Course Review: AE639"
 modified: 2017-07-25
-tags: [Course Reviews, Elective Courses]
 categories: [Elective Courses]
 ---
 
-**Course Instructor:** Guruprasad
+**Course Instructor:** PJ Guruprasad
 
 **Course Difficulty:** Moderate
 
