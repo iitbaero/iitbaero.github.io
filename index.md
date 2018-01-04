@@ -70,6 +70,9 @@ it may also be applied to other vehicles and systems such
 as submarines, automobiles, trains, trucks, buses and rapid transit.
 </div>
 
+# Contact Us
+
+Feel free to reach out to us at [iitbaerospace.damp@gmail.com](mailto:iitbaerospace.damp@gmail.com). We are here to help.
 
 
 <div style="text-align: center" >
@@ -79,3 +82,4 @@ as submarines, automobiles, trains, trucks, buses and rapid transit.
 
 </div>
 </div>
+
