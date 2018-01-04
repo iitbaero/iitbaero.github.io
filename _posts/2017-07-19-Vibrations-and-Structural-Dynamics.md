@@ -4,7 +4,6 @@ title: "AE 326: Vibrations and Structural Dynamics (Fall 2016)"
 author: Gopal Kedia 
 description: "Course Review: AE 326"
 modified: 2017-07-19
-tags: [Course Reviews, Third Year Courses]
 categories: [Third Year Courses]
 ---
 

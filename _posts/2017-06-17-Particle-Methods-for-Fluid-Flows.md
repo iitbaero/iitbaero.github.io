@@ -4,7 +4,6 @@ title: "AE 625: Particle Methods for Fluid Flows (Fall 2016)"
 author: Vikas Kurapati
 description: "Course Review: AE625"
 modified: 2017-06-17
-tags: [Course Reviews, Electives]
 categories: [Elective Courses]
 ---
 

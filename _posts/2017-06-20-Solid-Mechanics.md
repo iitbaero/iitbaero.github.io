@@ -4,7 +4,6 @@ title: "AE 227: Solid Mechanics (Fall 2016)"
 author: Athul Viswam
 description: "Course Review: AE 227"
 modified: 2017-06-20
-tags: [Course Reviews, Second Year Courses]
 categories: [Second Year Courses]
 ---
 

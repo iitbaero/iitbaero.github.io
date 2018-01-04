@@ -4,7 +4,6 @@ title: "AE 407: Modelling and Simulation (Fall 2016)"
 author: Siddharth Nair
 description: "Course Review: AE 407"
 modified: 2017-06-23
-tags: [Course Reviews, Elective Courses]
 categories: [Elective Courses]
 ---
 

@@ -4,7 +4,6 @@ title: "AE 152: Introduction to Aerospace Engineering (Spring 2016)"
 author: Anmol Sikka
 description: "Course Review: AE 152"
 modified: 2017-06-19
-tags: [Course Reviews, First Year Courses]
 categories: [First Year Courses]
 ---
 

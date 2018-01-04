@@ -4,7 +4,6 @@ title: "AE 695: State Space Methods for Flight Vehicles (Fall 2016)"
 author: Siddharth Nair
 description: "Course Review: AE 695"
 modified: 2017-06-20
-tags: [Course Reviews, Elective Courses]
 categories: [Elective Courses]
 ---
 

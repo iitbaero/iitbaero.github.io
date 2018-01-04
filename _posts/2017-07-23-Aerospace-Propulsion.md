@@ -4,7 +4,6 @@ title: "AE330: Aerospace Propulsion (Spring 2017)"
 author: Chaitanya
 description: "Course Review: AE330"
 modified: 2017-07-23
-tags: [Course Reviews, Third Year Courses]
 categories: [Third Year Courses]
 ---
 

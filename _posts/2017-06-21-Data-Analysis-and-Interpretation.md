@@ -4,7 +4,6 @@ title: "AE 102: Data Analysis and Interpretation (Spring 2016)"
 author: Vrushabh Parsawar
 description: "Course Review: AE 102"
 modified: 2017-06-21
-tags: [Course Reviews, First Year Courses]
 categories: [First Year Courses]
 ---
 

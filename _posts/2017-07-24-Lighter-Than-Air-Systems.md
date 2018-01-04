@@ -4,7 +4,6 @@ title: "AE488/AE664: Lighter-Than-Air Systems (Spring 2017)"
 author: Chaitanya
 description: "Course Review: AE488/AE664"
 modified: 2017-07-24
-tags: [Course Reviews, Elective Courses]
 categories: [Elective Courses]
 ---
 

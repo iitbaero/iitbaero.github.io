@@ -4,7 +4,6 @@ title: "AE 223: Thermodynamics and Propulsion (Fall 2016)"
 author: Shashank Verma
 description: "Course Review: AE223"
 modified: 2017-06-17
-tags: [Course Reviews, Second Year Courses]
 categories: [Second Year Courses]
 ---
 
