@@ -14,6 +14,7 @@ This blog is made with the purpose of sharing course and project reviews through
 * Weightage Distribution
 * Recommendations
 and also a brief description of the Courses and Projects as they were run in that year. Help us in spreading this information by sharing the blog link with as many students as possible. 
+
 # The Team
 
 ![Team Photo](https://drive.google.com/uc?export=view&id=0B0utpdeQnMnWaVdZMzI0dnZ1UlU)
@@ -64,3 +65,8 @@ the design and development of aircraft, missiles and spacecraft. However,
 aerospace engineering may also be applied to other vehicles and systems such
 as submarines, automobiles, trains, trucks, buses and rapid transit.
 </div>
+
+# Contact Us
+
+Feel free to reach out to us at [iitbaerospace.damp@gmail.com](mailto:iitbaerospace.damp@gmail.com). We are here to help.
+
