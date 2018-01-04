@@ -18,6 +18,10 @@ menu:
   - title: 'Course Reviews'
     url: '/categories'
     type: 'categories'
+  - title: 'Project Reviews'
+    url: '/categories'
+    type: 'categories'
+
 
 # Owner/author information
 owner:

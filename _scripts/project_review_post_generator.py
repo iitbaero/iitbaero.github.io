@@ -72,8 +72,8 @@ class PostGenerator:
             "title: \"" + self.project_type + ": " + self.project_title+ " (Fall/Spring 201x)\"",
             "author: " + self.author, "description: \"Project Review: " + self.project_type + "\"",
             "modified: " + self.date,
-            "tags: [Project Reviews,"+self.project_type +" ]",
-            "categories: ["+self.project_type +"]",
+            "tags: ["+self.project_type+"]",
+            #"categories: ["+self.project_type +"]",
             "---"
         ]
 
@@ -109,7 +109,7 @@ class PostGenerator:
         self.generate_footer()
 
     def save_post(self):
-        f = open(self.author.replace(" ", "-")+"-"+self.project_type.replace(" ", "-")+ self.course_iteration.replace(" ", "-")+".md", "w")
+        f = open(self.date+"-"+self.author.replace(" ", "-")+"-"+self.project_type.replace(" ", "-")+ self.course_iteration.replace(" ", "-")+".md", "w")
         f.write("\n\n".join(self.post))
         f.close()
 
