@@ -7,7 +7,7 @@ comments: false
 
 # About this Blog
 
-This blog is made with the purpose of sharing course and project reviews through our team for helping out the upcoming batches. There are presently __21__ course reviews and __15__ Project Reviews on this blog, and we hope to put more with time. The reviews provided will give you an insight about:
+This blog is made with the purpose of sharing course and project reviews through our team for helping out the upcoming batches. There are presently __21__ Course Reviews and __15__ Project Reviews on this blog, and we hope to put more with time. The reviews provided will give you an insight about:
 * Difficulty
 * Time Commitment
 * Grading
