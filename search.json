@@ -1,9 +1,144 @@
 [
   
     {
+      "title"    : "Summer Project: Scramjet Analysis",
+      "category" : "",
+      "tags"     : "Summer Project",
+      "url"      : "https://iitbaero.github.io/Tondup-Dolkar-Summer-Project2017-Summer/",
+      "date"     : "2018-01-04 00:00:00 +0530",
+      "author"   : "Tondup Dolkar"
+    } ,
+  
+    {
+      "title"    : "SLP: Space-filling curves for robotic applications",
+      "category" : "",
+      "tags"     : "SLP",
+      "url"      : "https://iitbaero.github.io/Siddharth-Nair-SLP2015/",
+      "date"     : "2018-01-04 00:00:00 +0530",
+      "author"   : "Siddharth Nair"
+    } ,
+  
+    {
+      "title"    : "SLP: Case studies on Sentiment analysis and it&#39;s applicatoins",
+      "category" : "",
+      "tags"     : "SLP",
+      "url"      : "https://iitbaero.github.io/Saurabh-Gajula-SLP2017/",
+      "date"     : "2018-01-04 00:00:00 +0530",
+      "author"   : "Saurabh Gajula"
+    } ,
+  
+    {
+      "title"    : "SLP: Autonomous Indoor Drone Navigation",
+      "category" : "",
+      "tags"     : "SLP",
+      "url"      : "https://iitbaero.github.io/Kaustubh-Sridhar-SLP2017-Spring/",
+      "date"     : "2018-01-04 00:00:00 +0530",
+      "author"   : "Kaustubh Sridhar"
+    } ,
+  
+    {
+      "title"    : "SLP: Back stepping Control for trajectiry tracking with a Parrot AR Drones",
+      "category" : "",
+      "tags"     : "SLP",
+      "url"      : "https://iitbaero.github.io/Kaustubh-Sridhar-SLP2017-Autumn/",
+      "date"     : "2018-01-04 00:00:00 +0530",
+      "author"   : "Kaustubh Sridhar"
+    } ,
+  
+    {
+      "title"    : "SLP: Simulation of internal flows with ANSYS Fluent",
+      "category" : "",
+      "tags"     : "SLP",
+      "url"      : "https://iitbaero.github.io/Harish-Murali-SLP2015/",
+      "date"     : "2018-01-04 00:00:00 +0530",
+      "author"   : "Harish Murali"
+    } ,
+  
+    {
+      "title"    : "SLP: Analysis of fluid flow over 2D bodies using Ansys Fluent",
+      "category" : "",
+      "tags"     : "SLP",
+      "url"      : "https://iitbaero.github.io/Divyanshu-Gola-SLP2017-Spring/",
+      "date"     : "2018-01-04 00:00:00 +0530",
+      "author"   : "Divyanshu Gola"
+    } ,
+  
+    {
+      "title"    : "BTP: Design of an aerostat for agricultural purposes",
+      "category" : "",
+      "tags"     : "BTP",
+      "url"      : "https://iitbaero.github.io/Chaitanya-BTP2016-17/",
+      "date"     : "2018-01-04 00:00:00 +0530",
+      "author"   : "Chaitanya"
+    } ,
+  
+    {
+      "title"    : "SURP: Technical vetting of a real aircraft",
+      "category" : "",
+      "tags"     : "SURP",
+      "url"      : "https://iitbaero.github.io/Athul-Viswam-SURP2017-Summer/",
+      "date"     : "2018-01-04 00:00:00 +0530",
+      "author"   : "Athul Viswam"
+    } ,
+  
+    {
+      "title"    : "SLP: Hypersonic Shock Wave Boundary Layer Interactions",
+      "category" : "",
+      "tags"     : "SLP",
+      "url"      : "https://iitbaero.github.io/Athul-Viswam-SLP2017-Autumn/",
+      "date"     : "2018-01-04 00:00:00 +0530",
+      "author"   : "Athul Viswam"
+    } ,
+  
+    {
+      "title"    : "SLP: Aerodynamic analysis of airships",
+      "category" : "",
+      "tags"     : "SLP",
+      "url"      : "https://iitbaero.github.io/Athul-Viswam-SLP2016-Spring/",
+      "date"     : "2018-01-04 00:00:00 +0530",
+      "author"   : "Athul Viswam"
+    } ,
+  
+    {
+      "title"    : "Non-Credited: Shape optimization of multi element airship envelope for maximizing payload",
+      "category" : "",
+      "tags"     : "Non-Credited",
+      "url"      : "https://iitbaero.github.io/Athul-Viswam-Non-Credited2017-Summer/",
+      "date"     : "2018-01-04 00:00:00 +0530",
+      "author"   : "Athul Viswam"
+    } ,
+  
+    {
+      "title"    : "SLP: Optimization of Wind Farms",
+      "category" : "",
+      "tags"     : "SLP",
+      "url"      : "https://iitbaero.github.io/Asim-Ukaye-SLP2017-Fall/",
+      "date"     : "2018-01-04 00:00:00 +0530",
+      "author"   : "Asim Ukaye"
+    } ,
+  
+    {
+      "title"    : "BTP: Study of Control in Wind Turbine",
+      "category" : "",
+      "tags"     : "BTP",
+      "url"      : "https://iitbaero.github.io/Asim-Ukaye-BTP2016-17/",
+      "date"     : "2018-01-04 00:00:00 +0530",
+      "author"   : "Asim Ukaye"
+    } ,
+  
+    {
+      "title"    : "SLP: Orbit Solutions for Non-Spherical Earth Model",
+      "category" : "",
+      "tags"     : "SLP",
+      "url"      : "https://iitbaero.github.io/Anmol-Sikka-SLP2017-Fall/",
+      "date"     : "2018-01-04 00:00:00 +0530",
+      "author"   : "Anmol Sikka"
+    } ,
+  
+    {
       "title"    : "AE 639: Continuum Mechanics (Spring 2017)",
       "category" : "",
-      "tags"     : "Course Reviews, Elective Courses",
+      "tags"     : "",
       "url"      : "https://iitbaero.github.io/elective%20courses/Continuum-Mechanics/",
       "date"     : "2017-07-25 00:00:00 +0530",
       "author"   : "Krishna Kumar Kedia"
@@ -12,7 +147,7 @@
     {
       "title"    : "AE488/AE664: Lighter-Than-Air Systems (Spring 2017)",
       "category" : "",
-      "tags"     : "Course Reviews, Elective Courses",
+      "tags"     : "",
       "url"      : "https://iitbaero.github.io/elective%20courses/Lighter-Than-Air-Systems/",
       "date"     : "2017-07-24 00:00:00 +0530",
       "author"   : "Chaitanya"
@@ -21,7 +156,7 @@
     {
       "title"    : "AE330: Aerospace Propulsion (Spring 2017)",
       "category" : "",
-      "tags"     : "Course Reviews, Third Year Courses",
+      "tags"     : "",
       "url"      : "https://iitbaero.github.io/third%20year%20courses/Aerospace-Propulsion/",
       "date"     : "2017-07-23 00:00:00 +0530",
       "author"   : "Chaitanya"
@@ -30,7 +165,7 @@
     {
       "title"    : "AE 234: Aircraft Propulsion (Spring 2017)",
       "category" : "",
-      "tags"     : "Course Reviews, Second Year Courses",
+      "tags"     : "",
       "url"      : "https://iitbaero.github.io/second%20year%20courses/Aircraft-Propulsion/",
       "date"     : "2017-07-22 00:00:00 +0530",
       "author"   : "Karthik Mahesh"
@@ -39,7 +174,7 @@
     {
       "title"    : "AE 305: Flight Mechanics II (Fall 2016)",
       "category" : "",
-      "tags"     : "Course Reviews, Third Year Courses",
+      "tags"     : "",
       "url"      : "https://iitbaero.github.io/third%20year%20courses/Flight-Mechanics-II/",
       "date"     : "2017-07-21 00:00:00 +0530",
       "author"   : "Saurabh Gajula"
@@ -48,7 +183,7 @@
     {
       "title"    : "AE 461: Aviation fuels and Combustion (Fall 2016)",
       "category" : "",
-      "tags"     : "Course Reviews, Elective Courses",
+      "tags"     : "",
       "url"      : "https://iitbaero.github.io/elective%20courses/Aviation-fuels-and-combustion/",
       "date"     : "2017-07-20 00:00:00 +0530",
       "author"   : "Krishna Kumar kedia"
@@ -57,7 +192,7 @@
     {
       "title"    : "AE 326: Vibrations and Structural Dynamics (Fall 2016)",
       "category" : "",
-      "tags"     : "Course Reviews, Third Year Courses",
+      "tags"     : "",
       "url"      : "https://iitbaero.github.io/third%20year%20courses/Vibrations-and-Structural-Dynamics/",
       "date"     : "2017-07-19 00:00:00 +0530",
       "author"   : "Gopal Kedia"
@@ -66,7 +201,7 @@
     {
       "title"    : "AE 332: Aircraft Design (Spring 2017)",
       "category" : "",
-      "tags"     : "Course Reviews, Third Year Courses",
+      "tags"     : "",
       "url"      : "https://iitbaero.github.io/third%20year%20courses/Aircraft-Design/",
       "date"     : "2017-07-19 00:00:00 +0530",
       "author"   : "Harish Murali"
@@ -75,7 +210,7 @@
     {
       "title"    : "AE 407: Modelling and Simulation (Fall 2016)",
       "category" : "",
-      "tags"     : "Course Reviews, Elective Courses",
+      "tags"     : "",
       "url"      : "https://iitbaero.github.io/elective%20courses/Modelling-and-Simulation/",
       "date"     : "2017-06-23 00:00:00 +0530",
       "author"   : "Siddharth Nair"
@@ -84,7 +219,7 @@
     {
       "title"    : "AE 690: Control System Design Techniques (Spring 2017)",
       "category" : "",
-      "tags"     : "Course Reviews, Elective Courses",
+      "tags"     : "",
       "url"      : "https://iitbaero.github.io/elective%20courses/Control-System-Design-Techniques/",
       "date"     : "2017-06-23 00:00:00 +0530",
       "author"   : "Siddharth Nair"
@@ -93,8 +228,8 @@
     {
       "title"    : "AE 225: Incompressible Fluid Mechanics (Fall 2016)",
       "category" : "",
-      "tags"     : "Course Reviews, Second Year Course Reviews",
-      "url"      : "https://iitbaero.github.io/second%20year%20course%20reviews/Incompressible-Fluid-Mechanics/",
+      "tags"     : "",
+      "url"      : "https://iitbaero.github.io/second%20year%20courses/Incompressible-Fluid-Mechanics/",
       "date"     : "2017-06-22 00:00:00 +0530",
       "author"   : "Kaustubh Sridhar"
     } ,
@@ -102,7 +237,7 @@
     {
       "title"    : "AE 238: Aerospace Structural Mechanics (Fall 2016)",
       "category" : "",
-      "tags"     : "Course Reviews, Second Year Courses",
+      "tags"     : "",
       "url"      : "https://iitbaero.github.io/second%20year%20courses/Aerospace-Structural-Mechanics/",
       "date"     : "2017-06-22 00:00:00 +0530",
       "author"   : "Atharva Sunil Sathe"
@@ -111,7 +246,7 @@
     {
       "title"    : "AE 240: Spaceflight Mechanics (Spring 2017)",
       "category" : "",
-      "tags"     : "Course Reviews, Second Year Courses",
+      "tags"     : "",
       "url"      : "https://iitbaero.github.io/second%20year%20courses/Spaceflight-Mechanics/",
       "date"     : "2017-06-21 00:00:00 +0530",
       "author"   : "Ayush Khandelwal"
@@ -120,7 +255,7 @@
     {
       "title"    : "AE 102: Data Analysis and Interpretation (Spring 2016)",
       "category" : "",
-      "tags"     : "Course Reviews, First Year Courses",
+      "tags"     : "",
       "url"      : "https://iitbaero.github.io/first%20year%20courses/Data-Analysis-and-Interpretation/",
       "date"     : "2017-06-21 00:00:00 +0530",
       "author"   : "Vrushabh Parsawar"
@@ -129,7 +264,7 @@
     {
       "title"    : "AE 695: State Space Methods for Flight Vehicles (Fall 2016)",
       "category" : "",
-      "tags"     : "Course Reviews, Elective Courses",
+      "tags"     : "",
       "url"      : "https://iitbaero.github.io/elective%20courses/State-Space-Methods-for-Flight-Vehicles/",
       "date"     : "2017-06-20 00:00:00 +0530",
       "author"   : "Siddharth Nair"
@@ -138,7 +273,7 @@
     {
       "title"    : "AE 227: Solid Mechanics (Fall 2016)",
       "category" : "",
-      "tags"     : "Course Reviews, Second Year Courses",
+      "tags"     : "",
       "url"      : "https://iitbaero.github.io/second%20year%20courses/Solid-Mechanics/",
       "date"     : "2017-06-20 00:00:00 +0530",
       "author"   : "Athul Viswam"
@@ -147,7 +282,7 @@
     {
       "title"    : "AE 427: Control Systems Laboratory (Fall 2016)",
       "category" : "",
-      "tags"     : "Course Reviews, Fourth Year Courses",
+      "tags"     : "",
       "url"      : "https://iitbaero.github.io/fourth%20year%20courses/Control-Systems-Laboratory/",
       "date"     : "2017-06-20 00:00:00 +0530",
       "author"   : "Siddharth Nair"
@@ -156,7 +291,7 @@
     {
       "title"    : "AE 152: Introduction to Aerospace Engineering (Spring 2016)",
       "category" : "",
-      "tags"     : "Course Reviews, First Year Courses",
+      "tags"     : "",
       "url"      : "https://iitbaero.github.io/first%20year%20courses/Introduction-to-Aerospace-Engineering/",
       "date"     : "2017-06-19 00:00:00 +0530",
       "author"   : "Anmol Sikka"
@@ -165,7 +300,7 @@
     {
       "title"    : "AE 429: Aircraft Design Lab (Fall 2016)",
       "category" : "",
-      "tags"     : "Course Reviews, Fourth Year Courses",
+      "tags"     : "",
       "url"      : "https://iitbaero.github.io/fourth%20year%20courses/Aircraft-Design-Lab/",
       "date"     : "2017-06-18 00:00:00 +0530",
       "author"   : "Vikas Kurapati"
@@ -174,7 +309,7 @@
     {
       "title"    : "AE 223: Thermodynamics and Propulsion (Fall 2016)",
       "category" : "",
-      "tags"     : "Course Reviews, Second Year Courses",
+      "tags"     : "",
       "url"      : "https://iitbaero.github.io/second%20year%20courses/Thermodynamics/",
       "date"     : "2017-06-17 00:00:00 +0530",
       "author"   : "Shashank Verma"
@@ -183,7 +318,7 @@
     {
       "title"    : "AE 625: Particle Methods for Fluid Flows (Fall 2016)",
       "category" : "",
-      "tags"     : "Course Reviews, Electives",
+      "tags"     : "",
       "url"      : "https://iitbaero.github.io/elective%20courses/Particle-Methods-for-Fluid-Flows/",
       "date"     : "2017-06-17 00:00:00 +0530",
       "author"   : "Vikas Kurapati"
