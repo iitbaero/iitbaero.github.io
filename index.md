@@ -5,13 +5,21 @@ tags: []
 comments: false
 ---
 
+# About this Blog
 
+This blog is made with the purpose of sharing course and project reviews through our team for helping out the upcoming batches. There are presently __21__ course reviews and __15__ Project Reviews on this blog, and we hope to put more with time. The reviews provided will give you an insight about:
+* Difficulty
+* Time Commitment
+* Grading
+* Weightage Distribution
+* Recommendations
+and also a brief description of the Courses and Projects as they were run in that year. Help us in spreading this information by sharing the blog link with as many students as possible. 
 # The Team
 
 ![Team Photo](https://drive.google.com/uc?export=view&id=0B0utpdeQnMnWaVdZMzI0dnZ1UlU)
 
 <div style="text-align: justify">
-The Department Academic Mentorship Program(DAMP) team, Aerospace Engineering, IITB consists of 23 exuberant and highly motivated students working towards helping the students gain an invigorating and intellectually challenging academic experience in the department at IITB by provided the necessary help and guidance.
+The Department Academic Mentorship Program (DAMP) team, Aerospace Engineering, IITB consists of 23 exuberant and highly motivated students working towards helping the students gain an invigorating and intellectually challenging academic experience in the department at IITB by provided the necessary help and guidance.
 </div>
 
 __*Our Vision:*__
