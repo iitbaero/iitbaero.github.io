@@ -46,7 +46,9 @@ __*Our Goals:*__
 
 # The Team
 
-Kaustubh Sridhar (Coordinator)                                           Shashank Verma (Coordinator)
+Kaustubh Sridhar (Coordinator)                                     |  Shashank Verma (Coordinator)
+-------------------------------------------------------------------|-------------------------------------------------------------------
+                                                                   |                                                                   
 ![cos](https://drive.google.com/uc?id=1_B714nnytqfWnsqTuydtAklAKqWum8A4)
 
 ![TEAM PHOTO]()
