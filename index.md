@@ -50,6 +50,7 @@ Kaustubh Sridhar (Coordinator)                                        |  Shashan
 ----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------
 ![](https://drive.google.com/uc?id=14iRWLS1EgFxhFCeHCycE_cez7Lkgu-or) |  ![](https://drive.google.com/uc?id=1JDwmC4uzOjHfMGOvY_WY5clbqmGRUEpv)
 
+![TEAM PHOTO]()
 # Contact Us
 
 Feel free to reach out to us at [kaysri2007@gmail.com](mailto:kaysri2007@gmail.com) or [shashankoxy@gmail.com](mailto:shashankoxy@gmail.com). We are here to help.
