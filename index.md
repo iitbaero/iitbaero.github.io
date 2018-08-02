@@ -9,7 +9,11 @@ comments: false
 
 This blog is made with the purpose of being the "go-to" place for anything and everything Aerspace Engineering related at IIT Bombay. At present this blog contains course review, project reviews, posts by Alumni and resources (links to study material, previous year question papers, etc) to help out students of IIT Bombay .
 
-# The Team
+# The Department Academic Mentorship Program (or DAMP)
+
+Team Coordinators
+
+![K
 
 ![Team Photo](https://drive.google.com/uc?export=view&id=0B0utpdeQnMnWaVdZMzI0dnZ1UlU)
 
