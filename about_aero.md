@@ -1,3 +1,10 @@
+---
+layout: page
+title: "About Aerospace"
+tags: []
+comments: true
+---
+
 # About the Aerospace Engineering Department
 ## What is Aerospace Engineering? - A brief introduction
 
