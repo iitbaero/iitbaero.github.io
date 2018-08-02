@@ -15,17 +15,18 @@ baseurl: ''
 #   To create sub categories. add a submenu item
 # See the example
 menu:
-#  - title: 'About Aero'
-#    url: '/about_aero'
-  - title: 'Project Reviews'
-    url: '/tags'
-  - title: 'Course Reviews'
-    url: '/categories'
-    type: 'categories'
-#  - title: 'Resources'
-#    url: '/resources'
-#  - title: 'Previous Teams'
-#    url: '/prev_teams'
+  submenu:
+    - title: 'About Aero'
+      url: '/about_aero'
+    - title: 'Project Reviews'
+      url: '/tags'
+    - title: 'Course Reviews'
+      url: '/categories'
+      type: 'categories'
+    - title: 'Resources'
+      url: '/resources'
+    - title: 'Previous Teams'
+      url: '/prev_teams'
 
 
 # Owner/author information
