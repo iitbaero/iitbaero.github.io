@@ -17,15 +17,21 @@ baseurl: ''
 menu:
   - title: 'About Aero'
     url: '/about_aero'
-  - title: 'Project Reviews'
-    url: '/tags'
-  - title: 'Course Reviews'
-    url: '/categories'
-    type: 'categories'
+  - title: 'Reviews'
+    url: '#'
+    submenu:
+    - title: 'Project Reviews'
+      url: '/tags'
+    - title: 'Course Reviews'
+      url: '/categories'
+      type: 'categories'
   - title: 'Resources'
     url: '/resources'
-  - title: 'Previous Teams'
-    url: '/prev_teams'
+  - title: 'Misc'
+    url: '#'
+    submenu:
+    - title: 'Previous Teams'
+      url: '/prev_teams'
 
 
 # Owner/author information
