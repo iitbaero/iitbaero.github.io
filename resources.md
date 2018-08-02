@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Resources"
+tags: []
+comments: true
+---
 # Resources for Academics at Aerospace, IIT B
 
 ## Reference Books
