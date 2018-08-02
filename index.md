@@ -7,14 +7,7 @@ comments: false
 
 # About this Blog
 
-This blog is made with the purpose of sharing course and project reviews through our team for helping out the upcoming batches. There are presently __21__ Course Reviews and __15__ Project Reviews on this blog, and we hope to put more with time. The reviews provided will give you an insight about:
-* Difficulty
-* Time Commitment
-* Grading
-* Weightage Distribution
-* Recommendations
-
-and also a brief description of the Courses and Projects as they were run in that year. Help us in spreading this information by sharing the blog link with as many students as possible. 
+This blog is made with the purpose of being the "go-to" place for anything and everything Aerspace Engineering related at IIT Bombay. At present this blog contains course review, project reviews, posts by Alumni and resources (links to study material, previous year question papers, etc) to help out students of IIT Bombay .
 
 # The Team
 
