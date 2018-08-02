@@ -1,5 +1,5 @@
-title:            DAMP, Aerospace Engineering
-description:      DAMP, Aerospace Engineering
+title:            DAMP, Aero
+description:      DAMP, Aero
 
 reading_time:     false # if true, shows the estimated reading time for a post
 
@@ -73,6 +73,5 @@ titlecase: true
 include: [".htaccess"]
 exclude: ["demo/*", "lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "vendor"]
 gems: [jekyll-paginate, jekyll-sitemap]
-#theme: neo-hpstr-jekyll-theme
-theme: jekyll-theme-modernist
+theme: neo-hpstr-jekyll-theme
 
