@@ -18,12 +18,12 @@ The Department Academic Mentorship Program (DAMP) team, Aerospace Engineering, I
 </div>
 
 __*How can a DAMP mentor help you?*__
-> If you are a freshmen: 
+1. If you are a freshmen: 
   * The DAMP team will be instrumental in conducting session to keep you informed of your options across the spectrum towards the end of your first year. 
-> If you are a rising sophomore: 
+2. If you are a rising sophomore: 
   * Your DAMP mentor will help ease your transition into department specific courses and actvities
   * Your DAMP mentor would act as a guiding hand in resolving your academic and non-academic issues
-> If you are an upperclassman (third year and higher) who has been allotted a DAMP mentor:
+3. If you are an upperclassman (third year and higher) who has been allotted a DAMP mentor:
   * Your DAMP mentor will help you overcome any difficulties and accelerate your academic performance
 
 __*Our Vision:*__
@@ -47,8 +47,8 @@ __*Our Goals:*__
 # The Team
 
 Kaustubh Sridhar (Coordinator)                                           |  Shashank Verma (Coordinator)
-:-----------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:
-![](https://drive.google.com/uc?id=14iRWLS1EgFxhFCeHCycE_cez7Lkgu-or)  |  ![](https://drive.google.com/uc?id=1JDwmC4uzOjHfMGOvY_WY5clbqmGRUEpv)
+-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------
+![](https://drive.google.com/uc?id=14iRWLS1EgFxhFCeHCycE_cez7Lkgu-or = 200x200)  |  ![](https://drive.google.com/uc?id=1JDwmC4uzOjHfMGOvY_WY5clbqmGRUEpv = 200x200)
 
 # Contact Us
 
