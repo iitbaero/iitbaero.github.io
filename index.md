@@ -9,17 +9,22 @@ comments: false
 
 This blog is made with the purpose of being the "go-to" place for anything and everything Aerspace Engineering related at IIT Bombay. At present this blog contains course review, project reviews, posts by Alumni and resources (links to study material, previous year question papers, etc) to help out students of IIT Bombay .
 
-# The Department Academic Mentorship Program (or DAMP)
+# The Department Academic Mentorship Program
 
-Team Coordinators
-
-![K
-
-![Team Photo](https://drive.google.com/uc?export=view&id=0B0utpdeQnMnWaVdZMzI0dnZ1UlU)
+__*What is DAMP?*__
 
 <div style="text-align: justify">
-The Department Academic Mentorship Program (DAMP) team, Aerospace Engineering, IITB consists of 23 exuberant and highly motivated students working towards helping the students gain an invigorating and intellectually challenging academic experience in the department at IITB by provided the necessary help and guidance.
+The Department Academic Mentorship Program (DAMP) team, Aerospace Engineering, IITB consists of 22 exuberant and highly motivated students working towards providing the necessary help and guidance to all sophomores and underperforming upperclassmen. 
 </div>
+
+__*How can a DAMP mentor help you?*__
+> If you are a freshmen: 
+  * The DAMP team will be instrumental in conducting session to keep you informed of your options across the spectrum towards the end of your first year. 
+> If you are a rising sophomore: 
+  * Your DAMP mentor will help ease your transition into department specific courses and actvities
+  * Your DAMP mentor would act as a guiding hand in resolving your academic and non-academic issues
+> If you are an upperclassman (third year and higher) who has been allotted a DAMP mentor:
+  * Your DAMP mentor will help you overcome any difficulties and accelerate your academic performance
 
 __*Our Vision:*__
 > *Make Aerospace DAMP team a role model to the entire Institute for how effective academic mentorship is done.*
@@ -29,53 +34,31 @@ __*Our Goals:*__
 * Motivate students to perform better in academics as well as encourage them to excel in their other interests.
 * Improve communication between the faculty and students.
 
-## Initiatitives by the 2017-18 team:
-* Setting up the new __Department Academic Volunteer Programme__ . This new wing of the DAMP team focuses on conducting Academic Help Sessions for students and takes up other teaching related activities.
-* Creating an **ARP guideline** for helping ARP students in the most effective way.
-* Starting **Math Help Sessions** for students to boost Mathematical skills.
-* Move to increase the number of Department Electives for UG students.
+## Initiatitives by the 2018-19 team:
+* Revamp the __Department Academic Volunteer Programme__ . This wing of the DAMP team focuses on conducting "Basics" and "Doubt Clearing" Academic Help Sessions for students.
+* To conduct a Aerospace Fcaulty Research Presentation and Luncheon to improve student-faculty relations
+* Continuing the highly-regarded novel approach to boosting Mathematical skills of underperforming students through  **Math Help Sessions**.
+* To discuss the possible reconstruction of curriculum and introduction of new courses/electives
 
 ## How to be a part of the team?
-* Team Members are students from 3rd year and above. They are selected through a dynamic process of interviews and peer-to-peer reviews.
+* Team Members are students from 3rd year and above. They are selected through a dynamic process of interviews and peer reviews.
 * What we look for? - Students who are motivated in helping others and will be dedicated to do so.
 
-## What is Aerospace Engineering?
+# The Team
 
-![Aerospace Engineering](/images/aero.gif)
-
-<div style="text-align: justify">
-The beginning of
-the 20th century, the world saw the birth of an engineering discipline which rapidly
-expanded it’s wings over the years. Indeed, Aerospace
-Engineering gave wings to our desire to fly, put man on the moon, and took us
-faster than the speed of sound.
-
-Aerospace engineering is a diverse and rapidly changing field which includes
-four major subdomains: 
-</div>
-
-
-* Aerodynamics
-* Dynamics and Control
-* Propulsion, and
-* Structures and Materials.
-
-<div style="text-align: justify">
-The primary application of aerospace engineering is
-the design and development of aircraft, missiles and spacecraft. However,
-it may also be applied to other vehicles and systems such
-as submarines, automobiles, trains, trucks, buses and rapid transit.
-</div>
+Kaustubh Sridhar (Coordinator)                                           |  Shashank Verma (Coordinator)
+:-----------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:
+![](https://drive.google.com/open?id=14iRWLS1EgFxhFCeHCycE_cez7Lkgu-or)  |  ![](https://drive.google.com/open?id=1JDwmC4uzOjHfMGOvY_WY5clbqmGRUEpv)
 
 # Contact Us
 
-Feel free to reach out to us at [iitbaerospace.damp@gmail.com](mailto:iitbaerospace.damp@gmail.com). We are here to help.
+Feel free to reach out to us at [kaysri2007@gmail.com](mailto:kaysri2007@gmail.com) or [shashankoxy@gmail.com](mailto:shashankoxy@gmail.com). We are here to help.
 
 
 <div style="text-align: center" >
 <div style="color:#0000FF" >
 
-<i>Created and Mantained by: Raj Krishnan & Asim Ukaye</i>
+<i>Created and Mantained by: Kaustubh Sridhar, Shashank Verma, Raj Krishnan, Asim Ukaye</i>
 
 </div>
 </div>
