@@ -5,7 +5,6 @@ tags: []
 comments: true
 ---
 
-# Previous DAMP teams of Aerospace Engineering
 ## DAMP Team 2017-18
 
 ![Team Photo](https://drive.google.com/uc?export=view&id=0B0utpdeQnMnWaVdZMzI0dnZ1UlU)
