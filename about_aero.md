@@ -1,4 +1,5 @@
-# What is Aerospace Engineering?
+# About the Aerospace Engineering Department
+## What is Aerospace Engineering? - A brief introduction
 
 ![Aerospace Engineering](/images/aero.gif)
 
