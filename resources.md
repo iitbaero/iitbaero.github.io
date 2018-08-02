@@ -1,11 +1,9 @@
 ---
 layout: page
-title: "Resources"
+title: "Resources for Academics at Aerospace, IIT B"
 tags: []
 comments: true
 ---
-# Resources for Academics at Aerospace, IIT B
-
 ## Reference Books
 Drive Link - 
 ## Repository of previous year question papers
