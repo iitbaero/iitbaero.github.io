@@ -44,11 +44,7 @@ __*Our Goals:*__
 * Team Members are students from 3rd year and above. They are selected through a dynamic process of interviews and peer reviews.
 * What we look for? - Students who are motivated in helping others and will be dedicated to do so.
 
-# The Team
-
-Kaustubh Sridhar (Coordinator)                                     |  Shashank Verma (Coordinator)
--------------------------------------------------------------------|-------------------------------------------------------------------
-                                                                   |                                                                   
+# The Team                                                           
 ![cos](https://drive.google.com/uc?id=1_B714nnytqfWnsqTuydtAklAKqWum8A4)
 
 ![TEAM PHOTO]()
