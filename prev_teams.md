@@ -1,5 +1,5 @@
 # DAMP Team 2017-18
-
+DAMP Cooridnators: Asim Ukaye and Raj Krishnan
 ![Team Photo](https://drive.google.com/uc?export=view&id=0B0utpdeQnMnWaVdZMzI0dnZ1UlU)
 
 ## Initiatitives by the 2017-18 team:
