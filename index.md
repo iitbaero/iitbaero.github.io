@@ -48,7 +48,7 @@ __*Our Goals:*__
 
 Kaustubh Sridhar (Coordinator)                                           |  Shashank Verma (Coordinator)
 :-----------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:
-![](https://drive.google.com/open?id=14iRWLS1EgFxhFCeHCycE_cez7Lkgu-or)  |  ![](https://drive.google.com/open?id=1JDwmC4uzOjHfMGOvY_WY5clbqmGRUEpv)
+![](https://drive.google.com/uc?id=14iRWLS1EgFxhFCeHCycE_cez7Lkgu-or)  |  ![](https://drive.google.com/uc?id=1JDwmC4uzOjHfMGOvY_WY5clbqmGRUEpv)
 
 # Contact Us
 
