@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AE 332: Aircraft Design (Spring 2018)"
+author: Kaustubh Sridhar
 description: "Course Review: AE 332"
 modified: 2017-06-17
 categories: Third Year Courses
