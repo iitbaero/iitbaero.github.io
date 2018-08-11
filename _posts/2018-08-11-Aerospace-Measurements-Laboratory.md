@@ -61,7 +61,5 @@ If you already have a descent background of electrical it will be easy for you t
 **References used in this course:**
 Slides and other material provided by professor is enough.
 
-**How strongly would you recommend someone for taking this course?:**
-Not Recommended
 
 ###### Disclaimer:The content of this website are opinions expressed by individual students. The information provided is for guidance purposes. Use the information at your own risk.
