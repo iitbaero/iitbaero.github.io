@@ -4,7 +4,7 @@ title: "AE 326: Vibrations and Structural Dynamics (Fall 2017)"
 author: Ayush Khandelwal
 description: "Course Review: AE326"
 modified: 2017-06-17
-categories: Third Year Courses
+categories: [Third Year Courses]
 ---
 
 **Course Instructor:** Prof. RP Shimpi
