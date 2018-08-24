@@ -3,7 +3,7 @@ layout: post
 title: "AE 407: Modelling and Simulation (Fall 2017)"
 author: Yedukrishnan P
 description: "Course Review: AE407"
-modified: 2017-06-17
+modified: 2018-8-20
 categories: [Fourth Year Courses]
 ---
 

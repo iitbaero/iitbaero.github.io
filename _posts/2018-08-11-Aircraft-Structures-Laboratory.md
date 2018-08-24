@@ -3,7 +3,7 @@ layout: post
 title: "AE 314: Aircraft Structures Laboratory (Spring 2018)"
 author: Vrushabh Parsawar
 description: "Course Review: AE314"
-modified: 2017-06-17
+modified: 2018-8-20
 categories: [Third Year Courses]
 ---
 

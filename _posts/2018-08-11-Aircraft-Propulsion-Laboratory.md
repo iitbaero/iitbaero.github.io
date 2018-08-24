@@ -3,7 +3,7 @@ layout: post
 title: "AE 316: Aircraft Propulsion Laboratory (Spring 2017)"
 author: Ram Milan Verma
 description: "Course Review: AE316"
-modified: 2017-06-17
+modified: 2018-8-20
 categories: [Third Year Courses]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "AE 625: Particle Methods for Fluid Flow Simulations (Fall 2017)"
 author: Jaspreet Singh
 description: "Course Review: AE625"
-modified: 2017-06-17
+modified: 2018-8-20
 categories: [Elective Courses]
 ---
 

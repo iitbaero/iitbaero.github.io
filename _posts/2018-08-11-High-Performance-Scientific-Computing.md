@@ -3,7 +3,7 @@ layout: post
 title: "ME 766: High Performance Scientific Computing (Spring 2018)"
 author: Krishna Wadhwani
 description: "Course Review: ME766"
-modified: 2017-06-17
+modified: 2018-8-20
 categories: [Elective Courses]
 ---
 

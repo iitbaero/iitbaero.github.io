@@ -3,7 +3,7 @@ layout: post
 title: "AE 647: Introduction to Plasmas for Engineering (Spring 2018)"
 author: Karthik Mahesh
 description: "Course Review: AE647"
-modified: 2017-06-17
+modified: 2018-8-20
 categories: [Elective Courses]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "AE 312: Aerodynamics Laboratory (Spring 2018)"
 author: Vrushabh parsawar
 description: "Course Review: AE312"
-modified: 2017-06-17
+modified: 2018-8-20
 categories: [Third Year Courses]
 ---
 

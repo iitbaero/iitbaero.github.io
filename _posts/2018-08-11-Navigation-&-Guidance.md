@@ -3,7 +3,7 @@ layout: post
 title: "AE 410: Navigation & Guidance (Spring 2018)"
 author: Ashish Kumar Gupta
 description: "Course Review: AE410"
-modified: 2017-06-17
+modified: 2018-8-20
 categories: [Fourth Year Courses]
 ---
 

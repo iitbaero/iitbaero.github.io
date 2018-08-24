@@ -3,7 +3,7 @@ layout: post
 title: "AE 152: Introduction to Aerospace Engineering (Spring 2017)"
 author: Allen Bose
 description: "Course Review: AE152"
-modified: 2017-06-17
+modified: 2018-8-20
 categories: [First Year Courses]
 ---
 

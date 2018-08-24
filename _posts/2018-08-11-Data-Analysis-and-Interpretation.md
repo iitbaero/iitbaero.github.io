@@ -3,7 +3,7 @@ layout: post
 title: "AE 102: Data Analysis and Interpretation (Spring 2017)"
 author: Naman Aggarwal
 description: "Course Review: AE102"
-modified: 2017-06-17
+modified: 2018-8-20
 categories: [First Year Courses]
 ---
 

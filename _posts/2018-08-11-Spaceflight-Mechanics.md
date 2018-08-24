@@ -3,7 +3,7 @@ layout: post
 title: "AE 240: Spaceflight Mechanics (Spring 2018)"
 author: Yash Kothari
 description: "Course Review: AE240"
-modified: 2017-06-17
+modified: 2018-8-20
 categories: [Second Year Courses]
 ---
 

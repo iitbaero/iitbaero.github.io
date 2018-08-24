@@ -3,7 +3,7 @@ layout: post
 title: "AE 238: Aerospace Structural Mechanics (Spring 2018)"
 author: Shubham Punjabi
 description: "Course Review: AE238"
-modified: 2017-06-17
+modified: 2018-8-20
 categories: [Second Year Courses]
 ---
 

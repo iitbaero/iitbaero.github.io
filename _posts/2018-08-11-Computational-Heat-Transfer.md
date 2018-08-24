@@ -3,7 +3,7 @@ layout: post
 title: "AE 780: Computational Heat Transfer (Fall 2017)"
 author: Jaspreet Singh
 description: "Course Review: AE780"
-modified: 2017-06-17
+modified: 2018-8-20
 categories: [Elective Courses]
 ---
 

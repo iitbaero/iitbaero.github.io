@@ -3,7 +3,7 @@ layout: post
 title: "DE 403: Game Design studio project (Spring 2018)"
 author: Vikramaditya Patil
 description: "Course Review: DE403"
-modified: 2017-06-17
+modified: 2018-8-20
 categories: [Elective Courses]
 ---
 

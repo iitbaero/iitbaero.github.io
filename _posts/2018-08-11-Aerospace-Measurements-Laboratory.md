@@ -3,7 +3,7 @@ layout: post
 title: "AE 242: Aerospace Measurements Laboratory (Spring 2018)"
 author: Rohit Engla
 description: "Course Review: AE242"
-modified: 2017-06-17
+modified: 2018-8-20
 categories: [Second Year Courses]
 ---
 

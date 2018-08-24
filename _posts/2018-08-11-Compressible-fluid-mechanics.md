@@ -3,7 +3,7 @@ layout: post
 title: "AE 236: Compressible fluid mechanics (Spring 2018)"
 author: Ninad kale
 description: "Course Review: AE236"
-modified: 2017-06-17
+modified: 2018-8-20
 categories: [Second Year Courses]
 ---
 

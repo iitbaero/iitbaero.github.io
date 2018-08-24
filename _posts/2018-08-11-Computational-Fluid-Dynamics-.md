@@ -3,7 +3,7 @@ layout: post
 title: "AE 320: Computational Fluid Dynamics  (Spring 2018)"
 author: Shashank Verma
 description: "Course Review: AE320"
-modified: 2017-06-17
+modified: 2018-8-20
 categories: [Third Year Courses]
 ---
 

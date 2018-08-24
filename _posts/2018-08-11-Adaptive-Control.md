@@ -3,7 +3,7 @@ layout: post
 title: "SC 617: Adaptive Control (Spring 2018)"
 author: Kaustubh Sridhar
 description: "Course Review: SC617"
-modified: 2017-06-17
+modified: 2018-8-20
 categories: [Elective Courses]
 ---
 

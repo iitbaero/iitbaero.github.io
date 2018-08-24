@@ -3,7 +3,7 @@ layout: post
 title: "AE 308: Control Theory (Fall 2017)"
 author: Ram Milan Kumar Verma
 description: "Course Review: AE308"
-modified: 2017-06-17
+modified: 2018-8-20
 categories: [Third Year Courses]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "AE 227: Solid Mechanics (Fall 2017)"
 author: Krishna Wadhwani
 description: "Course Review: AE227"
-modified: 2017-06-17
+modified: 2018-8-20
 categories: [Second Year Courses]
 ---
 

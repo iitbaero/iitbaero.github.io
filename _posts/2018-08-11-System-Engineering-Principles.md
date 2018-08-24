@@ -3,7 +3,7 @@ layout: post
 title: "AE 759: System Engineering Principles (Fall 2017)"
 author: Anmol Sikka
 description: "Course Review: AE759"
-modified: 2017-06-17
+modified: 2018-8-20
 categories: [Elective Courses]
 ---
 

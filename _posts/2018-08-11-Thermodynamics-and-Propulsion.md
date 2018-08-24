@@ -3,7 +3,7 @@ layout: post
 title: "AE 223: Thermodynamics and Propulsion (Fall 2017)"
 author: Ayush Dubey
 description: "Course Review: AE223"
-modified: 2017-06-17
+modified: 2018-8-20
 categories: [Second Year Courses]
 ---
 
