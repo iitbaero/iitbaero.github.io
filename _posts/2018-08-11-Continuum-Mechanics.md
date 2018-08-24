@@ -34,8 +34,8 @@ The lectures were good, interesting and fast-paced. The prof taught with clarity
 **How are the Assignments & Projects for this course?:**
 The assignments were moderate, tested the concepts greatly and helped to understand the implementation of the theory.
 
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-The assignments were moderate, tested the concepts greatly and helped to understand the implementation of the theory.
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+The endsem was mostly conceptual with bit of Linear Algebra and mathematics required.
 
 **Other Remarks:**
 The course takes us on a ride from an abstract idea to finally a concrete formulation that can be used by the engineers in a real life.

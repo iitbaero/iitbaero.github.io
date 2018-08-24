@@ -30,7 +30,7 @@ equations, strain displacement relations, compatibility conditions, natural &
 kinematic boundary conditions, stress-strain relations, generalized Hooke’s Law -
 Isotropy, Orthotropy, Anisotropy. Displacement and force methods of analysis.
 Concepts of linear and nonlinear problems. Illustration of linear elasticity solutions
-- Problems in 2-D (rectangular and polar co-ordinates), stress function approach. St.
+- problems in 2-D (rectangular and polar co-ordinates), stress function approach. St.
 Venant’s principle.
 Material behaviour: introduction to metallic and non-metallic materials of aerospace
 interest, awareness/overview of structure of materials. Ductile, brittle, elasto-plastic
@@ -61,8 +61,7 @@ Lectures were uninteresting but important as sir would often ask questions from 
 **How are the Assignments & Projects for this course?:**
 Assignments slightly helped in understanding of the concepts as they involved applying the theory taught in the class to a question. 
 
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-Assignments slightly helped in understanding of the concepts as they involved applying the theory taught in the class to a question. 
-
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+Quizzes and mid-sem were relatively easy but the end-sem was on a difficult and lengthy side. A number of questions asked in the exams were from discussions in the class and assignment questions. 
 
 ###### Disclaimer:The content of this website are opinions expressed by individual students. The information provided is for guidance purposes. Use the information at your own risk.

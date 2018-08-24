@@ -34,8 +34,8 @@ He mostly follows a book by Prof. M. Ramakrishna, in which explanation is better
 **How are the Assignments & Projects for this course?:**
 Assignments were exhaustive and moderately tough, it has to be done in Python only. It is graded on various levels including your programming skills, neatness of code e.t.c
 
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-Assignments were exhaustive and moderately tough, it has to be done in Python only. It is graded on various levels including your programming skills, neatness of code e.t.c
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+Quizzes and End-sem were easy.
 
 **Other Remarks:**
 This course can help you figure out if Computational Fluid Dynamics is for you or not.

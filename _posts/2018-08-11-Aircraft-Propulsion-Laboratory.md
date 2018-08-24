@@ -30,16 +30,7 @@ nan
 **How are the Lectures/Labs for this course?**
 Labs are conducted in groups but with individual report submission 
 
-**How are the Assignments & Projects for this course?:**
-None
-
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-None
-
-**Other Remarks:**
-None
-
-**References used in this course:**
-None
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+Only Endsem was conducted which had questions on the lab journals submitted(for e.g., on procedures, conclusions etc...)
 
 ###### Disclaimer:The content of this website are opinions expressed by individual students. The information provided is for guidance purposes. Use the information at your own risk.

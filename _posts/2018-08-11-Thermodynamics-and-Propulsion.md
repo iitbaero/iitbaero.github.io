@@ -42,8 +42,12 @@ There are no labs for the course!
 **How are the Assignments & Projects for this course?:**
 The aren't any assignments or projects for the course!
 
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-The aren't any assignments or projects for the course!
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+Quizzes: A tutorial precedes every quiz. The tutorial sheet consists of 4-5 questions and you have 45 minutes to solve those. You are free to discuss the solutions and approach to these with your friends, the TAs present, the Professor or use the internet. The quiz begins in the next 45 minutes, wherein one of the questions you solved will be required to be solved and submitted in the formal question paper. The entire class is divided into 2 sets, and each of the two sets gets a different question. Each quiz is of 10 marks, and finally best 5 out of the 6 or 7 quizzes are considered for grading
+
+Mid-sem: The difficulty level is moderate. The questions are mostly numerical in nature, with each question carrying 10 to 15 marks. Needless to say, proper steps are to be shown for complete marks. usually one question comes from the tutorials, so make sure to go through those.
+
+End-sem: The difficulty level is higher here. Apart from numerical questions, there are other formats too, such as multiple choice, true or false, derivations, etc. Close attention paid in class, good understanding of concepts and sufficient revision before the exam helps perform in the end-sem.
 
 **Other Remarks:**
 Lectures of the same professor are available on CDEEP, so in case you miss a lecture, you can look it up there. It is advisable to solve previous years' tutorials before a tutorial cum quiz. Also, do solve the tutorial sheets before the mid-sem and the end-sem too. Don't forget to carry your calculators for the exams.

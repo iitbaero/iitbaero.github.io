@@ -32,17 +32,8 @@ Endsem, 1, 50%
 **How are the Lectures/Labs for this course?**
 nan
 
-**How are the Assignments & Projects for this course?:**
-None
-
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-None
-
-**Other Remarks:**
-None
-
-**References used in this course:**
-None
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+Exams are directly from the slides. Answers are expected to be similar to what is written in the slides.
 
 **How strongly would you recommend someone for taking this course?:**
 Recommended

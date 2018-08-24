@@ -36,8 +36,8 @@ Lectures are really good. Sir explains concepts well, giving examples. You might
 **How are the Assignments & Projects for this course?:**
 Assignments were not tough, and basic. It helped us practise python programming and applying libraries such as numpy, pandas et cetera. The project at the end, to be done in groups of 4-5 was really interesting and some really good work was done by teams. The project enabled us to assimilate the concepts well and apply them to real life datasets. My team modelled the GDP of India as a function of various parameters (for example net exports, agricultural output et cetera in a year) over the years. We predicted the GDP of India in 2030 and compared our results to the online estimates.
 
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-Assignments were not tough, and basic. It helped us practise python programming and applying libraries such as numpy, pandas et cetera. The project at the end, to be done in groups of 4-5 was really interesting and some really good work was done by teams. The project enabled us to assimilate the concepts well and apply them to real life datasets. My team modelled the GDP of India as a function of various parameters (for example net exports, agricultural output et cetera in a year) over the years. We predicted the GDP of India in 2030 and compared our results to the online estimates.
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+Quizzes and midsem were quite basic and involved nothing but basic understanding of the course content. Reading the prescribed content from the book, Sheldon Ross even once was enough to score well. Endsem had a few really nice questions and required good understanding of some of the difficult concepts in the course (Hypothesis Testing and other concepts covered in the later half). 
 
 **Other Remarks:**
 1. Don't miss classes after the midsems as certain important non-trivial concepts are discussed which might be difficult to follow if not understood. 

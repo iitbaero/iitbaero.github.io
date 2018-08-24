@@ -33,11 +33,8 @@ The lectures pretty tough to get because of the way he covers the course content
 **How are the Assignments & Projects for this course?:**
 The assignments are pretty straight forward and usually from the examples or the problem set of the recommended book. Each assignment contains 2-3 questions depending on the mood of the prof.
 
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-The assignments are pretty straight forward and usually from the examples or the problem set of the recommended book. Each assignment contains 2-3 questions depending on the mood of the prof.
-
-**Other Remarks:**
-None
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+The exams are bit on the tougher side as the problems given are often very lengthy and tedious. 
 
 **References used in this course:**
 Structural mechanics by Megson

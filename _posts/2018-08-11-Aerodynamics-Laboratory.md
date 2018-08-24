@@ -40,11 +40,8 @@ This lab has group of five people working on an experiment and conclude on the b
 **How are the Assignments & Projects for this course?:**
 There where no assignments/projects but had a presentation at end of course .
 
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-There where no assignments/projects but had a presentation at end of course .
-
-**Other Remarks:**
-None
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+Exam where quite easy
 
 **References used in this course:**
 J. D. Anderson

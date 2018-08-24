@@ -52,8 +52,8 @@ Lectures are good. The labs are also good with respect to both Aerospace and ele
 **How are the Assignments & Projects for this course?:**
 No Assignments. One project that is also selected by you and also it is very easy.
 
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-No Assignments. One project that is also selected by you and also it is very easy.
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+Exams are mostly theoretical and questions are mostly from slides given by professor and very less questions are asked from experiments.
 
 **Other Remarks:**
 If you already have a descent background of electrical it will be easy for you to get a good grade.
@@ -61,5 +61,7 @@ If you already have a descent background of electrical it will be easy for you t
 **References used in this course:**
 Slides and other material provided by professor is enough.
 
+**How strongly would you recommend someone for taking this course?:**
+Not Recommended
 
 ###### Disclaimer:The content of this website are opinions expressed by individual students. The information provided is for guidance purposes. Use the information at your own risk.

@@ -32,11 +32,8 @@ Endsem - 50%
 **How are the Lectures/Labs for this course?**
 Two lectures about the experiments to be performed: one in the beginining and the other just after mid-sem. The lectures gives brief overview of the experiment, apparatus used and theory used in the experiment.
 
-**How are the Assignments & Projects for this course?:**
-None
-
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-None
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+Exams are mostly conceptual.
 
 **Other Remarks:**
 This course allows students to get experience of simulations of dynamic systems in Simulink.

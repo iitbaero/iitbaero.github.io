@@ -33,13 +33,7 @@ Teaching is mostly from the slides which is uploaded on moodle.
 **How are the Assignments & Projects for this course?:**
 The project was interesting since we had to model a real life system/problem on simulink.
 
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-The project was interesting since we had to model a real life system/problem on simulink.
-
-**Other Remarks:**
-None
-
-**References used in this course:**
-None
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+The exams are easy if you go through the slides thoroughly. 
 
 ###### Disclaimer:The content of this website are opinions expressed by individual students. The information provided is for guidance purposes. Use the information at your own risk.

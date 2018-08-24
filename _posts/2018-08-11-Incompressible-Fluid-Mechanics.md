@@ -52,8 +52,8 @@ The lectures for this course are covered in the most interesting way.  Each lect
 **How are the Assignments & Projects for this course?:**
 The Assignment of this course usually contains 2-3 questions (quite interesting needs proper understanding of the course) and one problem of writing a computer code to compute and plot the streamlines and equipotential lines for the potential ﬂow over a particular shape.
 
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-The Assignment of this course usually contains 2-3 questions (quite interesting needs proper understanding of the course) and one problem of writing a computer code to compute and plot the streamlines and equipotential lines for the potential ﬂow over a particular shape.
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+The quizzes for this courses are relatively easy while mid-sem and end-sem are challenging but with proper understanding and preparation you can easily score good marks.
 
 **Other Remarks:**
 The course is quite fundamental and covers diverse topics along with going deep into them. The lectures are quite descriptive with good amount of board work. One is advised to make lecture notes properly as they serves as a good reference for studying later. It is recommended to revise topics regularly.

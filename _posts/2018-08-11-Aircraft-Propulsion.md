@@ -35,11 +35,8 @@ Other propulsion systems: ramjets, scramjets and pulsejets.
 **How are the Lectures/Labs for this course?**
 The concepts are explained in detail and previous lectures are also revised regularly in the lectures. There is no lab for this course.
 
-**How are the Assignments & Projects for this course?:**
-None
-
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-None
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+The exams are moderate to hard. Sound knowledge of the theory is required to solve the problems. If you have attended the lectures and tutorials it can be managed well.
 
 **Other Remarks:**
 Although the attendance isn't mandatory, do attend the classes and tutorials. Prof Pradeep covers the theory really well and in the tutorials you will come across problems similar to the ones that you'll see in exams

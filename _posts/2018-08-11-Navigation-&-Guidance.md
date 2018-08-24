@@ -38,14 +38,8 @@ nan
 **How are the Assignments & Projects for this course?:**
 Assignments are pretty straight forward.
 
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-Assignments are pretty straight forward.
-
-**Other Remarks:**
-None
-
-**References used in this course:**
-None
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+For post mid sems part the exams are pretty easy. Refer to previous year papers and one can easily score above 70% of marks.  Pre-midsems some proofs require you memory test. 
 
 **How strongly would you recommend someone for taking this course?:**
 Not Recommended

@@ -37,11 +37,8 @@ Lectures done on the board. Teaching style is linear and focuses on practical ap
 **How are the Assignments & Projects for this course?:**
 Assignments are based on the classes and involve basic coding in Python
 
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-Assignments are based on the classes and involve basic coding in Python
-
-**Other Remarks:**
-None
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+Exams are open-book and neither easy nor hard. Should have basics of course clear
 
 **References used in this course:**
 Piel, Alexander, Introduction to Plasmas

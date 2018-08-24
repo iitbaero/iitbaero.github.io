@@ -33,11 +33,8 @@ The lectures were quite interesting and the topics were ended by some applicatio
 **How are the Assignments & Projects for this course?:**
 A simulation of a space mission was to be made as an only assignment which gave a chance to practically apply what you have learnt in the course. 
 
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-A simulation of a space mission was to be made as an only assignment which gave a chance to practically apply what you have learnt in the course. 
-
-**Other Remarks:**
-None
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+Exams were quite simple and had derivations directly from the slides followed by a numerical.
 
 **References used in this course:**
 Lecture slides were enough

@@ -37,14 +37,8 @@ Supersonic Flow - Lift and Wave drag
 **How are the Lectures/Labs for this course?**
 The lectures almost exclusively follow the book "Fundamentals of Aerodynamics by Anderson". It is recommended that you give the chapter a read before going to class. 
 
-**How are the Assignments & Projects for this course?:**
-None
-
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-None
-
-**Other Remarks:**
-None
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+Exams are on the hard side and focus mainly on concepts and formula application. Formula sheets not allowed. Recommended to solve problems from anderson and MIT OCW's 16.100  course.
 
 **References used in this course:**
 Anderson, John D., Fundamentals of Aerodynamics - Necessary

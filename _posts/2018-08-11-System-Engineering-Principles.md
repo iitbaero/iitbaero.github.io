@@ -34,8 +34,8 @@ The lectures were in the last slot. Sir asked for 30 minutes extra. So, there we
 **How are the Assignments & Projects for this course?:**
 Assignments and Projects help in the learning of the concepts a lot. The assignments were small and involved thinking about the course concepts in detail. The project was done in groups of 3. We had to decide a problem faced in the institute and design a system to solve the problem. We had to submit a draft of report each week based on the topics covered in that week. Both the assignments and project were discussed later in next class. The participation in these discussions and genuinely attempting the assignments are key to understanding of the course.
 
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-Assignments and Projects help in the learning of the concepts a lot. The assignments were small and involved thinking about the course concepts in detail. The project was done in groups of 3. We had to decide a problem faced in the institute and design a system to solve the problem. We had to submit a draft of report each week based on the topics covered in that week. Both the assignments and project were discussed later in next class. The participation in these discussions and genuinely attempting the assignments are key to understanding of the course.
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+The exams are simple. They are based on the definitions and terminologies. Relevant questions regarding the course project are also asked. 
 
 **Other Remarks:**
 The course is a must to learn design thinking. This course helps a lot in management of complex technical design projects.

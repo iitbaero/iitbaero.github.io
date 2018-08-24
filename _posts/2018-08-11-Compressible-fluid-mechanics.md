@@ -30,14 +30,8 @@ Quiz, 2,30.mid-sem,30. endsem,40
 **How are the Lectures/Labs for this course?**
 Lectures where good. Sir always make sure everyone is on same line. He will start from basics and give detail notes. 
 
-**How are the Assignments & Projects for this course?:**
-None
-
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-None
-
-**Other Remarks:**
-None
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+Quizzes mostly consist of questions from tutorial. Midsem include both questions and theory. Tuts are enough for questions. For theory class notes are sufficient. Endsem same as midsem focus on questions and theory. Solved examples from preferred book can be helpful. 
 
 **References used in this course:**
 Modern compressible flow by Anderson 

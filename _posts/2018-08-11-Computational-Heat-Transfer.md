@@ -36,8 +36,8 @@ The lectures are highly informative and easy to understand.
 **How are the Assignments & Projects for this course?:**
 The assignments majorly consists of simulating external flow field and verifying with the theoratical or experimental data in a dedicated software. The assignments are simple and appopriate for better understanding of computational methods.
 
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-The assignments majorly consists of simulating external flow field and verifying with the theoratical or experimental data in a dedicated software. The assignments are simple and appopriate for better understanding of computational methods.
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+Exams are conceptual and easy. The endsem consist of simulation of a flow field in a dedicated software.
 
 **Other Remarks:**
 A good introductory course for understanding the working of current CFD Solvers.

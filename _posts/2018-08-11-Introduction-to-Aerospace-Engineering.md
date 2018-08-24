@@ -35,11 +35,8 @@ The course content is really cool and I have enjoyed learning it. Most of the th
 **How are the Assignments & Projects for this course?:**
 During our year we were divided into groups and were asked to make a PPT about various airplane crashes in the world. This gave as an opportunity to learn more about the structure and functioning of airplanes. 
 
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-During our year we were divided into groups and were asked to make a PPT about various airplane crashes in the world. This gave as an opportunity to learn more about the structure and functioning of airplanes. 
-
-**Other Remarks:**
-None
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+The exams are a bit tough. You need to be really thorough about the concepts when you answer the questions. The professor also gives a great weightage to diagrams in the answers. The correction pattern for the exams are also usually very strict and often the whole class ends up with a low average; but always try to stay on top to get good grades.
 
 **References used in this course:**
 JD Anderson :Introduction to flight

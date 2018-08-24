@@ -46,13 +46,8 @@ Assignments are basically problem sets. Some were erroneous leading to confusion
 
 The project was based on linearizing dynamics about a non-standard situation  and properly tested basic concept application. It also included matlab simulation for control responses and was well-designed.
 
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-Assignments are basically problem sets. Some were erroneous leading to confusion among students, however the overall layout and questions were well-designed and contributed to conceptual understanding
-
-The project was based on linearizing dynamics about a non-standard situation  and properly tested basic concept application. It also included matlab simulation for control responses and was well-designed.
-
-**Other Remarks:**
-None
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+Exams are easy and contribute to understanding of course material. Solving problems from Nelson is recommended
 
 **References used in this course:**
 Nelson R. C., Flight Stability and Automatic Control - Recommended

@@ -33,14 +33,11 @@ Weekly meeting with the professor, where you discuss your assignments and projec
 **How are the Assignments & Projects for this course?:**
 The assignment and projects are very interesting. The work is intensive, and requires significant amount of time.
 
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-The assignment and projects are very interesting. The work is intensive, and requires significant amount of time.
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+nan
 
 **Other Remarks:**
 Studio Projects can be done under any Professor in IDC for any topic. Discuss the topic of the project you want to do with the professor. You can also discuss your grading scheme. If you find a professor then registration can be done under the course code DE 403 under the course name Studio Project.
-
-**References used in this course:**
-None
 
 **How strongly would you recommend someone for taking this course?:**
 Recommended

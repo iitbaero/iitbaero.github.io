@@ -2,7 +2,7 @@
 layout: post
 title: "AE 332: Aircraft Design (Spring 2018)"
 author: Kaustubh Sridhar
-description: "Course Review: AE 332"
+description: "Course Review: AE332"
 modified: 2017-06-17
 categories: Third Year Courses
 ---
@@ -38,10 +38,7 @@ Attendance 10%
 **How are the Lectures/Labs for this course?**
 Very informative but also highly factual. There are very little to no formulae in this course. Most of this courses consists of learning how various configurations, parts, etc can affect aircraft design and performance. This course also teaches you how to start with the design of any aircraft from a basic sizing perspective to a more detailed multidisciplinary outlook.
 
-**How are the Assignments & Projects for this course?:**
-None
-
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
 Fairly simple but at least one question in each test will be tricky. This is the question that brings about the difference in grades
 
 **Other Remarks:**

@@ -40,11 +40,8 @@ Lecture slides and explanations given by professor is good and requires regular 
 **How are the Assignments & Projects for this course?:**
 Assignments are generally based on controller design. Everyone is given a different problem to work on. You don't have to look for extra resources other than lecture slides. In case you're unlucky you'll have to perform many iterations to achieve the desired specifications. So it's advised to start well in advance and use Maple or MATLAB for calculations.
 
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-Assignments are generally based on controller design. Everyone is given a different problem to work on. You don't have to look for extra resources other than lecture slides. In case you're unlucky you'll have to perform many iterations to achieve the desired specifications. So it's advised to start well in advance and use Maple or MATLAB for calculations.
-
-**Other Remarks:**
-None
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+Quizzes were easy and  Mid-sem & End-sem was moderate. In most of the questions you'll have to deal with mathematics. Professor equips the questions paper with all the necessary formulas reducing the need of mugging up. A few questions may demand a good level of understanding and thinking.
 
 **References used in this course:**
 1. Ogata, ‘Modern Control Engineering’, 5th Ed., PHI, EEE, 2010
