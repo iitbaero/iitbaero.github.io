@@ -35,8 +35,8 @@ Lectures are very informative and the professor makes them very interesting. The
 **How are the Assignments & Projects for this course?:**
 The assignments are gruellingly difficult as you progress down the course. Lots of programming is required (Matlab knowledge is sufficient). There is one final project with requires you to find some recent paper in adaptive control and implement the same and/or improve on it while providing sufficient evidence of mathematical rigor and successful programming results.
 
-**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?:**
-The assignments are gruellingly difficult as you progress down the course. Lots of programming is required (Matlab knowledge is sufficient). There is one final project with requires you to find some recent paper in adaptive control and implement the same and/or improve on it while providing sufficient evidence of mathematical rigor and successful programming results.
+**How are the Exams (Quizzes, Mid-sem and End-sem) for this course?**
+This course has no exams
 
 **Other Remarks:**
 This course is a must-do for anyone interested in taking a step or continuing in systems and control engineering research. The lack of exams and focus on assignments in this courses is because it is a research oriented course and not one that seeks to just provide you with information.
