@@ -13,7 +13,7 @@
       "title"    : "AE 223: Thermodynamics and Propulsion (Fall 2017)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/second/year/courses/Thermodynamics-and-Propulsion/",
+      "url"      : "https://iitbaero.github.io/second%20year%20courses/Thermodynamics-and-Propulsion/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Ayush Dubey"
     } ,
@@ -22,7 +22,7 @@
       "title"    : "AE 759: System Engineering Principles (Fall 2017)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/elective/courses/System-Engineering-Principles/",
+      "url"      : "https://iitbaero.github.io/elective%20courses/System-Engineering-Principles/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Anmol Sikka"
     } ,
@@ -31,7 +31,7 @@
       "title"    : "AE 240: Spaceflight Mechanics (Spring 2018)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/second/year/courses/Spaceflight-Mechanics/",
+      "url"      : "https://iitbaero.github.io/second%20year%20courses/Spaceflight-Mechanics/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Yash Kothari"
     } ,
@@ -40,16 +40,25 @@
       "title"    : "AE 227: Solid Mechanics (Fall 2017)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/second/year/courses/Solid-Mechanics/",
+      "url"      : "https://iitbaero.github.io/second%20year%20courses/Solid-Mechanics/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Krishna Wadhwani"
+    } ,
+  
+    {
+      "title"    : "AE 625: Particle Methods for Fluid Flow Simulations (Fall 2017)",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "https://iitbaero.github.io/elective%20courses/Particle-Methods-for-Fluid-Flow-Simulations/",
+      "date"     : "2018-08-11 00:00:00 +0530",
+      "author"   : "Jaspreet Singh"
     } ,
   
     {
       "title"    : "AE 410: Navigation &amp; Guidance (Spring 2018)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/fourth/year/courses/Navigation-&-Guidance/",
+      "url"      : "https://iitbaero.github.io/fourth%20year%20courses/Navigation-&-Guidance/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Ashish Kumar Gupta"
     } ,
@@ -58,7 +67,7 @@
       "title"    : "AE 407: Modelling and Simulation (Fall 2017)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/fourth/year/courses/Modelling-and-Simulation/",
+      "url"      : "https://iitbaero.github.io/fourth%20year%20courses/Modelling-and-Simulation/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Yedukrishnan P"
     } ,
@@ -67,7 +76,7 @@
       "title"    : "AE 647: Introduction to Plasmas for Engineering (Spring 2018)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/elective/courses/Introduction-to-Plasmas-for-Engineering/",
+      "url"      : "https://iitbaero.github.io/elective%20courses/Introduction-to-Plasmas-for-Engineering/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Karthik Mahesh"
     } ,
@@ -76,7 +85,7 @@
       "title"    : "AE 152: Introduction to Aerospace Engineering (Spring 2017)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/first/year/courses/Introduction-to-Aerospace-Engineering/",
+      "url"      : "https://iitbaero.github.io/first%20year%20courses/Introduction-to-Aerospace-Engineering/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Allen Bose"
     } ,
@@ -85,7 +94,7 @@
       "title"    : "AE 225: Incompressible Fluid Mechanics (Fall 2017)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/second/year/courses/Incompressible-Fluid-Mechanics/",
+      "url"      : "https://iitbaero.github.io/second%20year%20courses/Incompressible-Fluid-Mechanics/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Maulik Bhatt"
     } ,
@@ -94,7 +103,7 @@
       "title"    : "ME 766: High Performance Scientific Computing (Spring 2018)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/elective/courses/High-Performance-Scientific-Computing/",
+      "url"      : "https://iitbaero.github.io/elective%20courses/High-Performance-Scientific-Computing/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Krishna Wadhwani"
     } ,
@@ -103,7 +112,7 @@
       "title"    : "DE 403: Game Design studio project (Spring 2018)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/elective/courses/Game-Design-studio-project/",
+      "url"      : "https://iitbaero.github.io/elective%20courses/Game-Design-studio-project/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Vikramaditya Patil"
     } ,
@@ -112,7 +121,7 @@
       "title"    : "AE 305: Flight Mechanics II (Fall 2017)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/third/year/courses/Flight-Mechanics-II/",
+      "url"      : "https://iitbaero.github.io/third%20year%20courses/Flight-Mechanics-II/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Karthik Mahesh"
     } ,
@@ -121,7 +130,7 @@
       "title"    : "AE 310: Engineering Design and optimization (Spring 2018)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/third/year/courses/Engineering-Design-and-optimization/",
+      "url"      : "https://iitbaero.github.io/third%20year%20courses/Engineering-Design-and-optimization/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Ayush Khandelwal"
     } ,
@@ -130,7 +139,7 @@
       "title"    : "AE 102: Data Analysis and Interpretation (Spring 2017)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/first/year/courses/Data-Analysis-and-Interpretation/",
+      "url"      : "https://iitbaero.github.io/first%20year%20courses/Data-Analysis-and-Interpretation/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Naman Aggarwal"
     } ,
@@ -139,7 +148,7 @@
       "title"    : "AE 308: Control Theory (Fall 2017)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/third/year/courses/Control-Theory/",
+      "url"      : "https://iitbaero.github.io/third%20year%20courses/Control-Theory/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Ram Milan Kumar Verma"
     } ,
@@ -148,7 +157,7 @@
       "title"    : "AE 427: Control Systems Laboratory (Fall 2017)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/fourth/year/courses/Control-Systems-Laboratory/",
+      "url"      : "https://iitbaero.github.io/fourth%20year%20courses/Control-Systems-Laboratory/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Jaspreet Singh"
     } ,
@@ -157,7 +166,7 @@
       "title"    : "AE 486: Continuum Mechanics (Fall 2017)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/elective/courses/Continuum-Mechanics/",
+      "url"      : "https://iitbaero.github.io/elective%20courses/Continuum-Mechanics/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Jaspreet Singh"
     } ,
@@ -166,7 +175,7 @@
       "title"    : "AE 780: Computational Heat Transfer (Fall 2017)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/elective/courses/Computational-Heat-Transfer/",
+      "url"      : "https://iitbaero.github.io/elective%20courses/Computational-Heat-Transfer/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Jaspreet Singh"
     } ,
@@ -175,7 +184,7 @@
       "title"    : "AE 320: Computational Fluid Dynamics  (Spring 2018)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/third/year/courses/Computational-Fluid-Dynamics/",
+      "url"      : "https://iitbaero.github.io/third%20year%20courses/Computational-Fluid-Dynamics/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Shashank Verma"
     } ,
@@ -184,7 +193,7 @@
       "title"    : "AE 236: Compressible fluid mechanics (Spring 2018)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/second/year/courses/Compressible-fluid-mechanics/",
+      "url"      : "https://iitbaero.github.io/second%20year%20courses/Compressible-fluid-mechanics/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Ninad kale"
     } ,
@@ -193,7 +202,7 @@
       "title"    : "AE 314: Aircraft Structures Laboratory (Spring 2018)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/third/year/courses/Aircraft-Structures-Laboratory/",
+      "url"      : "https://iitbaero.github.io/third%20year%20courses/Aircraft-Structures-Laboratory/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Vrushabh Parsawar"
     } ,
@@ -202,7 +211,7 @@
       "title"    : "AE 234: Aircraft Propulsion (Spring 2018)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/second/year/courses/Aircraft-Propulsion/",
+      "url"      : "https://iitbaero.github.io/second%20year%20courses/Aircraft-Propulsion/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Vikramaditya Patil"
     } ,
@@ -211,7 +220,7 @@
       "title"    : "AE 316: Aircraft Propulsion Laboratory (Spring 2017)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/third/year/courses/Aircraft-Propulsion-Laboratory/",
+      "url"      : "https://iitbaero.github.io/third%20year%20courses/Aircraft-Propulsion-Laboratory/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Ram Milan Verma"
     } ,
@@ -220,7 +229,7 @@
       "title"    : "AE 332: Aircraft Design (Spring 2018)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/third/year/courses/Aircraft-Design/",
+      "url"      : "https://iitbaero.github.io/third%20year%20courses/Aircraft-Design/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Kaustubh Sridhar"
     } ,
@@ -229,7 +238,7 @@
       "title"    : "AE 238: Aerospace Structural Mechanics (Spring 2018)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/second/year/courses/Aerospace-Structural-Mechanics/",
+      "url"      : "https://iitbaero.github.io/second%20year%20courses/Aerospace-Structural-Mechanics/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Shubham Punjabi"
     } ,
@@ -238,7 +247,7 @@
       "title"    : "AE 330: Aerospace Propulsion (Spring 2018)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/third/year/courses/Aerospace-Propulsion/",
+      "url"      : "https://iitbaero.github.io/third%20year%20courses/Aerospace-Propulsion/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Shashank Verma"
     } ,
@@ -247,7 +256,7 @@
       "title"    : "AE 242: Aerospace Measurements Laboratory (Spring 2018)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/second/year/courses/Aerospace-Measurements-Laboratory/",
+      "url"      : "https://iitbaero.github.io/second%20year%20courses/Aerospace-Measurements-Laboratory/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Rohit Engla"
     } ,
@@ -256,7 +265,7 @@
       "title"    : "AE 333: Aerodynamics (Fall 2017)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/third/year/courses/Aerodynamics/",
+      "url"      : "https://iitbaero.github.io/third%20year%20courses/Aerodynamics/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Karthik Mahesh"
     } ,
@@ -265,7 +274,7 @@
       "title"    : "AE 312: Aerodynamics Laboratory (Spring 2018)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/third/year/courses/Aerodynamics-Laboratory/",
+      "url"      : "https://iitbaero.github.io/third%20year%20courses/Aerodynamics-Laboratory/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Vrushabh parsawar"
     } ,
@@ -274,7 +283,7 @@
       "title"    : "SC 617: Adaptive Control (Spring 2018)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/elective/courses/Adaptive-Control/",
+      "url"      : "https://iitbaero.github.io/elective%20courses/Adaptive-Control/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Kaustubh Sridhar"
     } ,
