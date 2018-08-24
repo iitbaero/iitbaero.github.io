@@ -4,7 +4,7 @@ title: "DE 403: Game Design studio project (Spring 2018)"
 author: Vikramaditya Patil
 description: "Course Review: DE403"
 modified: 2017-06-17
-categories: Elective Courses
+categories: [Elective Courses]
 ---
 
 **Course Instructor:** Prof. Uday Athavankar

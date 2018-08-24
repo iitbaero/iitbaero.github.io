@@ -4,7 +4,7 @@ title: "AE 316: Aircraft Propulsion Laboratory (Spring 2017)"
 author: Ram Milan Verma
 description: "Course Review: AE316"
 modified: 2017-06-17
-categories: Third Year Courses
+categories: [Third Year Courses]
 ---
 
 **Course Instructor:** Prof.  A. M. Pradeep, Prof.  Shripad P. Mahulikar, Prof.  Sudarshan Kumar, and Prof.  Kowsik Bodi

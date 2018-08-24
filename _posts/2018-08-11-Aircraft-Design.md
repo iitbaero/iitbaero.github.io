@@ -4,7 +4,7 @@ title: "AE 332: Aircraft Design (Spring 2018)"
 author: Kaustubh Sridhar
 description: "Course Review: AE332"
 modified: 2017-06-17
-categories: Third Year Courses
+categories: [Third Year Courses]
 ---
 
 **Course Instructor:** Prof. Avijit Chatterjee

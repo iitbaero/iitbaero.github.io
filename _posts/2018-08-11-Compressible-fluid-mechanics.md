@@ -4,7 +4,7 @@ title: "AE 236: Compressible fluid mechanics (Spring 2018)"
 author: Ninad kale
 description: "Course Review: AE236"
 modified: 2017-06-17
-categories: Second Year Courses
+categories: [Second Year Courses]
 ---
 
 **Course Instructor:** Prof.  Viren menezes

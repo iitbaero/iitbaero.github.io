@@ -4,7 +4,7 @@ title: "AE 410: Navigation & Guidance (Spring 2018)"
 author: Ashish Kumar Gupta
 description: "Course Review: AE410"
 modified: 2017-06-17
-categories: Fourth Year Courses
+categories: [Fourth Year Courses]
 ---
 
 **Course Instructor:** Prof.  Arnab Maity

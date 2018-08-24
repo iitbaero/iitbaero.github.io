@@ -4,7 +4,7 @@ title: "AE 647: Introduction to Plasmas for Engineering (Spring 2018)"
 author: Karthik Mahesh
 description: "Course Review: AE647"
 modified: 2017-06-17
-categories: Elective Courses
+categories: [Elective Courses]
 ---
 
 **Course Instructor:** Prof.  Kowsik Bodi

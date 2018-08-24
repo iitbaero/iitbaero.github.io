@@ -4,7 +4,7 @@ title: "AE 102: Data Analysis and Interpretation (Spring 2017)"
 author: Naman Aggarwal
 description: "Course Review: AE102"
 modified: 2017-06-17
-categories: First Year Courses
+categories: [First Year Courses]
 ---
 
 **Course Instructor:** Prof. Prabhu Ramachandran

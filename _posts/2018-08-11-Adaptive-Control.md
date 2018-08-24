@@ -4,7 +4,7 @@ title: "SC 617: Adaptive Control (Spring 2018)"
 author: Kaustubh Sridhar
 description: "Course Review: SC617"
 modified: 2017-06-17
-categories: Elective Courses
+categories: [Elective Courses]
 ---
 
 **Course Instructor:** Prof. Srikant Sukumar

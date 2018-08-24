@@ -4,7 +4,7 @@ title: "AE 223: Thermodynamics and Propulsion (Fall 2017)"
 author: Ayush Dubey
 description: "Course Review: AE223"
 modified: 2017-06-17
-categories: Second Year Courses
+categories: [Second Year Courses]
 ---
 
 **Course Instructor:** Prof. Krishnendu Sinha

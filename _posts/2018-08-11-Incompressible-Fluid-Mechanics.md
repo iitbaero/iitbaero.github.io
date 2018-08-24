@@ -4,7 +4,7 @@ title: "AE 225: Incompressible Fluid Mechanics (Fall 2017)"
 author: Maulik Bhatt
 description: "Course Review: AE225"
 modified: 2017-06-17
-categories: Second Year Courses
+categories: [Second Year Courses]
 ---
 
 **Course Instructor:** Prof. Aniruddha Sinha

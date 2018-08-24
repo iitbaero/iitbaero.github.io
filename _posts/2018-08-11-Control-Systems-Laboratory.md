@@ -4,7 +4,7 @@ title: "AE 427: Control Systems Laboratory (Fall 2017)"
 author: Jaspreet Singh
 description: "Course Review: AE427"
 modified: 2017-06-17
-categories: Fourth Year Courses
+categories: [Fourth Year Courses]
 ---
 
 **Course Instructor:** Prof. Arnab Maity

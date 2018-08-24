@@ -4,7 +4,7 @@ title: "ME 766: High Performance Scientific Computing (Spring 2018)"
 author: Krishna Wadhwani
 description: "Course Review: ME766"
 modified: 2017-06-17
-categories: Elective Courses
+categories: [Elective Courses]
 ---
 
 **Course Instructor:** Prof. Shivasubramanian Gopalakrishnan

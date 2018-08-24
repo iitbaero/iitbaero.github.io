@@ -4,7 +4,7 @@ title: "AE 305: Flight Mechanics II (Fall 2017)"
 author: Karthik Mahesh
 description: "Course Review: AE305"
 modified: 2017-06-17
-categories: Third Year Courses
+categories: [Third Year Courses]
 ---
 
 **Course Instructor:** Prof.  Ashok Joshi

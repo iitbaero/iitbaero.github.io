@@ -4,7 +4,7 @@ title: "AE 333: Aerodynamics (Fall 2017)"
 author: Karthik Mahesh
 description: "Course Review: AE333"
 modified: 2017-06-17
-categories: Third Year Courses
+categories: [Third Year Courses]
 ---
 
 **Course Instructor:** Prof. Vineeth Nair

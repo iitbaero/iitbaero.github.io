@@ -4,7 +4,7 @@ title: "AE 242: Aerospace Measurements Laboratory (Spring 2018)"
 author: Rohit Engla
 description: "Course Review: AE242"
 modified: 2017-06-17
-categories: Second Year Courses
+categories: [Second Year Courses]
 ---
 
 **Course Instructor:** Prof. Hemendra Arya

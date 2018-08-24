@@ -4,7 +4,7 @@ title: "AE 407: Modelling and Simulation (Fall 2017)"
 author: Yedukrishnan P
 description: "Course Review: AE407"
 modified: 2017-06-17
-categories: Fourth Year Courses
+categories: [Fourth Year Courses]
 ---
 
 **Course Instructor:** Prof. Hemendra Arya

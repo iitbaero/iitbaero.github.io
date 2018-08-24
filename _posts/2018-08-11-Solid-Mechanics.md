@@ -4,7 +4,7 @@ title: "AE 227: Solid Mechanics (Fall 2017)"
 author: Krishna Wadhwani
 description: "Course Review: AE227"
 modified: 2017-06-17
-categories: Second Year Courses
+categories: [Second Year Courses]
 ---
 
 **Course Instructor:** Prof. Chandra Sekher Yerramalli	

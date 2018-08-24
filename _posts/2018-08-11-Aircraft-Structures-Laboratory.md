@@ -4,7 +4,7 @@ title: "AE 314: Aircraft Structures Laboratory (Spring 2018)"
 author: Vrushabh Parsawar
 description: "Course Review: AE314"
 modified: 2017-06-17
-categories: Third Year Courses
+categories: [Third Year Courses]
 ---
 
 **Course Instructor:** Prof. Chandra Sekher Yerramalli

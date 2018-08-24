@@ -4,7 +4,7 @@ title: "AE 234: Aircraft Propulsion (Spring 2018)"
 author: Vikramaditya Patil
 description: "Course Review: AE234"
 modified: 2017-06-17
-categories: Second Year Courses
+categories: [Second Year Courses]
 ---
 
 **Course Instructor:** Prof. A M Pradeep

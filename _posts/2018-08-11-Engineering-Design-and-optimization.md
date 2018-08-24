@@ -4,7 +4,7 @@ title: "AE 310: Engineering Design and optimization (Spring 2018)"
 author: Ayush Khandelwal
 description: "Course Review: AE310"
 modified: 2017-06-17
-categories: Third Year Courses
+categories: [Third Year Courses]
 ---
 
 **Course Instructor:** Prof. G Shevare

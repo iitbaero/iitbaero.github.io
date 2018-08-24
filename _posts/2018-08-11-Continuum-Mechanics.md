@@ -4,7 +4,7 @@ title: "AE 486: Continuum Mechanics (Fall 2017)"
 author: Jaspreet Singh
 description: "Course Review: AE486"
 modified: 2017-06-17
-categories: Elective Courses
+categories: [Elective Courses]
 ---
 
 **Course Instructor:** Prof. Amuthan A. Ramabathiran

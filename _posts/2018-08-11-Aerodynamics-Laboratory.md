@@ -4,7 +4,7 @@ title: "AE 312: Aerodynamics Laboratory (Spring 2018)"
 author: Vrushabh parsawar
 description: "Course Review: AE312"
 modified: 2017-06-17
-categories: Third Year Courses
+categories: [Third Year Courses]
 ---
 
 **Course Instructor:** Prof. G. R.Shevare

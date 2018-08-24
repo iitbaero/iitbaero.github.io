@@ -4,7 +4,7 @@ title: "AE 780: Computational Heat Transfer (Fall 2017)"
 author: Jaspreet Singh
 description: "Course Review: AE780"
 modified: 2017-06-17
-categories: Elective Courses
+categories: [Elective Courses]
 ---
 
 **Course Instructor:** Prof. Sudarshan Kumar

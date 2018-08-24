@@ -4,7 +4,7 @@ title: "AE 152: Introduction to Aerospace Engineering (Spring 2017)"
 author: Allen Bose
 description: "Course Review: AE152"
 modified: 2017-06-17
-categories: First Year Courses
+categories: [First Year Courses]
 ---
 
 **Course Instructor:** Prof. SD Sharma

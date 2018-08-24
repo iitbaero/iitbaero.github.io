@@ -4,7 +4,7 @@ title: "AE 240: Spaceflight Mechanics (Spring 2018)"
 author: Yash Kothari
 description: "Course Review: AE240"
 modified: 2017-06-17
-categories: Second Year Courses
+categories: [Second Year Courses]
 ---
 
 **Course Instructor:** Prof. Ashok Joshi

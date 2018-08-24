@@ -4,7 +4,7 @@ title: "AE 238: Aerospace Structural Mechanics (Spring 2018)"
 author: Shubham Punjabi
 description: "Course Review: AE238"
 modified: 2017-06-17
-categories: Second Year Courses
+categories: [Second Year Courses]
 ---
 
 **Course Instructor:** Prof. Chandra Sekher Yerramalli

@@ -4,7 +4,7 @@ title: "AE 330: Aerospace Propulsion (Spring 2018)"
 author: Shashank Verma
 description: "Course Review: AE330"
 modified: 2017-06-17
-categories: Third Year Courses
+categories: [Third Year Courses]
 ---
 
 **Course Instructor:** Prof. Sudarshan Kumar
