@@ -4,7 +4,7 @@
       "title"    : "AE 326: Vibrations and Structural Dynamics (Fall 2017)",
       "category" : "",
       "tags"     : "",
-      "url"      : "https://iitbaero.github.io/third%20year%20courses/Vibrations-and-Structural-Dynamics/",
+      "url"      : "https://iitbaero.github.io/third/year/courses/Vibrations-and-Structural-Dynamics/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Ayush Khandelwal"
     } ,
@@ -43,6 +43,15 @@
       "url"      : "https://iitbaero.github.io/second/year/courses/Solid-Mechanics/",
       "date"     : "2018-08-11 00:00:00 +0530",
       "author"   : "Krishna Wadhwani"
+    } ,
+  
+    {
+      "title"    : "AE 625: Particle Methods for Fluid Flow Simulations (Fall 2017)",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "https://iitbaero.github.io/elective/courses/Particle-Methods-for-Fluid-Flow-Simulations/",
+      "date"     : "2018-08-11 00:00:00 +0530",
+      "author"   : "Jaspreet Singh"
     } ,
   
     {
