@@ -4,7 +4,9 @@ title: "Resources for Academics at Aerospace, IIT B"
 tags: []
 comments: true
 ---
+## Curriculum [Mar 2018 Update]
+Link - https://drive.google.com/open?id=1xpyMDuck62rGXDZJJym4wg_EAfjTSd1w
 ## Reference Books
 Drive Link - 
 ## Repository of previous year question papers
-Drive Link - 
+All 2nd year Question Papers - 
