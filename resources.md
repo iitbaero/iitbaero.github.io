@@ -7,6 +7,6 @@ comments: true
 ## Curriculum [Mar 2018 Update]
 Link - https://drive.google.com/open?id=1xpyMDuck62rGXDZJJym4wg_EAfjTSd1w
 ## Reference Books
-Drive Link - 
+Drive Link - (will be added soon)
 ## Repository of previous year question papers
-All 2nd year Question Papers - 
+All 2nd year Question Papers - https://drive.google.com/open?id=199VWPLZvXrk1CalA3drY2hEM-6QSEZAQ
