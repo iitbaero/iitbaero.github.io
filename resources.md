@@ -5,7 +5,7 @@ tags: []
 comments: true
 ---
 ## Curriculum [Mar 2018 Update]
-[Link](https://drive.google.com/open?id=1xpyMDuck62rGXDZJJym4wg_EAfjTSd1w)
+[Link](https://drive.google.com/file/d/1JU6XDlVWZZ9l7fLl1mvsss3x7ysDl6Em/view?usp=sharing)
 ## Reference Books
 Drive Link - (will be added soon)
 ## Repository of previous year question papers
