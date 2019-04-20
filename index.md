@@ -47,7 +47,7 @@ __*Our Goals:*__
 # The Team                                                           
 ![cos](https://drive.google.com/uc?id=1_B714nnytqfWnsqTuydtAklAKqWum8A4)
 
-![TEAM PHOTO](https://drive.google.com/file/d/1zOJtvHBQJ3KKy00tAtXOrE9ArAjkAaO9/view?usp=sharing)
+![TEAM PHOTO](https://drive.google.com/uc?id=1zOJtvHBQJ3KKy00tAtXOrE9ArAjkAaO9)
 # Contact Us
 
 Feel free to reach out to us at [kaysri2007@gmail.com](mailto:kaysri2007@gmail.com) or [shashankoxy@gmail.com](mailto:shashankoxy@gmail.com). We are here to help.
