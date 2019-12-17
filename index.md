@@ -34,7 +34,7 @@ __*Our Goals:*__
 * Motivate students to perform better in academics as well as encourage them to excel in their other interests.
 * Improve communication between the faculty and students.
 
-## Initiatitives by the 2018-19 team:
+## Initiatitives by the 2019-20 team:
 * Revamp the __Department Academic Volunteer Programme__ . This wing of the DAMP team focuses on conducting "Basics" and "Doubt Clearing" Academic Help Sessions for students.
 * To conduct a Aerospace Fcaulty Research Presentation and Luncheon to improve student-faculty relations
 * Continuing the highly-regarded novel approach to boosting Mathematical skills of underperforming students through  **Math Help Sessions**.
@@ -45,18 +45,18 @@ __*Our Goals:*__
 * What we look for? - Students who are motivated in helping others and will be dedicated to do so.
 
 # The Team                                                           
-![cos](https://drive.google.com/uc?id=1_B714nnytqfWnsqTuydtAklAKqWum8A4)
+![cos](https://drive.google.com/uc?id=1lf6iFaoBbkA2vYzvJqaZI9tQVVzZAMt5)
 
-![TEAM PHOTO](https://drive.google.com/uc?id=1zOJtvHBQJ3KKy00tAtXOrE9ArAjkAaO9)
+
 # Contact Us
 
-Feel free to reach out to us at [kaysri2007@gmail.com](mailto:kaysri2007@gmail.com) or [shashankoxy@gmail.com](mailto:shashankoxy@gmail.com). We are here to help.
+Feel free to reach out to us at [allenbose1998@gmail.com](mailto:allenbose1998@gmail.com). We are here to help.
 
 
 <div style="text-align: center" >
 <div style="color:#0000FF" >
 
-<i>Created and Mantained by: Kaustubh Sridhar, Shashank Verma, Raj Krishnan, Asim Ukaye</i>
+<i>Created and Mantained by: Kaustubh Sridhar, Shashank Verma, Raj Krishnan, Asim Ukaye, Allen Bose, Sriganesh N</i>
 
 </div>
 </div>
