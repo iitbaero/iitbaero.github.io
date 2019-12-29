@@ -46,18 +46,18 @@ __*Our Goals:*__
 * MMMMMMMMMMMMMMMMMMMM
 
 # The Team                                                           
-![cos](https://drive.google.com/uc?id=1_B714nnytqfWnsqTuydtAklAKqWum8A4)
+![cos](https://drive.google.com/uc?id=1lf6iFaoBbkA2vYzvJqaZI9tQVVzZAMt5)
 
-![TEAM PHOTO](https://drive.google.com/uc?id=1zOJtvHBQJ3KKy00tAtXOrE9ArAjkAaO9)
+
 # Contact Us
 
-Feel free to reach out to us at [kaysri2007@gmail.com](mailto:kaysri2007@gmail.com) or [shashankoxy@gmail.com](mailto:shashankoxy@gmail.com). We are here to help.
+Feel free to reach out to us at [allenbose1998@gmail.com](mailto:allenbose1998@gmail.com). We are here to help.
 
 
 <div style="text-align: center" >
 <div style="color:#0000FF" >
 
-<i>Created and Mantained by: Kaustubh Sridhar, Shashank Verma, Raj Krishnan, Asim Ukaye</i>
+<i>Created and Mantained by: Kaustubh Sridhar, Shashank Verma, Raj Krishnan, Asim Ukaye, Allen Bose, Sriganesh N</i>
 
 </div>
 </div>
