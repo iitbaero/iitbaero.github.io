@@ -34,7 +34,7 @@ __*Our Goals:*__
 * Motivate students to perform better in academics as well as encourage them to excel in their other interests.
 * Improve communication between the faculty and students.
 
-## Initiatitives by the 2018-19 team:
+## Initiatitives by the 2019-20 team:
 * Revamp the __Department Academic Volunteer Programme__ . This wing of the DAMP team focuses on conducting "Basics" and "Doubt Clearing" Academic Help Sessions for students.
 * To conduct a Aerospace Fcaulty Research Presentation and Luncheon to improve student-faculty relations
 * Continuing the highly-regarded novel approach to boosting Mathematical skills of underperforming students through  **Math Help Sessions**.
