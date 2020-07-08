@@ -43,10 +43,9 @@ __*Our Goals:*__
 ## How to be a part of the team?
 * Team Members are students from 3rd year and above. They are selected through a dynamic process of interviews and peer reviews.
 * What we look for? - Students who are motivated in helping others and will be dedicated to do so.
-* MMMMMMMMMMMMMMMMMMMM
 
 # The Team                                                           
-![cos](https://drive.google.com/uc?id=1_B714nnytqfWnsqTuydtAklAKqWum8A4)
+![cos](https://drive.google.com/file/d/1taj9Wh6YUdF_V50RojzhG_Pjg9F30vDD/view?usp=sharing)
 
 ![TEAM PHOTO](https://drive.google.com/uc?id=1zOJtvHBQJ3KKy00tAtXOrE9ArAjkAaO9)
 # Contact Us
