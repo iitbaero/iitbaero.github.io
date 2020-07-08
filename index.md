@@ -2,7 +2,7 @@
 layout: page
 title: "Welcome to the Aerospace DAMP Blog"
 tags: []
-comments: true
+comments: false
 ---
 
 # About this Blog
