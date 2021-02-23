@@ -32,5 +32,4 @@ it may also be applied to other vehicles and systems such
 as submarines, automobiles, trains, trucks, buses and rapid transit.
 </div>
 
-## Faculty and Research Interests of Aerospace Engineering, IIT B
 
