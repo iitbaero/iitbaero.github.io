@@ -1,0 +1,356 @@
+header:
+  - titles:
+      en      : &EN       Grad School Profiles
+    url: /grad_profiles.html
+
+  - titles:
+      en      : &EN       Course Reviews
+    url: /course_reviews.html
+
+  - titles:
+      en      : &EN       Project Reviews
+    url: /project_reviews.html
+
+  - titles:
+      en      : &EN       Placement
+    url: /placement.html
+
+  - titles:
+      en      : &EN       Aero Team
+    url: /aboutUs/dampTeam.html
+
+
+
+
+# Course Reviews Navigation
+docs-en:
+  - title:      Second Year Courses
+    children:
+      - title:  AE 223
+        url:        /course_reviews/second_year/ae-223.html
+      - title:  AE 225
+        url:        /course_reviews/second_year/ae-225.html
+      - title:  AE 227
+        url:        /course_reviews/second_year/ae-227.html
+      - title:  AE 234
+        url:        /course_reviews/second_year/ae-234.html
+      - title:  AE 236
+        url:        /course_reviews/second_year/ae-236.html
+      - title:  AE 238
+        url:        /course_reviews/second_year/ae-238.html
+      - title:  AE 240
+        url:        /course_reviews/second_year/ae-240.html
+
+  - title:      Third Year Courses
+    children:
+      - title:  AE 305
+        url:        /course_reviews/third_year/ae-305.html
+      - title:  AE 308
+        url:        /course_reviews/third_year/ae-308.html
+      - title:  AE 326
+        url:        /course_reviews/third_year/ae-326.html
+      - title:  AE 330
+        url:        /course_reviews/third_year/ae-330.html
+      - title:  AE 332
+        url:        /course_reviews/third_year/ae-332.html
+      - title:  AE 333
+        url:        /course_reviews/third_year/ae-333.html
+
+  - title:      Fourth Year Courses
+    children:
+      - title:  AE 407
+        url:        /course_reviews/fourth_year/ae-407.html
+      - title:  AE 410
+        url:        /course_reviews/fourth_year/ae-410.html
+
+  - title:      Department Electives
+    children:
+      - title:  AE 484
+        url:        /course_reviews/department_elective/ae-484.html
+      - title:  AE 604
+        url:        /course_reviews/department_elective/ae-604.html
+      - title:  AE 624
+        url:        /course_reviews/department_elective/ae-624.html
+      - title:  AE 626
+        url:        /course_reviews/department_elective/ae-626.html
+      - title:  AE 651
+        url:        /course_reviews/department_elective/ae-651.html
+      - title:  AE 656
+        url:        /course_reviews/department_elective/ae-656.html
+      - title:  AE 667
+        url:        /course_reviews/department_elective/ae-667.html
+      - title:  AE 666
+        url:        /course_reviews/department_elective/ae-666.html
+      - title:  AE 706
+        url:        /course_reviews/department_elective/ae-706.html
+      - title:  AE 755
+        url:        /course_reviews/department_elective/ae-755.html
+      - title:  AE 759
+        url:        /course_reviews/department_elective/ae-759.html
+      - title:  MM 445
+        url:        /course_reviews/department_elective/mm-445.html
+
+  - title:      Institute Electives
+    children:
+      - title:  PH 426
+        url:        /course_reviews/institute_elective/ph-426.html
+      - title:  GNR 652
+        url:        /course_reviews/institute_elective/gnr-652.html
+      - title:  GP 401
+        url:        /course_reviews/institute_elective/gp-401.html
+      - title:  ME 316
+        url:        /course_reviews/institute_elective/me-316.html       
+      - title:  CL 686
+        url:        /course_reviews/institute_elective/cl-686.html
+      - title:  BB 601
+        url:        /course_reviews/institute_elective/bb-601.html
+      - title:  ME 761
+        url:        /course_reviews/institute_elective/me-761.html
+      - title:  DE 331
+        url:        /course_reviews/institute_elective/de-331.html
+     
+      
+  - title:      Minors
+    children:
+      - title:  SysCon
+        url:        /course_reviews/minor/syscon/course_list.html
+      - title:  CSE
+        url:        /course_reviews/minor/cse/course_list.html
+      - title:  Electrical Engineering
+        url:        /course_reviews/minor/elec/course_list.html
+      - title:  Data Science
+        url:        /course_reviews/minor/ds/course_list.html
+
+
+
+# Main Project Page Navigation
+project-en:
+  - title:      SLP
+    children:
+      - title:  Reviews
+        url:        /project_reviews/slp/structures/haldar.html
+
+  - title:      BTP
+    children:
+      - title:  Reviews
+        url:        /project_reviews/btp/structures/gogu.html      
+
+  - title:      DDP
+    children:
+      - title:  Reviews
+        url:        /project_reviews/controls/slp/debashish.html
+
+  - title:      SURP
+    children:
+      - title:  Reviews
+        url:        /project_reviews/surp/controls/debashish.html
+
+  - title:      Other projects
+    children:
+      - title:  Reviews
+        url:        /project_reviews/other/controls/maity.html
+
+
+
+
+# SLP Reviews Navigation
+slp-en:
+  - title:      Aerodynamics
+    children:
+      - title:  Prof. Vineeth Nair
+        url:        /project_reviews/slp/aerodynamics/nair.html
+      - title:  Prof. Dhwanil Shukla
+        url:        /project_reviews/slp/aerodynamics/dhwanil.html
+
+  - title:      Structures
+    children:
+      - title:  Prof. Krishnendu Haldar
+        url:        /project_reviews/slp/structures/haldar.html
+      - title:  Prof. PJ Guruprasad
+        url:        /project_reviews/slp/structures/guruprasad.html
+      - title:  Prof. Susmita Naskar
+        url:        /project_reviews/slp/structures/naskar.html
+      - title:  Prof. Amuthan Ramabathiran
+        url:        /project_reviews/slp/structures/amuthan.html
+      - title:  Prof. Abhijit Gogulapati
+        url:        /project_reviews/slp/structures/gogu.html
+
+
+
+  - title:      Controls
+    children:
+      - title:  Prof. Hemendra Arya
+        url:        /project_reviews/slp/controls/arya.html
+      - title:  Prof. Debasish Chatterjee (SysCon)
+        url:        /project_reviews/slp/controls/debashish.html
+      - title:  Prof. Ravi Banavar (SysCon)
+        url:        /project_reviews/slp/controls/banavar.html
+
+  - title:      Propulsion
+    children:
+      - title:  Prof. Kowsik Bodi
+        url:        /project_reviews/slp/propulsion/bodi.html
+      - title:  Prof. Krishnendhu Sinha
+        url:        /project_reviews/slp/propulsion/ksinha.html
+      - title:  Prof. A. M. Pradeep
+        url:        /project_reviews/slp/propulsion/pradeep.html
+
+
+# SURP Reviews Navigation
+surp-en:
+  # - title:      Aerodynamics
+  #   children:
+  #     # - title:  Prof. Prabhu Ramachandran
+  #     #   url:        /course_reviews/second_year/ae-223.html
+
+  - title:      Structures
+    children:
+      - title:  Prof. Amuthan Ramabathiran
+        url:        /project_reviews/surp/structures/amuthan.html
+
+  - title:      Controls
+    children:
+      - title:  Prof. Debasish Chatterjee
+        url:        /project_reviews/surp/controls/debashish.html
+
+  # - title:      Propulsion
+  #   children:
+      # - title:  Prof. Sudarshan Kumar
+      #   url:        /course_reviews/department_elective/ae-484.html
+
+
+
+
+# BTP Reviews Navigation
+btp-en:
+  - title:      Aerodynamics
+    children:
+      - title:  Prof. Dhwanil Shukla
+        url:        /project_reviews/btp/aerodynamics/dhwanil.html
+      - title:  Prof. Prabhu Ramachandran
+        url:        /project_reviews/btp/aerodynamics/prabhu.html   
+
+
+  - title:      Structures
+    children:
+      - title:  Prof. Abhijit Gogulapati
+        url:        /project_reviews/btp/structures/gogu.html
+      - title:  Prof. PJ Guruprasad
+        url:        /project_reviews/btp/structures/guruprasad.html
+
+  - title:      Controls
+    children:
+      - title:  Prof. Arnab Maity
+        url:        /project_reviews/btp/controls/maity.html
+
+  - title:      Propulsion
+    children:
+      # - title:  Prof. Sudarshan Kumar
+      #   url:        /course_reviews/department_elective/ae-484.html
+
+
+#Other projects
+other-en:
+  # - title:      Aerodynamics
+  #   children:
+  #     # - title:  Prof. Prabhu Ramachandran
+  #     #   url:        /course_reviews/second_year/ae-223.html
+
+  # - title:      Structures
+  #   children:
+  #     - title:  Prof. Amuthan Ramabathiran
+  #       url:        /project_reviews/surp/structures/amuthan.html
+
+  - title:      Controls
+    children:
+      - title:  Prof. Arnab Maity
+        url:        /project_reviews/other/controls/maity.html
+      - title:  Prof. Ravi Banavar (SysCon)
+        url:        /project_reviews/other/controls/banavar.html
+
+  - title:      Propulsion
+    children:
+      - title:  Prof. Krishnendhu Sinha
+        url:        /project_reviews/other/propulsion/ksinha.html
+
+
+toc:
+  - title:      Grad School Profiles
+    children:
+      - title:  Sakshi Dayal
+        url:        /grad_profiles/sakshi-dayal.html
+      - title:  Tarang Jain
+        url:        /grad_profiles/tarang-jain.html
+      - title:  Aaron John Sabu
+        url:        /grad_profiles/aaron-john-sabu.html
+      - title:  Malhar Prajapati
+        url:        /grad_profiles/malhar-prajapati.html
+      - title:  Maharshi Pathak
+        url:        /grad_profiles/maharshi-pathak.html
+      - title:  Pujan Biswas
+        url:        /grad_profiles/pujan-biswas.html
+      - title:  Apoorv Som
+        url:        /grad_profiles/apoorv-som.html       
+      - title:  Jinay Patel
+        url:        /grad_profiles/jinay-patel.html
+      - title:  Karan Suresh Jagdale
+        url:        /grad_profiles/karan-suresh-jagdale.html
+      - title:  Maulik Bhatt
+        url:        /grad_profiles/maulik-bhatt.html
+      - title:  Naman Aggarwal
+        url:        /grad_profiles/naman-aggarwal.html
+      - title:  Karthik Anantharaman
+        url:        /grad_profiles/karthik-anantharaman.html
+      - title: Useful Links
+        url:        /grad_profiles/useful-links.html
+
+
+# placement-en:
+#   - title:      Analytics
+#     children:
+#       - title:  Microsoft
+#         url:        /placement_reviews/analytics/microsoft.html
+#       - title:  Microsoft
+#         url:        /placement_reviews/analytics/microsoft.html
+
+#   - title:      Consult
+#     children:
+#       - title:  BCG
+#         url:        /placement_reviews/consulting/boston.html
+#       - title:  BCG
+#         url:        /placement_reviews/consulting/boston.html
+
+#   - title:      IT-Software
+#     children:
+#       - title:  Google
+#         url:        /placement_reviews/itandsoftware/google.html
+#       - title:  Google
+#         url:        /placement_reviews/itandsoftware/google.html
+
+#   - title:      Finance
+#     children:
+#       - title:  ICICI
+#         url:        /placement_reviews/finance/icici.html
+#       - title:  ICICI
+#         url:        /placement_reviews/finance/icici.html
+
+#   - title:      Research and Development
+#     children:
+#       - title:  HiLabs Inc.
+#         url:        /placement_reviews/rnd/hilabsinc.html
+#       - title:  Honda R&D.
+#         url:        /placement_reviews/rnd/honda.html
+
+#   - title:      Engineering And Technology
+#     children:
+#       - title:  ZERO
+#         url:        /placement_reviews/engineeringandtechnology/drdo.html
+#       - title:  ZERO
+#         url:        /placement_reviews/engineeringandtechnology/drdo.html
+
+#   - title:      Others
+#     children:
+#       - title:  Indian Railways
+#         url:        /placement_reviews/others/indianrailways.html
+#       - title:  Indian Railways
+#         url:        /placement_reviews/others/indianrailways.html
