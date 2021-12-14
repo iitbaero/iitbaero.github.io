@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Welcome to the Aerospace DAMP Blog
+title: Welcome to the Aerospace Blog of IITB
 header:
   theme: dark
   background: 'linear-gradient(90deg, rgb(65, 59, 103, 1), rgb(43, 46, 91, 1))'
