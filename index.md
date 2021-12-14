@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Welcome to the Aerospace DAMP Blog"
+title: "Welcome to the Aerospace Blog of IITB"
 tags: []
 comments: false
 ---
