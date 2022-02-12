@@ -1,19 +1,15 @@
 header:
   - titles:
-      en      : &EN       Grad School Profiles
-    url: /grad_profiles.html
+      en      : &EN       Reviews
+    url: /reviews.html
 
   - titles:
-      en      : &EN       Course Reviews
-    url: /course_reviews.html
+      en      : &EN       Miscellaneous
+    url: /misc_.html
 
   - titles:
-      en      : &EN       Project Reviews
-    url: /project_reviews.html
-
-  - titles:
-      en      : &EN       Placement
-    url: /placement.html
+      en      : &EN       FAQs
+    url: /faq.html
 
   - titles:
       en      : &EN       Aero Team
