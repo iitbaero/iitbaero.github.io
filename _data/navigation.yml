@@ -18,7 +18,7 @@ header:
 
 
 
-# Course Reviews Navigation
+###################################################### COURSE REVIEWS NAVIGATION #######################################################
 docs-en:
   - title:      Second Year Courses
     children:
@@ -119,7 +119,7 @@ docs-en:
 
 
 
-# Main Project Page Navigation
+########################################################### MAIN PROJECT NAVIGATION #########################################################
 project-en:
   - title:      SLP
     children:
@@ -149,7 +149,7 @@ project-en:
 
 
 
-# SLP Reviews Navigation
+############################################################## SLP REVIEWS NAVIGATION ##########################################################
 slp-en:
   - title:      Aerodynamics
     children:
@@ -192,7 +192,7 @@ slp-en:
         url:        /project_reviews/slp/propulsion/pradeep.html
 
 
-# SURP Reviews Navigation
+############################################################### SURP NAVIAGATION ###############################################################
 surp-en:
   # - title:      Aerodynamics
   #   children:
@@ -217,7 +217,7 @@ surp-en:
 
 
 
-# BTP Reviews Navigation
+################################################################# BTP REVIEW NAVIGATION ######################################################
 btp-en:
   - title:      Aerodynamics
     children:
@@ -245,7 +245,7 @@ btp-en:
       #   url:        /course_reviews/department_elective/ae-484.html
 
 
-#Other projects
+##################################################################### OTHER PROJECTS ##########################################################
 other-en:
   # - title:      Aerodynamics
   #   children:
@@ -270,6 +270,8 @@ other-en:
         url:        /project_reviews/other/propulsion/ksinha.html
 
 
+
+############################################################### GRAD SCHOOL PROFILES ###########################################################
 toc:
   - title:      Grad School Profiles
     children:
@@ -301,52 +303,160 @@ toc:
         url:        /grad_profiles/useful-links.html
 
 
-# placement-en:
-#   - title:      Analytics
-#     children:
-#       - title:  Microsoft
-#         url:        /placement_reviews/analytics/microsoft.html
-#       - title:  Microsoft
-#         url:        /placement_reviews/analytics/microsoft.html
+########################################################## MISCELLANEOUS REVIEWS ########################################################
 
-#   - title:      Consult
-#     children:
-#       - title:  BCG
-#         url:        /placement_reviews/consulting/boston.html
-#       - title:  BCG
-#         url:        /placement_reviews/consulting/boston.html
+################################## PLACEMENT REVIEWS ###############################
+placement-en:
+  - title:      Analytics
+    children:
+      - title:  Microsoft
+        url:        /placement_reviews/analytics/microsoft.html
+      - title:  Microsoft
+        url:        /placement_reviews/analytics/microsoft.html
 
-#   - title:      IT-Software
-#     children:
-#       - title:  Google
-#         url:        /placement_reviews/itandsoftware/google.html
-#       - title:  Google
-#         url:        /placement_reviews/itandsoftware/google.html
+  - title:      Consult
+    children:
+      - title:  BCG
+        url:        /placement_reviews/consulting/boston.html
+      - title:  BCG
+        url:        /placement_reviews/consulting/boston.html
 
-#   - title:      Finance
-#     children:
-#       - title:  ICICI
-#         url:        /placement_reviews/finance/icici.html
-#       - title:  ICICI
-#         url:        /placement_reviews/finance/icici.html
+  - title:      IT-Software
+    children:
+      - title:  Google
+        url:        /placement_reviews/itandsoftware/google.html
+      - title:  Google
+        url:        /placement_reviews/itandsoftware/google.html
 
-#   - title:      Research and Development
-#     children:
-#       - title:  HiLabs Inc.
-#         url:        /placement_reviews/rnd/hilabsinc.html
-#       - title:  Honda R&D.
-#         url:        /placement_reviews/rnd/honda.html
+  - title:      Finance
+    children:
+      - title:  ICICI
+        url:        /placement_reviews/finance/icici.html
+      - title:  ICICI
+        url:        /placement_reviews/finance/icici.html
 
-#   - title:      Engineering And Technology
-#     children:
-#       - title:  ZERO
-#         url:        /placement_reviews/engineeringandtechnology/drdo.html
-#       - title:  ZERO
-#         url:        /placement_reviews/engineeringandtechnology/drdo.html
+  - title:      Research and Development
+    children:
+      - title:  HiLabs Inc.
+        url:        /placement_reviews/rnd/hilabsinc.html
+      - title:  Honda R&D.
+        url:        /placement_reviews/rnd/honda.html
 
-#   - title:      Others
-#     children:
-#       - title:  Indian Railways
-#         url:        /placement_reviews/others/indianrailways.html
-#       - title:  Indian Railways
-#         url:        /placement_reviews/others/indianrailways.html
+  - title:      Engineering And Technology
+    children:
+      - title:  ZERO
+        url:        /placement_reviews/engineeringandtechnology/drdo.html
+      - title:  ZERO
+        url:        /placement_reviews/engineeringandtechnology/drdo.html
+
+  - title:      Others
+    children:
+      - title:  Indian Railways
+        url:        /placement_reviews/others/indianrailways.html
+      - title:  Indian Railways
+        url:        /placement_reviews/others/indianrailways.html
+
+
+################################## INTERNSHIP REVIEWS ###############################
+intern-en:
+  - title:      Analytics
+    children:
+      - title:  Microsoft
+        url:        /placement_reviews/analytics/microsoft.html
+      - title:  Microsoft
+        url:        /placement_reviews/analytics/microsoft.html
+
+  - title:      Consult
+    children:
+      - title:  BCG
+        url:        /placement_reviews/consulting/boston.html
+      - title:  BCG
+        url:        /placement_reviews/consulting/boston.html
+
+  - title:      IT-Software
+    children:
+      - title:  Google
+        url:        /placement_reviews/itandsoftware/google.html
+      - title:  Google
+        url:        /placement_reviews/itandsoftware/google.html
+
+  - title:      Finance
+    children:
+      - title:  ICICI
+        url:        /placement_reviews/finance/icici.html
+      - title:  ICICI
+        url:        /placement_reviews/finance/icici.html
+
+  - title:      Research and Development
+    children:
+      - title:  HiLabs Inc.
+        url:        /placement_reviews/rnd/hilabsinc.html
+      - title:  Honda R&D.
+        url:        /placement_reviews/rnd/honda.html
+
+  - title:      Engineering And Technology
+    children:
+      - title:  ZERO
+        url:        /placement_reviews/engineeringandtechnology/drdo.html
+      - title:  ZERO
+        url:        /placement_reviews/engineeringandtechnology/drdo.html
+
+  - title:      Others
+    children:
+      - title:  Indian Railways
+        url:        /placement_reviews/others/indianrailways.html
+      - title:  Indian Railways
+        url:        /placement_reviews/others/indianrailways.html
+
+
+
+################################## SEMESTER EXCHANGE REVIEWS ###############################
+semex-en:
+  - title:      Analytics
+    children:
+      - title:  Microsoft
+        url:        /placement_reviews/analytics/microsoft.html
+      - title:  Microsoft
+        url:        /placement_reviews/analytics/microsoft.html
+
+  - title:      Consult
+    children:
+      - title:  BCG
+        url:        /placement_reviews/consulting/boston.html
+      - title:  BCG
+        url:        /placement_reviews/consulting/boston.html
+
+  - title:      IT-Software
+    children:
+      - title:  Google
+        url:        /placement_reviews/itandsoftware/google.html
+      - title:  Google
+        url:        /placement_reviews/itandsoftware/google.html
+
+  - title:      Finance
+    children:
+      - title:  ICICI
+        url:        /placement_reviews/finance/icici.html
+      - title:  ICICI
+        url:        /placement_reviews/finance/icici.html
+
+  - title:      Research and Development
+    children:
+      - title:  HiLabs Inc.
+        url:        /placement_reviews/rnd/hilabsinc.html
+      - title:  Honda R&D.
+        url:        /placement_reviews/rnd/honda.html
+
+  - title:      Engineering And Technology
+    children:
+      - title:  ZERO
+        url:        /placement_reviews/engineeringandtechnology/drdo.html
+      - title:  ZERO
+        url:        /placement_reviews/engineeringandtechnology/drdo.html
+
+  - title:      Others
+    children:
+      - title:  Indian Railways
+        url:        /placement_reviews/others/indianrailways.html
+      - title:  Indian Railways
+        url:        /placement_reviews/others/indianrailways.html
