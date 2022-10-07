@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem 'octopress'
-gem 'jekyll-paginate'
-gem 'neo-hpstr-jekyll-theme'
-gem 'jekyll-sitemap'
+# gem "github-pages", group: :jekyll_plugins
+gemspec
+
+gem "webrick", "~> 1.7"

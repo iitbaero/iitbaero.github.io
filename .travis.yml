@@ -1,22 +1,17 @@
 language: ruby
-
 rvm:
-  - 2.2
-
-script:
-  - bundle exec jekyll build
-
+  - 2.4.1
 branches:
-  - sources
-
-before_install:
-  - gem install bundler
-  - bundle install
-
+  only:
+  - master
+before_script: cp -rfv docs/_includes .
+script: JEKYLL_ENV=production bundle exec jekyll build --config ./docs/_config.yml
 deploy:
-  provider: script
-  script: "./_scripts/deploy.sh"
-  skip_cleanup: false
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: _site
+  keep-history: true
   on:
-    branch: sources
-
+    branch: master
+    target_branch: gh-pages
