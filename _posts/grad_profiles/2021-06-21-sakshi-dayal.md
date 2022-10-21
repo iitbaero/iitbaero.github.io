@@ -36,7 +36,7 @@ Education Futures, KC Mahindra, JN Tata, Narotam Sekhsaria Scholarships
 
 #### CV/Resume:
 
-<iframe src="https://drive.google.com/file/d/15mIbZgk1vTjkyEUJj2BPAsZ6IK-f4N8X/preview" width="700" height="500" allow="autoplay"></iframe>
+<iframe src="https://github.com/iitbaero/iitbaero.github.io/blob/sources/Grad%20School%20Resumes/Sakshi_Dayal_CV%20-%20Sakshi%20Dayal.pdf/preview" width="700" height="500" allow="autoplay"></iframe>
 
 #### How many universities did you apply to?: 
 More than 10
