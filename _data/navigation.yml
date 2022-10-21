@@ -275,6 +275,16 @@ other-en:
 toc:
   - title:      Grad School Profiles
     children:
+      - title:  Harshvardhan Baldwa
+        url:        /grad_profiles/harshvardhan-baldwa.html
+      - title:  Vedanth Sharma
+        url:        /grad_profiles/vedanth-sharma.html
+      - title:  Manav Vora
+        url:        /grad_profiles/manav-vora.html
+      - title:  Niket Parikh
+        url:        /grad_profiles/niket-parikh.html
+      - title:  Miloni Atal
+        url:        /grad_profiles/miloni-atal.html
       - title:  Sakshi Dayal
         url:        /grad_profiles/sakshi-dayal.html
       - title:  Tarang Jain
@@ -460,3 +470,4 @@ semex-en:
         url:        /placement_reviews/others/indianrailways.html
       - title:  Indian Railways
         url:        /placement_reviews/others/indianrailways.html
+
