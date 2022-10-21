@@ -36,7 +36,7 @@ None
 
 #### CV/Resume:
 
-<iframe src="https://drive.google.com/drive/u/3/folders/1GiYYrlMtUAb2IGhEVW2fGQDLoWIQlrO_" width="700" height="500" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/16VFvLRGmnDevEtHnZhQLt0ZD_Qt0yHFx/view" width="700" height="500" allow="autoplay"></iframe>
 
 #### How many universities did you apply to?: 
 7
