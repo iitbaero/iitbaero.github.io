@@ -56,20 +56,19 @@ Northwestern University|Computer Science|Rejected
 University of Southern California|Computer Science (High Performance Computing and Simulation)|Rejected
 
 #### What was your BTP title and who was your guide?
-Title: Parallel Adaptive Fast Multipole Methods
-Guide: Prof. Prabhu Ramachandran
+Title: Parallel Adaptive Fast Multipole Methods, Guide: Prof. Prabhu Ramachandran
 
 #### What all courses did you take in Insti which you think fostered your interest in your current research area and are relevant to your field? Please mention the semester in which you took the course as well.
-High Performance Scientific Computing - 9th
-Parallel Scientific Computing and Visualization - 10th
+* High Performance Scientific Computing - 9th
+* Parallel Scientific Computing and Visualization - 10th
 
 #### What were the Peaks in your profile which you think helped you in getting an admit? (Publication(s), Department Rank, etc.)
 Strong LOR, CPI (maybe)
 
 #### Please mention the sources for your Letters of Recommendation (BTP/DDP Guide, Internship guide, Course Instructor, etc.)
-Prof. Prabhu Ramachandran - BTP/DDP Guide
-Prof. Avijit Chatterjee - TA for 2 courses, BTP/DDP Examiner
-Prof. Aniruddha Sinha - SLP Guide
+* Prof. Prabhu Ramachandran - BTP/DDP Guide
+* Prof. Avijit Chatterjee - TA for 2 courses, BTP/DDP Examiner
+* Prof. Aniruddha Sinha - SLP Guide
 
 #### Any advice/tips for juniors who are interested in a similar field and are planning to go for Higher Studies?
 
