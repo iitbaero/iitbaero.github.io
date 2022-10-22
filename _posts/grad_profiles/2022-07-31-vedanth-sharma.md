@@ -76,4 +76,4 @@ IITB Undergrad Research Advisor, MITACS Internship Research Advisor, Amity Unive
 #### Any advice/tips for juniors who are interested in a similar field and are planning to go for Higher Studies?
 
 
-#### Contact: [linkedin.com/in/vedanth0799](linkedin:https://www.linkedin.com/in/vedanth0799/)
+#### Contact: [linkedin.com/in/vedanth0799](https://www.linkedin.com/in/vedanth0799/)
