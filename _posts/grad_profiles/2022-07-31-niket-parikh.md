@@ -42,9 +42,6 @@ None
 7
 
 #### Which universities did you apply to and what was the status of your application there?
-
-| University | Department | Status | 
-| -----------|------------|--------|
 Applied to 12 programs. Please contact me for more details. 
 
 #### What was your BTP title and who was your guide?
@@ -57,9 +54,9 @@ My work in IITB Student Satellite Program fostered my interest in the research a
 I don't think there were any. 
 
 #### Please mention the sources for your Letters of Recommendation (BTP/DDP Guide, Internship guide, Course Instructor, etc.)
-Advisor at Syscon, IITB
-Internship advisor at Texas A&M University
-IITB Student Satellite Project
+* Advisor at Syscon, IITB
+* Internship advisor at Texas A&M University
+* IITB Student Satellite Project
 
 
 #### Any advice/tips for juniors who are interested in a similar field and are planning to go for Higher Studies?
