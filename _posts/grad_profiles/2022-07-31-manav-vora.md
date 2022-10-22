@@ -64,13 +64,13 @@ Control of Agile Tethered Drones, Prof. Hemendra Arya
 * Stochastic and Networked Control (7th)
 
 #### What were the Peaks in your profile which you think helped you in getting an admit? (Publication(s), Department Rank, etc.)
-Research internship in GRASP Laboratory, UPenn
-Research projects in IITB with Prof. Hemendra Arya and Arnab Maity
+* Research internship in GRASP Laboratory, UPenn
+* Research projects in IITB with Prof. Hemendra Arya and Arnab Maity
 
 #### Please mention the sources for your Letters of Recommendation (BTP/DDP Guide, Internship guide, Course Instructor, etc.)
-*Prof. Pratik Chaudhari - Project Guide (UPenn)
-*Prof. Hemendra Arya - BTP Guide (IITB)
-*Prof. Arnab Maity - Project Guide (IITB)
+* Prof. Pratik Chaudhari - Project Guide (UPenn)
+* Prof. Hemendra Arya - BTP Guide (IITB)
+* Prof. Arnab Maity - Project Guide (IITB)
 
 #### Any advice/tips for juniors who are interested in a similar field and are planning to go for Higher Studies?
 Take as many relevant courses as possible in your field of interest as it will help you identify which specific research area you want to work on in that field. Such clarity helps in applications. Work on research projects in the field of interest as they will help you gain practical experience alongside theoretical knowledge 
