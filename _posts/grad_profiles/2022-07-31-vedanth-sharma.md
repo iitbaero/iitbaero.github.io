@@ -58,14 +58,13 @@ Quad Fellowship
 
 
 #### What was your BTP title and who was your guide?
-Plasma Acceleration and Detachment Mechanism in VASIMR Magnetic Nozzle (Guide - Prof. Kowsik Bodi)
+Title: Plasma Acceleration and Detachment Mechanism in VASIMR Magnetic Nozzle, Guide: Prof. Kowsik Bodi)
 
 #### What all courses did you take in Insti which you think fostered your interest in your current research area and are relevant to your field? Please mention the semester in which you took the course as well.
-AE 484 Finite Element Method - 7th
-AE 219	Supervised Learning - Sem 4
-ME 699	Magnetohydrodynamics and its engineering applications - Sem 5
-AE 419	Supervised Learning - Sem 6
-AE 493/494 BTP I/II - Sem 7/8
+* AE 219	Supervised Learning - Sem 4
+* ME 699	Magnetohydrodynamics and its engineering applications - Sem 5
+* AE 419	Supervised Learning - Sem 6
+* AE 493/494 BTP I/II - Sem 7/8
 
 #### What were the Peaks in your profile which you think helped you in getting an admit? (Publication(s), Department Rank, etc.)
 Mitacs Intern, CPI, LoR, Poster/Oral Presentation at Conferences 
