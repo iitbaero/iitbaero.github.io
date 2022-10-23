@@ -36,7 +36,7 @@ Quad Fellowship
 
 #### CV/Resume:
 
-<iframe src="https://drive.google.com/file/d/1nGT-MBZz5aABkXJ-skgqvfpvA5kGQ8H7/view" width="700" height="500" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1nGT-MBZz5aABkXJ-skgqvfpvA5kGQ8H7/preview" width="700" height="500" allow="autoplay"></iframe>
 
 #### How many universities did you apply to?: 
 8
