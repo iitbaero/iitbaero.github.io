@@ -31,7 +31,7 @@ Non-Funded
 
 #### CV/Resume:
 
-<iframe src="https://drive.google.com/file/d/1EfPhvVJG_E1jSBsm_yLYqriKihxSFywR/view" width="700" height="500" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1EfPhvVJG_E1jSBsm_yLYqriKihxSFywR/preview" width="700" height="500" allow="autoplay"></iframe>
 
 #### How many universities did you apply to?: 
 13
