@@ -39,7 +39,7 @@ None
 <iframe src="https://drive.google.com/file/d/16VFvLRGmnDevEtHnZhQLt0ZD_Qt0yHFx/preview" width="700" height="500" allow="autoplay"></iframe>
 
 #### How many universities did you apply to?: 
-7
+10
 
 #### Which universities did you apply to and what was the status of your application there?
 Applied to 12 programs. Please contact me for more details. 
