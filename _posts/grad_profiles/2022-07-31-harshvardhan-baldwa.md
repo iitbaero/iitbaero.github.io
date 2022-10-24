@@ -45,7 +45,6 @@ None
 
 | University | Department | Status | 
 | -----------|------------|--------|
-| Texas A&M       | Aero       | Accepted   |
 |Georgia Institute of Technology| Computational Science and Engineering|Accepted|
 |University of Pennsylvania|Scientific Computing|Accepted|
 |University of Southern California|Computer Science|Accepted|
