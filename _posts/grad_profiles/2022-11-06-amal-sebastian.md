@@ -37,7 +37,7 @@ Graduate Research Assistantship
 
 #### CV/Resume:
 
-<iframe src="insert drive link here" width="700" height="500" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1kRnMCTbKceHjUIjihNmy2MNfX43z9yBb/preview" width="700" height="500" allow="autoplay"></iframe>
 
 #### How many universities did you apply to?: 
 8
@@ -79,6 +79,6 @@ Decent amount of research experience. Secured first/second positions in a few te
 * Prof. Abhijit Gogulapati - Was a TA for AE 755, and secured AP in AE 326.
 
 #### Any advice/tips for juniors who are interested in a similar field and are planning to go for Higher Studies?
-What matters in the end in the quality of research work you do and the output of it, everything else is just an extra addition that slightly boosts your profile. This is something I only realised after getting into a PhD program :( . Try to find a field that excites you and work hard on it.
+What matters in the end is the quality of research work you do and the output of it, everything else is just an extra addition that slightly boosts your profile. This is something I only realised after getting into a PhD program :( . Try to find a field that excites you and work hard on it.
 
 #### Contact: [asebasti@andrew.cmu.edu](mailto:asebasti@andrew.cmu.edu)
