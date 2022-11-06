@@ -3,8 +3,6 @@ layout: article
 permalink: /reviews.html
 ---
 
-# We have lot's of reviews, checkout yours !!
-
 <style>
   .card__header h4,
   .overlay p {
