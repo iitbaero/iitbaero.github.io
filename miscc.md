@@ -3,8 +3,6 @@ layout: article
 permalink: /misc_.html
 ---
 
-# Navigate to what you want to know !!
-
 <style>
   .card__header h4,
   .overlay p {
