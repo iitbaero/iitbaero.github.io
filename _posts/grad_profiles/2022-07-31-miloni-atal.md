@@ -20,6 +20,9 @@ Columbia University, Computer Science
 #### Program:
 MS
 
+#### Discipline: 
+Others
+
 #### Funded/Non-funded:
 Non-Funded
 

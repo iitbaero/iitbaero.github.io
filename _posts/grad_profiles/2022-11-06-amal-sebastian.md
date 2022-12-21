@@ -23,6 +23,9 @@ PhD
 #### Research Area: 
 Computational Science
 
+#### Discipline: 
+Computational Science
+
 #### Funded/Non-funded:
 Funded
 

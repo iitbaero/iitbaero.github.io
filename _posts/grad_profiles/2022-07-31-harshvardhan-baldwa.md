@@ -22,6 +22,9 @@ MS
 #### Research Area: 
 Computational Science
 
+#### Discipline: 
+Computational Science and Engineering
+
 #### Funded/Non-funded:
 Funded
 

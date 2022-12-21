@@ -21,6 +21,8 @@ Stanford University, Department of Aeronautics & Astronautics
 MS
 #### Research Area: 
 Electric Propulsion
+#### Discipline: 
+Propulsion
 
 #### Funded/Non-funded:
 Non-Funded

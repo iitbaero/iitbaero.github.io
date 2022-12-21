@@ -21,6 +21,8 @@ University of Illinois-Urbana Champaign, Aerospace Engineering
 PhD
 #### Research Area: 
 Controls
+#### Discipline: 
+Controls
 
 #### Funded/Non-funded:
 Funded
