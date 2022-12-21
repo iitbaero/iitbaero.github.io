@@ -19,6 +19,8 @@ The University of Texas at Arlington, Mechanical and Aerospace Engineering
 PhD
 #### Research Area: 
 Dynamics and Control, Spacecraft Guidance and Control, Orbital Mechanics, Optimization, and Astronomy
+#### Discipline: 
+Controls
 #### Funded/Non-funded:
 Funded
 #### Scholarships:

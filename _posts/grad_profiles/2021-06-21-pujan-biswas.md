@@ -19,6 +19,8 @@ Stanford University, Mechanical Engineering
 PhD
 #### Research Area: 
 Aerospace propulsion, Combustion, Hypersonics, High temperature gasdynamics, Laser sensors
+#### Discipline: 
+Propulsion
 #### Funded/Non-funded:
 Funded
 <!-- #### Scholarships: -->

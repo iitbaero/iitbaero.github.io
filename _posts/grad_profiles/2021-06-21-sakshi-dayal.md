@@ -22,6 +22,9 @@ MS
 #### Research Area: 
 Mechanical Design and Computational Mechanics
 
+#### Discipline: 
+Computational Science and Engineering
+
 #### Funded/Non-funded:
 Not funded
 

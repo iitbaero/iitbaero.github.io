@@ -23,6 +23,9 @@ MS
 #### Research Area: 
 Machine Learning, NLP
 
+#### Discipline: 
+Computational Science and Engineering
+
 #### Funded/Non-funded:
 Not funded
 

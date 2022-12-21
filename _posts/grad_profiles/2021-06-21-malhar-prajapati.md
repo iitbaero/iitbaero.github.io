@@ -19,6 +19,8 @@ University of Michigan - Aerospace
 MS
 #### Research Area: 
 Aerodynamics
+#### Discipline: 
+Others
 #### Funded/Non-funded:
 Not funded
 #### Scholarships you applied for:

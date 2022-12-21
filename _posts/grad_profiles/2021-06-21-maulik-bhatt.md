@@ -12,8 +12,7 @@ permalink: /grad_profiles/:categories
 <!-- # Hi, this is the page for Maulik. -->
 <!-- Write Program if different from Btech Aero-->
 #### Undergraduate Program:
-B.Tech in Aerospace Engineering, 2016-2020
-<br>
+B.Tech in Aerospace Engineering, 2016-2020 and
 M.Tech (IDDDP) in Systems and Controls Engineering, 2020-2021
 #### University and Department: 
 UIUC - Aerospace Engineering
@@ -21,6 +20,8 @@ UIUC - Aerospace Engineering
 PhD
 #### Research Area: 
 Game Theory, Stochastic Control, Optimization
+#### Discipline: 
+Controls
 #### Funded/Non-funded:
 Funded
 #### Scholarships:

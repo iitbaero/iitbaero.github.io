@@ -18,7 +18,9 @@ University of Illinois Urbana-Champaign, Aerospace Engineering
 #### Program:
 MS
 #### Research Area: 
-Estimation, Control theory, Learning theory and their implementation on real systems/simulations. 
+Estimation, Control theory, Learning theory and their implementation on real systems/simulations.
+#### Discipline: 
+Controls
 #### Funded/Non-funded:
 It is not funded by default, but one can get RA/TA ships by contacting a prof over there or one can also get a fellowship on the basis of their admission application.
 #### Scholarships you applied for:

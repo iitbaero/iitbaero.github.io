@@ -21,7 +21,8 @@ UCLA Electrical & Computer Engineering
 MS
 #### Research Area: 
 Multi-robot systems, Formation flight
-
+#### Discipline: 
+Controls
 #### Funded/Non-funded:
 Future assistantship-based scholarships
 #### Scholarships:

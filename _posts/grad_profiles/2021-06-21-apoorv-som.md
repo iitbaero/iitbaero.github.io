@@ -19,6 +19,8 @@ B.Tech in Aerospace Engineering, 2017-2021
 MS
 #### Research Area: 
 Computational Structural Mechanics, Composite Structures & Materials, Loads & Aeroelasticity, Topology Optimization, Fatigue & Failure, Spacecraft, Aircraft & Rotorcraft (VTOL) Structural Design
+#### Discipline: 
+Structures
 #### Funded/Non-funded:
 Not funded
 #### Scholarships you applied for:

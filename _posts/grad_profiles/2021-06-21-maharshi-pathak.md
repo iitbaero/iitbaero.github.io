@@ -19,6 +19,8 @@ UCLA, Mechanical and Aerospace engineering
 MS
 #### Research Area: 
 Dynamics and control, aeroelasticity
+#### Discipline: 
+Controls
 #### Funded/Non-funded:
 Not funded
 #### Scholarships you applied for:

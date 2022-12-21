@@ -19,6 +19,8 @@ Stanford, Aerospace
 MS
 #### Research Area: 
 Fluids (CFD), Aerodynamics
+#### Discipline: 
+Fluids
 #### Funded/Non-funded:
 Not funded
 #### Scholarships you applied for:

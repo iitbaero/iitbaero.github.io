@@ -13,32 +13,25 @@ permalink: /grad_profiles/:categories
 
 <!-- Write Program if different from Btech Aero-->
 #### Undergraduate Program:
-B.Tech in Aerospace Engineering, 2016-2020
-<br>
+B.Tech in Aerospace Engineering, 2016-2020 and
 M.Tech (IDDDP) in Systems and Controls Engineering, 2020-2021
-
 #### University and Department: 
 Massachusetts Institute of Technology, AeroAstro Department
-
 #### Program:
 PhD
 #### Research Area: 
 Studying stochastic and networked control systems. Relations to information theory, game theory etc.
-
+#### Discipline: 
+Controls
 #### Funded/Non-funded:
 Funded
-
 #### Scholarships:
 NA
-
 #### GRE score:
 325
-
 #### TOEFL score: 
 116
-
 #### CV/Resume:
-
 <iframe src="https://drive.google.com/file/d/1KZ6YpHgc2CY6pd-WIOnMrfC4e4ZTcazd/preview" width="700" height="500" allow="autoplay"></iframe>
 
 #### How many universities did you apply to?: 
