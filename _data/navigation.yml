@@ -61,6 +61,8 @@ docs-en:
 
   - title:      Department Electives
     children:
+      - title:  AE 6102
+        url:        /course_reviews/department_elective/ae-6102.html
       - title:  AE 484
         url:        /course_reviews/department_elective/ae-484.html
       - title:  AE 604
