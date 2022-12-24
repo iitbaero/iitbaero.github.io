@@ -5,7 +5,7 @@ aside:
   toc: true
 sidebar:
   nav: other-en
-categories: other controls 
+categories: other controls rohitgupta
 permalink: /project_reviews/:categories
 ---
 
