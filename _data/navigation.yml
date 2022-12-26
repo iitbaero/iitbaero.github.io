@@ -91,6 +91,8 @@ docs-en:
         url:        /course_reviews/department_elective/ae-710.html
       - title:  ME 472
         url:        /course_reviews/department_elective/me-472.html
+      - title:  ME 415
+        url:        /course_reviews/department_elective/me-415.html
         
   - title:      Institute Electives
     children:
