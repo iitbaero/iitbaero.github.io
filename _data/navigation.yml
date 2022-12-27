@@ -97,7 +97,21 @@ docs-en:
         url:        /course_reviews/department_elective/ae-678.html
       - title:  AE 648
         url:        /course_reviews/department_elective/ae-648.html
-        
+      - title:  AE 622
+        url:        /course_reviews/department_elective/ae-622.html
+      - title:  AE 681
+        url:        /course_reviews/department_elective/ae-681.html
+      - title:  AE 682
+        url:        /course_reviews/department_elective/ae-682.html
+      - title:  AE 617
+        url:        /course_reviews/department_elective/ae-617.html
+      - title:  ME 699
+        url:        /course_reviews/department_elective/me-699.html
+      - title:  AE 673
+        url:        /course_reviews/department_elective/ae-673.html
+      - title:  IE 614
+        url:        /course_reviews/department_elective/ie-614.html
+
   - title:      Institute Electives
     children:
       - title:  PH 426
@@ -118,6 +132,10 @@ docs-en:
         url:        /course_reviews/institute_elective/de-331.html
       - title:  ME 616
         url:        /course_reviews/institute_elective/me-616.html
+      - title:  HS 408
+        url:        /course_reviews/institute_elective/hs-408.html
+      - title:  GNR 638
+        url:        /course_reviews/institute_elective/gnr-638.html
      
       
   - title:      Minors
