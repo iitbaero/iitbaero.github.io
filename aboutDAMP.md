@@ -36,25 +36,6 @@ permalink: /aboutUs/dampTeam.html
       </div>
     </div>
   </div>
-  <div class="cell cell--12 cell--md-6 cell--lg-6 content p-2">
-    <div class="card">
-      <a href="aeroCouncil.html">
-        <div class="card__image card--clickable">
-          <img class="image" src="\Image\Council\Kaustav.jpg" />
-          <div class="overlay overlay--bottom">
-            <p>kaustavkishor09@gmail.com</p>
-          </div>
-        </div>
-      </a>
-      <div class="card__content">
-        <div class="card__header">
-          <h4 style=" font-weight: normal">Kaustav Kishor</h4>
-          <h4>Department General Secretary</h4>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
 
 ## DAMP Team
 
