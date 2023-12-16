@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Aero Team
+title: DAMP team
 key: page-about
 permalink: /aboutUs/dampTeam.html
 ---
@@ -60,7 +60,7 @@ permalink: /aboutUs/dampTeam.html
     </div>
   </div>
 </div>
-## DAMP Team
+
 
 <div class="grid">
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
