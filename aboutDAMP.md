@@ -15,7 +15,14 @@ permalink: /aboutUs/dampTeam.html
     padding: 0;
     line-height: 25px;
   }
-
+  .card__images {
+    display: flex;       /* Enable flexbox */
+    justify-content: center; /* Center horizontally */
+    align-items: center;     /* Center vertically */
+    height: 200px; /* Set a specific height */
+    width: 200%; /* Take full width of the parent to fill the space */
+    overflow: hidden; /* Ensures no part of the image spills out */
+  }
   .card__image {
     position: relative;
     width: 200px; /* Fixed width for the image container */
@@ -44,7 +51,7 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-6 content p-2">
     <div class="card" style="border: 5px solid #ff7b50">
       <a href="#">
-        <div class="card__image card--clickable">
+        <div class="card__images card--clickable">
           <img class="image" src="\Image\DAMP\Ammar.jpeg" />
           <div class="overlay overlay--bottom">
             <p>ammarbarbhai@gmail.com</p>
