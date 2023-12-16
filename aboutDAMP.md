@@ -5,7 +5,7 @@ key: page-about
 permalink: /aboutUs/dampTeam.html
 ---
 
-<!-- ## DAMP Coordinator: Amal S Sebastian -->
+<!-- ## DAMP Coordinator: Ammar Barbhaiwala-->
 
 <style>
   .card__header h4,
@@ -22,15 +22,15 @@ permalink: /aboutUs/dampTeam.html
     <div class="card" style="border: 5px solid #ff7b50">
       <a href="#">
         <div class="card__image card--clickable">
-          <img class="image" src="\Image\DAMP\Vishnu.jpg" />
+          <img class="image" src="\Image\DAMP\Ammar.jpeg" />
           <div class="overlay overlay--bottom">
-            <p>vishnu67sankar@gmail.com</p>
+            <p>ammarbarbhai@gmail.com</p>
           </div>
         </div>
       </a>
       <div class="card__content">
         <div class="card__header">
-          <h4 style=" font-weight: normal">Vishnu Sankar</h4>
+          <h4 style=" font-weight: normal">Ammar Barbhaiwala</h4>
           <h4>DAMP Coordinator</h4>
         </div>
       </div>
@@ -62,14 +62,14 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\DAMP\Navjit.jpg" />
+        <img class="image" src="\Image\DAMP\Abhijeet.jpeg" />
         <div class="overlay overlay--bottom">
-          <p>navjitdebnath5@gmail.com</p>
+          <p>abhijeetjha911@gmail.com</p>
         </div>
       </div>
       <div class="card__content">
         <div class="card__header">
-          <h4>Navjit Debnath</h4>
+          <h4>Abhijeet Jha</h4>
         </div>
       </div>
     </div>
@@ -78,46 +78,14 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\DAMP\Anjali.jpg" />
+        <img class="image" src="\Image\DAMP\Kinjal.jpeg" />
         <div class="overlay overlay--bottom">
-          <p>anjali6rwt@gmail.com</p>
+          <p>kinjalsao@gmail.com</p>
         </div>
       </div>
       <div class="card__content">
         <div class="card__header">
-          <h4>Anjali Rawat</h4>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
-    <div class="card">
-      <div class="card__image">
-        <img class="image" src="\Image\DAMP\Aaryan.jpeg" />
-        <div class="overlay overlay--bottom">
-          <p>aaryan.ayush2000@gmail.com</p>
-        </div>
-      </div>
-      <div class="card__content">
-        <div class="card__header">
-          <h4>Aaryan Jaiswal</h4>
-        </div>
-      </div>
-    </div>
-
-  </div>
-  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
-    <div class="card">
-      <div class="card__image">
-        <img class="image" src="\Image\DAMP\Amrutha.jpg" />
-        <div class="overlay overlay--bottom">
-          <p>180010058@iitb.ac.in</p>
-        </div>
-      </div>
-      <div class="card__content">
-        <div class="card__header">
-          <h4>Vadladi. Amrutha Lakshmi</h4>
+          <h4>Kinjal Sao</h4>
         </div>
       </div>
     </div>
@@ -127,14 +95,184 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\DAMP\Atharva.jpg" />
+        <img class="image" src="\Image\DAMP\Nistha.jpeg" />
         <div class="overlay overlay--bottom">
-          <p>atharvamete12@gmail.com</p>
+          <p>post.nistha@gmail.com</p>
         </div>
       </div>
       <div class="card__content">
         <div class="card__header">
-          <h4>Atharva Mete</h4>
+          <h4>Nistha Agarwal</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
+    <div class="card">
+      <div class="card__image">
+        <img class="image" src="\Image\DAMP\Apoorva.jpeg" />
+        <div class="overlay overlay--bottom">
+          <p>kantiapoorva@gmail.com</p>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__header">
+          <h4>Apoorva Kanti</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
+    <div class="card">
+      <div class="card__image">
+        <img class="image" src="\Image\DAMP\Rooma.jpeg" />
+        <div class="overlay overlay--bottom">
+          <p>200010071@iitb.ac.in</p>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__header">
+          <h4>Shaik Rooma Sultana</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
+    <div class="card">
+      <div class="card__image">
+        <img class="image" src="\Image\DAMP\Sahithi.jpeg" />
+        <div class="overlay overlay--bottom">
+          <p>asahithireddy2003@gmail.com</p>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__header">
+          <h4>Sahithi Reddy A</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
+    <div class="card">
+      <div class="card__image">
+        <img class="image" src="\Image\DAMP\Prerna.jpeg" />
+        <div class="overlay overlay--bottom">
+          <p>prernaagrawal000@gmail.com</p>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__header">
+          <h4>Prerna Agrawal</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
+    <div class="card">
+      <div class="card__image">
+        <img class="image" src="\Image\DAMP\Gauri.jpeg" />
+        <div class="overlay overlay--bottom">
+          <p>gauri.maheshwari1308@gmail.com</p>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__header">
+          <h4>Gauri Maheshwari</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
+    <div class="card">
+      <div class="card__image">
+        <img class="image" src="\Image\DAMP\Harsh.jpeg" />
+        <div class="overlay overlay--bottom">
+          <p>harshneema14@gmail.com</p>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__header">
+          <h4>Harsh Neema</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
+    <div class="card">
+      <div class="card__image">
+        <img class="image" src="\Image\DAMP\Maddi.jpeg" />
+        <div class="overlay overlay--bottom">
+          <p>190010041@iitb.ac.in</p>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__header">
+          <h4>Sanskar Maddi</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
+    <div class="card">
+      <div class="card__image">
+        <img class="image" src="\Image\DAMP\Srinivas.jpeg" />
+        <div class="overlay overlay--bottom">
+          <p>rishidatta.sid@gmail.com</p>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__header">
+          <h4>Srinivas Rishi Datta S</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
+    <div class="card">
+      <div class="card__image">
+        <img class="image" src="\Image\DAMP\Akshay.jpeg" />
+        <div class="overlay overlay--bottom">
+          <p>200010008@iitb.ac.in</p>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__header">
+          <h4>Akshay Sharma</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
+    <div class="card">
+      <div class="card__image">
+        <img class="image" src="\Image\DAMP\Keyur.jpeg" />
+        <div class="overlay overlay--bottom">
+          <p>210010019@iitb.ac.in</p>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__header">
+          <h4>Keyur Bagadiya</h4>
         </div>
       </div>
     </div>
@@ -143,246 +281,215 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\DAMP\Avinas.jpg" />
+        <img class="image" src="\Image\DAMP\Vaibhav.jpeg" />
         <div class="overlay overlay--bottom">
-          <p>avinash.arun10@gmail.com</p>
+          <p>vaibhav.u.2003@gmail.com</p>
         </div>
       </div>
       <div class="card__content">
         <div class="card__header">
-          <h4>Avinash Arun</h4>
+          <h4>Vaibhav Upadhyay</h4>
         </div>
       </div>
     </div>
   </div>
-
-  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
-    <div class="card">
-      <div class="card__image">
-        <img class="image" src="\Image\DAMP\Faisal.jpg" />
-        <div class="overlay overlay--bottom">
-          <p>aziz.faisal247@gmail.com</p>
-        </div>
-      </div>
-      <div class="card__content">
-        <div class="card__header">
-          <h4>Faisal Aziz</h4>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
-    <div class="card">
-      <div class="card__image">
-        <img class="image" src="\Image\DAMP\Harshil.jpeg" />
-        <div class="overlay overlay--bottom">
-          <p>190010030@iitb.ac.in</p>
-        </div>
-      </div>
-      <div class="card__content">
-        <div class="card__header">
-          <h4>Harshil Naik</h4>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
-    <div class="card">
-      <div class="card__image">
-        <img class="image" src="\Image\DAMP\Khushi.jpeg" />
-        <div class="overlay overlay--bottom">
-          <p>gosalia.khushi@gmail.com</p>
-        </div>
-      </div>
-      <div class="card__content">
-        <div class="card__header">
-          <h4>Khushi Gosalia</h4>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
-    <div class="card">
-      <div class="card__image">
-        <img class="image" src="\Image\DAMP\Milind.JPG" />
-        <div class="overlay overlay--bottom">
-          <p>180010031@iitb.ac.in</p>
-        </div>
-      </div>
-      <div class="card__content">
-        <div class="card__header">
-          <h4>Milind Kharwade</h4>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
-    <div class="card">
-      <div class="card__image">
-        <img class="image" src="\Image\DAMP\Mukesh.png" />
-        <div class="overlay overlay--bottom">
-          <p>mukeshgollen10@gmail.com</p>
-        </div>
-      </div>
-      <div class="card__content">
-        <div class="card__header">
-          <h4>Mukesh Kumar</h4>
-        </div>
-      </div>
-    </div>
-  </div>
-
 
 
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\DAMP\Porwal.jpg" />
+        <img class="image" src="\Image\DAMP\Jitartha.jpeg" />
         <div class="overlay overlay--bottom">
-          <p>pp14ush@gmail.com</p>
+          <p>210010031@iitb.ac.in</p>
         </div>
       </div>
       <div class="card__content">
         <div class="card__header">
-          <h4>Piyush Porwal</h4>
+          <h4>Jitartha Talukdar</h4>
         </div>
       </div>
     </div>
   </div>
 
-  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
+
+  <<div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\DAMP\Ronit.jpg" />
+        <img class="image" src="\Image\DAMP\Yash.jpeg" />
         <div class="overlay overlay--bottom">
-          <p>ronitrshukla37@gmail.com</p>
+          <p>kotkaryash2003@gmail.com</p>
         </div>
       </div>
       <div class="card__content">
         <div class="card__header">
-          <h4>Ronit Shukla</h4>
+          <h4>Yash Kotkar</h4>
         </div>
       </div>
     </div>
   </div>
 
+
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\DAMP\Sargun.jpg" />
+        <img class="image" src="\Image\DAMP\Hitaishi.jpeg" />
         <div class="overlay overlay--bottom">
-          <p>sargunsohal9@gmail.com</p>
+          <p>210040096@iitb.ac.in</p>
         </div>
       </div>
       <div class="card__content">
         <div class="card__header">
-          <h4>Sargun Sohal</h4>
+          <h4>Hitaishi Modi</h4>
         </div>
       </div>
     </div>
   </div>
 
-  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
-    <div class="card">
-      <div class="card__image">
-        <img class="image" src="\Image\DAMP\sarraf.jpg" />
-        <div class="overlay overlay--bottom">
-          <p>ayushsarraf8@gmail.com</p>
-        </div>
-      </div>
-      <div class="card__content">
-        <div class="card__header">
-          <h4>Ayush Sarraf</h4>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
-    <div class="card">
-      <div class="card__image">
-        <img class="image" src="\Image\DAMP\Shubham.jpg" />
-        <div class="overlay overlay--bottom">
-          <p>shubh.am.sharma11kt@gmail.com</p>
-        </div>
-      </div>
-      <div class="card__content">
-        <div class="card__header">
-          <h4>Shubham Sharma</h4>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
-    <div class="card">
-      <div class="card__image">
-        <img class="image" src="\Image\DAMP\Vignesh.jpeg" />
-        <div class="overlay overlay--bottom">
-          <p>vignesh.anand.1503@gmail.com</p>
-        </div>
-      </div>
-      <div class="card__content">
-        <div class="card__header">
-          <h4>Vignesh Anand</h4>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
-    <div class="card">
-      <div class="card__image">
-        <img class="image" src="\Image\DAMP\Yashika.jpg" />
-        <div class="overlay overlay--bottom">
-          <p>yashikasinghal13@gmail.com</p>
-        </div>
-      </div>
-      <div class="card__content">
-        <div class="card__header">
-          <h4>Yashika Singhal</h4>
-        </div>
-      </div>
-    </div>
-  </div>
   
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\DAMP\Soham.jpg" />
+        <img class="image" src="\Image\DAMP\Praveen.jpeg" />
         <div class="overlay overlay--bottom">
-          <p>soham.phanse.iitb@gmail.com</p>
+          <p>hemanthpraveen1024@gmail.com</p>
         </div>
       </div>
       <div class="card__content">
         <div class="card__header">
-          <h4>Soham Shirish Phanse</h4>
+          <h4>Praveen Reddy</h4>
         </div>
       </div>
     </div>
   </div>
+
   
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\DAMP\Pranjal.jpeg" />
+        <img class="image" src="\Image\DAMP\Vraj.jpeg" />
         <div class="overlay overlay--bottom">
-          <p>pranjalgupta2507@gmail.com</p>
+          <p>vrajkpatel04@gmail.com</p>
         </div>
       </div>
       <div class="card__content">
         <div class="card__header">
-          <h4>Pranjal Gupta</h4>
+          <h4>Patel Vraj Kanubhai</h4>
         </div>
       </div>
     </div>
   </div>
-  
-  
+
+<div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
+    <div class="card">
+      <div class="card__image">
+        <img class="image" src="\Image\DAMP\Harsheet.jpeg" />
+        <div class="overlay overlay--bottom">
+          <p>21d170018@iitb.ac.in</p>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__header">
+          <h4>Harsheet Singh</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
+    <div class="card">
+      <div class="card__image">
+        <img class="image" src="\Image\DAMP\Aryaman.jpeg" />
+        <div class="overlay overlay--bottom">
+          <p>200010012@iitb.ac.in</p>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__header">
+          <h4>Aryaman Bansal</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
+    <div class="card">
+      <div class="card__image">
+        <img class="image" src="\Image\DAMP\Mayank.jpeg" />
+        <div class="overlay overlay--bottom">
+          <p>mayankbajaj1105@gmail.com</p>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__header">
+          <h4>Mayank Bajaj</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
+    <div class="card">
+      <div class="card__image">
+        <img class="image" src="\Image\DAMP\Sourabh.jpeg" />
+        <div class="overlay overlay--bottom">
+          <p>210010062@iitb.ac.in</p>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__header">
+          <h4>Sourabh Chouhan</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
+    <div class="card">
+      <div class="card__image">
+        <img class="image" src="\Image\DAMP\Parth.jpeg" />
+        <div class="overlay overlay--bottom">
+          <p>nawkarparth@gmail.com</p>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__header">
+          <h4>Parth Nawkar</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
+    <div class="card">
+      <div class="card__image">
+        <img class="image" src="\Image\DAMP\Sahil.jpeg" />
+        <div class="overlay overlay--bottom">
+          <p>sahilvaidya541@gmail.com</p>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__header">
+          <h4>Sahil Vaidya</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
+    <div class="card">
+      <div class="card__image">
+        <img class="image" src="\Image\DAMP\Nitish.jpeg" />
+        <div class="overlay overlay--bottom">
+          <p>nitish2002.nn@gmail.com</p>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__header">
+          <h4>Nitish Naidu</h4>
+        </div>
+      </div>
+    </div>
+  </div>
 
 
 </div>
