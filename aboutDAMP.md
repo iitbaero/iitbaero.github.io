@@ -36,7 +36,7 @@ permalink: /aboutUs/dampTeam.html
       </div>
     </div>
   </div>
-
+</div>
 ## DAMP Team
 
 <div class="grid">
