@@ -21,7 +21,9 @@ permalink: /aboutUs/dampTeam.html
     width: 200px; /* Fixed width for the image container */
     height: 200px; /* Fixed height for the image container */
     overflow: hidden; /* Ensures no part of the image spills out */
-    max-width: 100%;
+    display: flex; /* Use flexbox to center the image */
+    justify-content: center; /* Center the image horizontally */
+    align-items: center; /* Center the image vertically */
   }
 
   .card__image .image {
