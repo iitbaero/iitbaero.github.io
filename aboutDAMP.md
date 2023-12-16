@@ -1,4 +1,4 @@
-ht ---
+---
 layout: article
 title: Aero Team
 key: page-about
