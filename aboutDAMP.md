@@ -15,7 +15,29 @@ permalink: /aboutUs/dampTeam.html
     padding: 0;
     line-height: 25px;
   }
+
+  .card__image {
+    position: relative;
+    width: 200px; /* Fixed width for the image container */
+    height: 200px; /* Fixed height for the image container */
+    overflow: hidden; /* Ensures no part of the image spills out */
+  }
+
+  .card__image .image {
+    width: 100%; /* Makes the image fill the container */
+    height: 100%; /* Makes the image fill the container */
+    object-fit: cover; /* Ensures the image covers the area and maintains aspect ratio */
+    display: block; /* Removes any extra space below the image */
+  }
+
+  .overlay {
+    position: absolute;
+    bottom: 0; /* Positions the overlay at the bottom */
+    width: 100%; /* Ensures the overlay matches the width of the image container */
+    /* Add any additional styling for your overlay here */
+  }
 </style>
+
 
 <div class="grid">
   <div class="cell cell--12 cell--md-6 cell--lg-6 content p-2">
