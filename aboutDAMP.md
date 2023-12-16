@@ -35,7 +35,7 @@ permalink: /aboutUs/dampTeam.html
     position: absolute;
     bottom: 0; /* Positions the overlay at the bottom */
     width: 100%; /* Ensures the overlay matches the width of the image container */
-    height: 25px; /* Add any additional styling for your overlay here */
+    /* height: 25px; /* Add any additional styling for your overlay here */
   }
 </style>
 
