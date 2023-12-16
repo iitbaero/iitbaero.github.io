@@ -18,7 +18,7 @@ permalink: /aboutUs/dampTeam.html
 
   .card__image {
     position: relative;
-    width: 200px; /* Fixed width for the image container */
+    width: 300px; /* Fixed width for the image container */
     height: 200px; /* Fixed height for the image container */
     overflow: hidden; /* Ensures no part of the image spills out */
     display: flex; /* Use flexbox to center the image */
