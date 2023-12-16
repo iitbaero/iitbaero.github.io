@@ -46,7 +46,7 @@ permalink: /aboutUs/dampTeam.html
       <div class="card__image">
         <img class="image" src="\Image\DAMP\Ammar.jpeg" />
         <div class="overlay overlay--bottom">
-          <p>abhijeetjha911@gmail.com</p>
+          <p>ammarbarbhai@gmail.com</p>
         </div>
       </div>
       <div class="card__content">
