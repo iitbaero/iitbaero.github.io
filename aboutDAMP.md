@@ -1,4 +1,4 @@
----
+ht ---
 layout: article
 title: Aero Team
 key: page-about
@@ -21,6 +21,7 @@ permalink: /aboutUs/dampTeam.html
     width: 200px; /* Fixed width for the image container */
     height: 200px; /* Fixed height for the image container */
     overflow: hidden; /* Ensures no part of the image spills out */
+    max-width: 100%;
   }
 
   .card__image .image {
@@ -34,7 +35,7 @@ permalink: /aboutUs/dampTeam.html
     position: absolute;
     bottom: 0; /* Positions the overlay at the bottom */
     width: 100%; /* Ensures the overlay matches the width of the image container */
-    /* Add any additional styling for your overlay here */
+    height: 25px; /* Add any additional styling for your overlay here */
   }
 </style>
 
