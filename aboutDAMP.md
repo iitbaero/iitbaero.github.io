@@ -27,7 +27,7 @@ permalink: /aboutUs/dampTeam.html
   .card__image .image {
     width: 200px; /* Makes the image fill the container */
     height: 200px; /* Makes the image fill the container */
-    object-fit: contain; /* Ensures the image covers the area and maintains aspect ratio */
+    object-fit: fill; /* Ensures the image covers the area and maintains aspect ratio */
     display: block; /* Removes any extra space below the image */
   }
 
