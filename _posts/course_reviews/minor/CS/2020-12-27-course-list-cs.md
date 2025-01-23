@@ -12,3 +12,4 @@ permalink: /course_reviews/minor/cse/course_list.html
 | [CS 416](/course_reviews/minor/cse/cs-416)| Computer and Network Security|
 | [CS 213](/course_reviews/minor/cse/cs-213)| Data Structures and Algorithms|
 | [CS 218](/course_reviews/minor/cse/cs-218)| Design and Analysis of Algorithms|
+| [CS 224](/course_reviews/minor/cse/cs-224)| Computer Networks|

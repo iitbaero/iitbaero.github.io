@@ -115,6 +115,9 @@ docs-en:
         url:        /course_reviews/department_elective/ae-649.html
       - title:  SC 602
         url:        /course_reviews/department_elective/sc-602.html
+      - title:  AE 681
+        url:        /course_reviews/department_elective/ae-681.html
+
 
   - title:      Institute Electives
     children:
@@ -140,6 +143,24 @@ docs-en:
         url:        /course_reviews/institute_elective/hs-408.html
       - title:  GNR 638
         url:        /course_reviews/institute_elective/gnr-638.html
+      - title:  DH 307
+        url:        /course_reviews/institute_elective/dh-307.html
+      - title:  EC 402
+        url:        /course_reviews/institute_elective/ec-402.html
+      - title:  EC 613
+        url:        /course_reviews/institute_elective/ec-613.html
+      - title:  ES 601
+        url:        /course_reviews/institute_elective/es-601.html
+      - title:  IE 616
+        url:        /course_reviews/institute_elective/ie-616.html
+      - title:  ME 781
+        url:        /course_reviews/institute_elective/me-781.html
+      - title:  PH 567
+        url:        /course_reviews/institute_elective/ph-567.html
+      - title:  SC 618
+        url:        /course_reviews/institute_elective/sc-618.html
+      
+
      
       
   - title:      Minors
