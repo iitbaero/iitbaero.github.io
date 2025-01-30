@@ -483,7 +483,7 @@ permalink: /aboutUs/dampTeam.html
       <div class="card__image">
         <img class="image" src="\Image\DAMP_team_2024_25\Vivek_grover.jpg" />
         <div class="overlay overlay--bottom">
-          <p></p>
+          <p>groverv358@gmail.com</p>
         </div>
       </div>
       <div class="card__content">
