@@ -1,0 +1,20 @@
+// Parsed and structured data for faculty Advisors.
+export const facultyAdvisors = [
+    { id: 801, name: 'Avijit Chatterjee', email: 'I01028@iitb.ac.in', batch: 2025 },
+    { id: 802, name: 'Viren I. Menezes', email: 'I07107@iitb.ac.in', batch: 2025 },
+    { id: 803, name: 'Aniruddha Sinha', email: 'I14002@iitb.ac.in', batch: 2025 },
+    { id: 804, name: 'Rohit Gupta', email: '10001956@iitb.ac.in', batch: 2024 },
+    { id: 805, name: 'Hemendra Arya', email: 'I03017@iitb.ac.in', batch: 2024 },
+    { id: 806, name: 'Hrishikesh Gadgil', email: 'I15116@iitb.ac.in', batch: 2024 },
+    { id: 807, name: 'Rajkumar S. Pant', email: '011033@iitb.ac.in', batch: 2023 },
+    { id: 808, name: 'Krishnendu Haldar', email: '10001729@iitb.ac.in', batch: 2023 },
+    { id: 809, name: 'Amuthan A. Ramabathiran', email: '10001736@iitb.ac.in', batch: 2023 },
+    { id: 810, name: 'Krishnendu B. Sinha', email: 'I06005@iitb.ac.in', batch: 2023 },
+    { id: 811, name: 'Dhwanil Shukla', email: '10001882@iitb.ac.in', batch: 2022 },
+    { id: 812, name: 'Arnab Maity', email: 'I15317@iitb.ac.in', batch: 2022 },
+    { id: 813, name: 'Vineeth Nair', email: 'I16008@iitb.ac.in', batch: 2022 },
+    { id: 814, name: 'Nagendra Kumar', email: '10001936@iitb.ac.in', batch: 2021 },
+    { id: 815, name: 'Prabhu Ramachandran', email: 'I05122@iitb.ac.in', batch: 2021 },
+    { id: 816, name: 'S. P. Mahulikar', email: 'I00009@iitb.ac.in', batch: 2020 },
+    { id: 817, name: 'Sudarshan Kumar', email: 'I06164@iitb.ac.in', batch: 2020 },
+  ];

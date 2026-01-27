@@ -1,0 +1,33 @@
+.search-container {
+    margin-bottom: 2rem;
+}
+
+.search-bar {
+    width: 100%;
+    box-sizing: border-box; /* Ensures padding doesn't add to width */
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    background-color: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 0.5rem;
+    color: var(--color-text);
+}
+
+.search-bar:focus {
+    outline: none;
+    border-color: var(--color-primary);
+    box-shadow: 0 0 0 3px rgba(245, 158, 11, 0.5); /* Primary color with opacity */
+}
+
+.course-list {
+    /* If the list becomes very long, you can add max-height and overflow-y */
+    max-height: 70vh;
+    overflow-y: auto;
+}
+
+.no-results-text {
+  text-align: center;
+  color: var(--color-text-muted);
+  font-size: 1.125rem;
+  padding: 2rem;
+}

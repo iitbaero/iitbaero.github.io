@@ -1,0 +1,44 @@
+.handbook-container {
+    text-align: center;
+}
+
+.page-main-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--color-text);
+    margin-bottom: 1rem;
+    margin-top: 0rem;
+    text-align: center;
+}
+
+.page-subtitle {
+    font-size: 1.125rem;
+    color: var(--color-text-muted);
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto 2.5rem auto;
+}
+
+/* --- Simple PDF Viewer Container --- */
+.pdf-viewer-container {
+    /* 5rem navbar + 5rem footer + 8rem titles/margins approx */
+    height: calc(100vh - 18rem); 
+    min-height: 700px; /* Minimum height */
+    width: 100%;
+    max-width: 1000px; /* Max width of the viewer */
+    margin: 0 auto; /* Center the viewer */
+    border: 1px solid var(--color-border);
+    border-radius: 0.5rem;
+    overflow: hidden; /* Ensures the <object> respects the border radius */
+    background-color: #333; /* Background for the PDF viewer */
+}
+
+.pdf-viewer-container object {
+    border-radius: 0.5rem;
+}
+
+.pdf-viewer-container p {
+    padding: 2rem;
+    color: var(--color-text-muted);
+}
+

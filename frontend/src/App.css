@@ -1,0 +1,64 @@
+:root {
+  --color-bg: #111827;
+  --color-surface: #1f2937;
+  --color-primary: #f59e0b; /* amber-500 */
+  --color-primary-hover: #d97706; /* amber-600 */
+  --color-text: #ffffff;
+  --color-text-muted: #9ca3af;
+  --color-border: #374151;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--color-bg);
+  color: var(--color-text);
+}
+
+.container {
+  width: 90%;
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  transform: translateX(0%);
+}
+
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  transform: translateX(0%);
+}
+
+.main-content {
+  flex-grow: 1;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+/* Animation */
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.5s ease-out forwards;
+}
+
+/* --- THIS IS THE IMPORTANT PART --- */
+/* It shows desktop links and hides the mobile menu button on wide screens */
+@media (min-width: 768px) {
+  .nav-links-desktop {
+      display: flex;
+  }
+  .mobile-menu-button-wrapper {
+      display: none;
+  }
+}

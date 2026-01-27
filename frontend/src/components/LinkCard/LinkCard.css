@@ -1,0 +1,45 @@
+.link-card {
+    background-color: var(--color-surface);
+    border-radius: 0.5rem;
+    padding: 1rem 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    border: 1px solid var(--color-border);
+    text-decoration: none;
+    transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+}
+
+.link-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    border-color: var(--color-primary);
+}
+
+.link-info {
+    overflow: hidden;
+}
+
+.link-name {
+    margin: 0;
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--color-text);
+}
+
+.link-description {
+    margin: 0.25rem 0 0 0;
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+}
+
+.link-icon {
+    color: var(--color-text-muted);
+    flex-shrink: 0;
+    transition: color 0.2s;
+}
+
+.link-card:hover .link-icon {
+    color: var(--color-primary);
+}

@@ -1,0 +1,75 @@
+.project-card {
+    background-color: var(--color-surface);
+    border-radius: 0.5rem;
+    padding: 1.5rem;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    border: 1px solid var(--color-border);
+    height: 100%; 
+    /* Use flex-direction column to stack the items */
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+}
+
+.project-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-color: var(--color-primary);
+}
+
+/* Header: Topic */
+.project-card-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 0.75rem; /* Space below topic */
+}
+
+.project-card-icon {
+    color: var(--color-primary);
+    flex-shrink: 0;
+}
+
+.project-card-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--color-text);
+    line-height: 1.4;
+    margin: 0;
+}
+
+/* Body: Student & Prof info */
+.project-card-body {
+    margin-top: auto; /* This pushes the student/prof info to the bottom */
+    padding-top: 1rem; /* Space above the student/prof info */
+    border-top: 1px solid var(--color-border); /* Separator line */
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem; /* Space between student and prof lines */
+}
+
+/* Info Rows: Department, Student, Prof */
+.info-row,
+.info-row2 {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+}
+
+/* Specific style for Department row */
+.info-row2 {
+    margin-bottom: 1rem; /* Space below department */
+    font-weight: 500;
+    color: var(--color-text); /* Make department more prominent */
+}
+
+.info-row span,
+.info-row2 span {
+    /* Ensures long names/depts don't break layout */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

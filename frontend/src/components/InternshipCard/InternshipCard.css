@@ -1,0 +1,70 @@
+.internship-card {
+    background-color: var(--color-surface);
+    border-radius: 0.5rem;
+    padding: 1rem;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    border: 1px solid var(--color-border);
+    height: 80%; 
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+}
+
+.internship-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-color: var(--color-primary);
+}
+
+/* Header: Company */
+.internship-card-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    /* Removed margin-bottom to let the body handle spacing */
+}
+
+.internship-card-icon {
+    color: var(--color-primary);
+    flex-shrink: 0;
+}
+
+.internship-card-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--color-text);
+    margin: 0;
+}
+
+/* Body: Domain & Student info */
+.internship-card-body {
+    /* Removed margin-top: auto; and border-top */
+    margin-top: 1rem; /* Added margin-top for space */
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem; /* Space between domain and student lines */
+}
+
+/* Info Rows: Domain, Student */
+.info-row,
+.info-row2 {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+}
+
+/* Specific style for Domain row */
+.info-row2 {
+    font-weight: 500;
+    color: var(--color-text); /* Make domain more prominent */
+}
+
+.info-row span,
+.info-row2 span {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
