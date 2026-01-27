@@ -1,0 +1,201 @@
+.navbar {
+    background-color: var(--color-surface);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    /* Removed the 100vw/translateX hack which causes centering bugs */
+    width: 100%;
+    border-bottom: 1px solid var(--color-border);
+}
+
+.navbar-content-full {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    height: 5rem;
+    /* Matches the 'container' max-width in your App.css (1280px) */
+    max-width: 1280px; 
+    margin: 0 auto;
+    padding: 0 2rem; 
+    box-sizing: border-box;
+    position: relative;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    flex-shrink: 0;
+}
+
+.logo-icon {
+    height: 2.5rem;
+    width: 2.5rem;
+    object-fit: contain;
+}
+
+.logo-text {
+    margin-left: 0.75rem;
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--color-text);
+    white-space: nowrap;
+}
+
+.logo-text-light {
+    font-weight: 300;
+}
+
+/* Desktop Navigation Links */
+.nav-links {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem 0.75rem;
+    border-radius: 0.375rem;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--color-text-muted);
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s;
+    white-space: nowrap;
+    font-family: inherit;
+}
+
+.nav-item:hover {
+    background-color: var(--color-border);
+    color: var(--color-primary);
+}
+
+.nav-item-label {
+    margin-left: 0.5rem;
+}
+
+.nav-divider {
+    width: 1px;
+    height: 20px;
+    background-color: var(--color-border);
+    margin: 0 0.75rem;
+}
+
+/* Mobile Toggle Button */
+.mobile-toggle {
+    display: none;
+    background: none;
+    border: none;
+    color: var(--color-text);
+    cursor: pointer;
+    padding: 0.5rem;
+}
+
+/* Mobile Menu Dropdown */
+.mobile-menu {
+    position: absolute;
+    top: 100%;
+    right: 1rem;
+    width: 250px;
+    background-color: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 0.75rem;
+    padding: 0.75rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.4);
+    animation: slideDown 0.3s ease-out;
+}
+
+.mobile-divider {
+    height: 1px;
+    background-color: var(--color-border);
+    margin: 0.5rem 0;
+}
+
+/* Desktop Dropdown Menu */
+.nav-item-dropdown-container {
+    position: relative;
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: calc(100% + 0.5rem);
+    right: 0;
+    background-color: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    width: max-content;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3);
+    animation: fadeIn 0.2s ease-out;
+}
+
+.dropdown-item {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 0.6rem 1rem;
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+    background: transparent;
+    border: none;
+    border-radius: 0.375rem;
+    cursor: pointer;
+    text-align: left;
+    font-family: inherit;
+    transition: all 0.2s;
+}
+
+.dropdown-item:hover {
+    background-color: var(--color-border);
+    color: var(--color-primary);
+}
+
+.dropdown-item-label {
+    margin-left: 0.75rem;
+}
+
+.dropdown-arrow {
+    margin-left: 0.25rem;
+    transition: transform 0.2s;
+}
+.dropdown-arrow.is-open {
+    transform: rotate(180deg);
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-5px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideDown {
+    from { opacity: 0; transform: translateY(-10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* Responsive Logic */
+@media (max-width: 1200px) {
+    .desktop-only {
+        display: none !important;
+    }
+    .mobile-toggle {
+        display: block;
+    }
+}
+
+@media (max-width: 480px) {
+    .logo-text {
+        display: none; /* Icon only on very small screens */
+    }
+    .mobile-menu {
+        width: calc(100vw - 2rem);
+        right: 1rem;
+    }
+}

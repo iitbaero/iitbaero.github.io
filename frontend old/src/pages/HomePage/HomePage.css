@@ -1,0 +1,95 @@
+/* Container for the entire home page to establish a positioning context */
+.home-container {
+    position: relative;
+    height: calc(100vh - 20rem); /* Full viewport height minus navbar and footer approx */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 1rem;
+    overflow: hidden;
+    border-radius: 0.5rem;
+}
+
+/* The video element itself */
+.background-video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+    transform: translate(-50%, -50%);
+    z-index: 1; /* Sits behind the overlay and content */
+}
+
+/* Semi-transparent overlay to darken the video and make text readable */
+.video-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /* Increased opacity for better contrast */
+    background-color: rgba(0, 0, 0, 0.6);
+    z-index: 2; /* Sits on top of the video but behind the content */
+}
+
+/* The main content (text and button) */
+.home-content {
+    position: relative;
+    z-index: 3; /* Sits on top of everything */
+    color: var(--color-text);
+    max-width: 800px;
+}
+
+.home-title {
+    font-size: 3.5rem;
+    font-weight: 800;
+    letter-spacing: -0.025em;
+    margin-bottom: 1rem;
+    /* Added text shadow for visibility */
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
+}
+
+.home-subtitle {
+    font-size: 1.25rem;
+    color: #e5e7eb; /* Slightly brighter than muted for better visibility */
+    margin-bottom: 2rem;
+    /* Added text shadow for visibility */
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.7);
+    font-weight: 400; /* Slightly bolder */
+}
+
+/* Reusing button styles from App.css */
+.button {
+    display: inline-block;
+    font-weight: 600;
+    border-radius: 0.5rem;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.2s, transform 0.2s;
+}
+
+.button-primary {
+    padding: 0.75rem 2rem;
+    background-color: var(--color-primary);
+    color: #000;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.button-primary:hover {
+    background-color: var(--color-primary-hover);
+    transform: scale(1.05);
+}
+
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .home-title {
+        font-size: 2.5rem;
+    }
+    .home-subtitle {
+        font-size: 1rem;
+    }
+}

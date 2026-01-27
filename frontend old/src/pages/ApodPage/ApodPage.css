@@ -1,0 +1,149 @@
+.apod-page-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 2rem;
+    min-height: calc(100vh - 80px);
+}
+
+.apod-header {
+    margin-bottom: 2rem;
+}
+
+.apod-title-group {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.apod-main-title {
+    font-size: 2.25rem;
+    font-weight: 800;
+    color: var(--color-text);
+    margin-bottom: 0.5rem;
+    line-height: 1.2;
+}
+
+.apod-date {
+    font-size: 1rem;
+    color: var(--color-text-muted);
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+/* Side-by-Side Layout */
+.apod-layout {
+    display: flex;
+    gap: 3rem;
+    align-items: flex-start;
+}
+
+/* Left Column - Visuals */
+.apod-visual-column {
+    flex: 1.2; /* Slightly wider than text column */
+    position: sticky;
+    top: 100px; /* Sticks image while reading text */
+}
+
+.image-wrapper {
+    width: 100%;
+    border-radius: 1rem;
+    overflow: hidden;
+    background-color: var(--color-surface);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+}
+
+.apod-media {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: transform 0.3s ease;
+}
+
+.apod-video {
+    aspect-ratio: 16 / 9;
+}
+
+.apod-copyright {
+    padding: 0.75rem 1rem;
+    font-size: 0.8rem;
+    font-style: italic;
+    color: var(--color-text-muted);
+    background: rgba(0, 0, 0, 0.05);
+    margin: 0;
+}
+
+/* Right Column - Info */
+.apod-info-column {
+    flex: 1;
+}
+
+.apod-explanation-card {
+    background-color: var(--color-surface);
+    padding: 2.5rem;
+    border-radius: 1rem;
+    border: 1px solid var(--color-border);
+}
+
+.section-subtitle {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--color-primary);
+    margin-bottom: 1.5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.apod-explanation-text {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: var(--color-text-muted);
+    text-align: justify;
+}
+
+/* Back Button Styling */
+.back-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    background: none;
+    border: 1px solid var(--color-border);
+    color: var(--color-text);
+    padding: 0.6rem 1.2rem;
+    border-radius: 2rem;
+    cursor: pointer;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+.back-button:hover {
+    background: var(--color-primary);
+    color: #000;
+    border-color: var(--color-primary);
+}
+
+/* Status Layouts (Loading/Error) */
+.apod-status-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 60vh;
+    text-align: center;
+}
+
+/* Responsive Handling */
+@media (max-width: 1024px) {
+    .apod-layout {
+        flex-direction: column;
+        gap: 2rem;
+    }
+    
+    .apod-visual-column {
+        position: static;
+        flex: none;
+    }
+    
+    .apod-main-title {
+        font-size: 1.75rem;
+    }
+}

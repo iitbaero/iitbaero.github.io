@@ -1,0 +1,150 @@
+/* Re-using styles from InternshipDetailPage */
+@import '../InternshipDetailPage/InternshipDetailPage.css';
+
+.project-detail-page {
+  max-width: 1200px;
+  margin: 2rem auto;
+}
+
+.project-header {
+  text-align: center;
+  margin-bottom: 3rem;
+  padding: 2rem;
+  background-color: var(--color-surface);
+  border-radius: 0.75rem;
+}
+
+.project-type-badge {
+  display: inline-block;
+  background-color: var(--color-primary);
+  color: #000;
+  padding: 0.25rem 0.75rem;
+  border-radius: 99px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.project-topic {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: 1rem;
+}
+
+.header-meta {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  font-size: 1rem;
+  color: var(--color-text-muted);
+}
+
+.header-meta span {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 2rem;
+}
+
+.project-main-content .detail-section {
+  margin-bottom: 2rem;
+}
+
+.project-main-content .detail-section h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--color-primary);
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.project-main-content .detail-section p {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: var(--color-text-muted);
+  white-space: pre-wrap; /* Preserves formatting from the form */
+}
+
+.report-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background-color: var(--color-primary);
+  color: #000;
+  padding: 0.5rem 1rem;
+  border-radius: 0.375rem;
+  text-decoration: none;
+  font-weight: 600;
+  transition: background-color 0.2s;
+}
+
+.report-link:hover {
+  background-color: var(--color-primary-hover);
+}
+
+.project-sidebar .sidebar-card {
+  background-color: var(--color-surface);
+  border-radius: 0.75rem;
+  padding: 1.5rem;
+  position: sticky;
+  top: 6.5rem; /* 5rem navbar + 1.5rem margin */
+}
+
+.sidebar-card h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--color-text);
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.sidebar-card .detail-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-size: 0.875rem;
+  color: var(--color-text-muted);
+  margin-bottom: 1rem;
+}
+
+.sidebar-card .detail-item strong {
+  color: var(--color-text);
+}
+
+.sidebar-card .detail-item:last-child {
+  margin-bottom: 0;
+}
+
+/* Responsive */
+@media (max-width: 992px) {
+  .project-grid {
+    grid-template-columns: 1fr;
+  }
+  .project-sidebar {
+    order: -1; /* Move sidebar to top on smaller screens */
+  }
+  .project-sidebar .sidebar-card {
+    position: relative;
+    top: 0;
+    margin-bottom: 2rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .header-meta {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .project-topic {
+    font-size: 2rem;
+  }
+}

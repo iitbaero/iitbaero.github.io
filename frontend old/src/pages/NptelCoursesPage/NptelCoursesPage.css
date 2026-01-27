@@ -1,0 +1,113 @@
+.nptel-page-container {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.page-main-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--color-text);
+    margin-bottom: 2.5rem;
+    text-align: center;
+}
+
+.info-section {
+    background-color: var(--color-surface);
+    border-radius: 0.75rem;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    border-left: 4px solid var(--color-primary);
+}
+
+.section-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.section-header h2 {
+    font-size: 1.75rem;
+    font-weight: 600;
+    color: var(--color-primary);
+    margin: 0;
+}
+
+.section-icon {
+    color: var(--color-primary);
+}
+
+.info-section p {
+    font-size: 1rem;
+    line-height: 1.7;
+    color: var(--color-text-muted);
+}
+
+.course-includes h4 {
+    font-weight: 600;
+    color: var(--color-text);
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.course-includes ul {
+    list-style: none;
+    padding: 0;
+}
+
+.course-includes li {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    color: var(--color-text-muted);
+    margin-bottom: 0.5rem;
+}
+
+.process-steps {
+    list-style-position: inside;
+    padding-left: 0;
+}
+
+.process-steps li {
+    margin-bottom: 1rem;
+    line-height: 1.7;
+    color: var(--color-text-muted);
+}
+
+.process-steps a {
+    color: var(--color-primary);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.process-steps a:hover {
+    text-decoration: underline;
+}
+
+.links-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1rem;
+}
+
+.link-card {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    background-color: var(--color-background);
+    padding: 1rem 1.5rem;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    color: var(--color-text);
+    font-weight: 500;
+    transition: all 0.2s ease-in-out;
+    border: 1px solid var(--color-border);
+}
+
+.link-card:hover {
+    transform: translateY(-2px);
+    background-color: var(--color-border);
+    color: var(--color-primary);
+    border-color: var(--color-primary);
+}

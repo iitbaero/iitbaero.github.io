@@ -1,0 +1,71 @@
+/* Base styles for page titles */
+.page-main-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--color-text);
+    margin-bottom: 2.5rem;
+    text-align: center;
+}
+
+.category-section {
+    margin-bottom: 3rem;
+}
+
+.category-title {
+    font-size: 1.75rem;
+    font-weight: 600;
+    color: var(--color-primary);
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--color-border);
+    text-align: center; /* Center all category titles */
+}
+
+/* Base grid style */
+.members-grid {
+    display: grid;
+    gap: 1.5rem;
+}
+
+/* Grid for DAMPC (2 members) */
+.dampc-grid {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    max-width: 700px; /* Limit width for 2 members */
+    margin: 0 auto; /* Center the grid */
+}
+
+/* Grid for Continuing DAMPs (5 members) */
+.continuing-damp-grid {
+    /* 3 columns on desktop, 2 on tablet, 1 on mobile */
+    grid-template-columns: repeat(1, 1fr);
+}
+
+/* Grid for DAMP members (large grid) */
+.damp-grid {
+    /* 5 columns on desktop, 3 on tablet, 2 on mobile */
+    grid-template-columns: repeat(2, 1fr);
+}
+
+
+/* --- Responsive Adjustments --- */
+
+/* Tablet */
+@media (min-width: 640px) {
+    .continuing-damp-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    .damp-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+/* Desktop */
+@media (min-width: 1024px) {
+    .continuing-damp-grid {
+        /* Max 5 columns, centered */
+        grid-template-columns: repeat(5, 1fr);
+    }
+    .damp-grid {
+        grid-template-columns: repeat(5, 1fr);
+    }
+}

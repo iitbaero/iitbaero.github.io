@@ -1,0 +1,41 @@
+.page-main-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--color-text);
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.batch-section {
+    margin-bottom: 3rem;
+}
+
+.batch-title {
+    font-size: 1.75rem;
+    font-weight: 600;
+    color: var(--color-primary);
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--color-border);
+}
+
+.advisors-grid {
+    display: grid;
+    /* Default to 1 column on small screens */
+    grid-template-columns: 1fr;
+    gap: 1rem;
+}
+
+/* 2 columns for tablets and medium screens */
+@media (min-width: 640px) {
+    .advisors-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* 3 columns for desktops and larger screens */
+@media (min-width: 1024px) {
+    .advisors-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}

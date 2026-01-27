@@ -1,0 +1,15 @@
+.star-rating {
+    display: flex;
+    gap: 0.25rem;
+}
+
+.star-icon {
+    color: var(--color-border);
+    width: 20px;
+    height: 20px;
+}
+
+.star-icon.filled {
+    color: var(--color-primary);
+    fill: var(--color-primary);
+}

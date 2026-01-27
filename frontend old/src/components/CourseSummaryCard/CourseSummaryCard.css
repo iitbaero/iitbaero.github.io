@@ -1,0 +1,48 @@
+.course-summary-card {
+    background-color: var(--color-surface);
+    border-radius: 0.5rem;
+    padding: 1.5rem;
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    border: 1px solid var(--color-border);
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+}
+
+.course-summary-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    border-color: var(--color-primary);
+}
+
+.summary-icon {
+    color: var(--color-primary);
+}
+
+.summary-info {
+    flex-grow: 1;
+}
+
+.summary-course-name {
+    margin: 0;
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--color-text);
+}
+
+.summary-instructor {
+    margin: 0.25rem 0 0 0;
+    color: var(--color-text-muted);
+}
+
+.summary-reviews {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--color-primary);
+    font-weight: 500;
+    background-color: var(--color-border);
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+}

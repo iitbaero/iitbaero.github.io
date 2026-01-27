@@ -1,0 +1,27 @@
+.coming-soon-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 70vh;
+    text-align: center;
+  }
+  
+  .coming-soon-text {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #f59e0b;
+    margin-bottom: 0.5rem;
+    animation: pulse 1.5s infinite;
+  }
+  
+  .coming-soon-subtext {
+    font-size: 1.1rem;
+    color: #f59e0b;
+  }
+  
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.6; }
+  }
+  

@@ -1,0 +1,54 @@
+@import '../HomePage/HomePage.css'; /* Import shared styles */
+@import '../AboutPage/AboutPage.css'; /* Import shared styles */
+
+.contact-form-container {
+    max-width: 32rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.page-subtitle-muted {
+    margin-top: 0.5rem;
+    margin-bottom: 1.5rem;
+    color: var(--color-text-muted);
+}
+
+.form-group {
+    margin-bottom: 1rem;
+    text-align: left;
+}
+
+.form-label {
+    display: block;
+    font-size: 0.875rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    color: var(--color-text-muted);
+}
+
+.form-input {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0.5rem 0.75rem;
+    background-color: var(--color-bg);
+    border: 1px solid var(--color-border);
+    border-radius: 0.375rem;
+    color: var(--color-text);
+    line-height: 1.5;
+}
+
+.form-input:focus {
+    outline: none;
+    border-color: var(--color-primary);
+    box-shadow: 0 0 0 2px var(--color-primary);
+}
+
+.form-actions {
+    text-align: center;
+    margin-top: 1.5rem;
+}
+
+.form-actions .button {
+    margin-top: 0;
+    padding: 0.5rem 1rem;
+}

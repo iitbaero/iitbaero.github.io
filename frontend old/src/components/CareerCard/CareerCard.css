@@ -1,0 +1,32 @@
+.career-card {
+    background-color: var(--color-surface);
+    border-radius: 0.5rem;
+    padding: 2rem;
+    text-align: center;
+    border-bottom: 4px solid var(--color-border);
+    cursor: pointer;
+    transition: transform 0.2s, border-color 0.2s;
+}
+
+.career-card:hover {
+    transform: translateY(-5px);
+    border-color: var(--color-primary);
+}
+
+.career-card-icon {
+    font-size: 2.5rem; /* For emoji icons */
+    margin-bottom: 1rem;
+}
+
+.career-card-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--color-text);
+    margin: 0 0 0.5rem 0;
+}
+
+.career-card-description {
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+    line-height: 1.5;
+}

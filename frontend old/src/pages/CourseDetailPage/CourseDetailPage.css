@@ -1,0 +1,122 @@
+.review-container {
+    background-color: var(--color-surface);
+    border-radius: 0.5rem;
+    padding: 2rem;
+}
+
+.review-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    border-bottom: 1px solid var(--color-border);
+    padding-bottom: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.review-course-name {
+    margin: 0;
+    font-size: 2.25rem;
+    color: var(--color-text);
+}
+
+.review-instructor {
+    margin: 0;
+    font-size: 1.25rem;
+    color: var(--color-text-muted);
+    font-weight: 400;
+}
+
+.review-header-meta {
+    text-align: right;
+    color: var(--color-text-muted);
+    font-size: 0.875rem;
+}
+.review-header-meta span {
+    display: block;
+}
+
+.review-section {
+    margin-bottom: 2rem;
+}
+
+.review-section h3 {
+    font-size: 1.5rem;
+    color: var(--color-primary);
+    margin-bottom: 1rem;
+}
+
+.overview-grid {
+    display: grid;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.rating-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.rating-label {
+    width: 150px;
+    font-weight: 500;
+}
+.rating-bar-container {
+    flex-grow: 1;
+    background-color: var(--color-border);
+    border-radius: 1rem;
+    height: 1rem;
+    overflow: hidden;
+}
+.rating-bar {
+    background-color: var(--color-primary);
+    height: 100%;
+    border-radius: 1rem;
+}
+.rating-value {
+    font-weight: 600;
+}
+
+.tags-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem;
+}
+.tag {
+    background-color: var(--color-border);
+    padding: 0.25rem 0.75rem;
+    border-radius: 1rem;
+    font-size: 0.875rem;
+}
+
+.review-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.ratings-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+/* Corrected alignment for star ratings */
+.labeled-star-rating {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: center;
+    text-transform: capitalize;
+    gap: 1rem;
+}
+
+.final-thoughts {
+    background-color: var(--color-bg);
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    border-left: 4px solid var(--color-primary);
+}
+.final-thoughts p {
+    font-style: italic;
+    margin: 0;
+}

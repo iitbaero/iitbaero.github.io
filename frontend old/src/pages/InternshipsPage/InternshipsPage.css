@@ -1,0 +1,27 @@
+.page-main-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--color-text);
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.internship-grid {
+    display: grid;
+    /* Responsive grid: 1 col on mobile, 2 on tablet, 3 on desktop */
+    grid-template-columns: repeat(1, 1fr);
+    /* This adds the missing space between rows and columns */
+    gap: 1.5rem;
+}
+
+@media (min-width: 640px) {
+    .internship-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .internship-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
