@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/aero-damp-blog/static/css/main.ac9cf997.css",
+    "main.js": "/aero-damp-blog/static/js/main.e5f03d4b.js",
+    "static/js/453.670e15c7.chunk.js": "/aero-damp-blog/static/js/453.670e15c7.chunk.js",
+    "static/media/bgvid.mp4": "/aero-damp-blog/static/media/bgvid.4434317d5a721ee684c1.mp4",
+    "static/media/handbook.pdf": "/aero-damp-blog/static/media/handbook.e338ad62920f05617ea1.pdf",
+    "index.html": "/aero-damp-blog/index.html",
+    "main.ac9cf997.css.map": "/aero-damp-blog/static/css/main.ac9cf997.css.map",
+    "main.e5f03d4b.js.map": "/aero-damp-blog/static/js/main.e5f03d4b.js.map",
+    "453.670e15c7.chunk.js.map": "/aero-damp-blog/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac9cf997.css",
+    "static/js/main.e5f03d4b.js"
+  ]
+}
