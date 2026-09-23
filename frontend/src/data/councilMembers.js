@@ -24,7 +24,7 @@ export const councilMembers = [
   { id: 709, category: 'DAMP', name: 'Harshvardhan Verma', email: '24b0058@iitb.ac.in', contact: '7058250898', imageUrl: `${process.env.PUBLIC_URL}/council/Harshvardhan Verma.jpeg` },
   { id: 710, category: 'DAMP', name: 'Ishwar Khanapure', email: '24b0007@iitb.ac.in', contact: '6364737154', imageUrl: `${process.env.PUBLIC_URL}/council/Ishwar_Khanapure_24B0007.jpeg` },
   { id: 711, category: 'DAMP', name: 'Utkarsh Bansal', email: '24b0023@iitb.ac.in', contact: '6361186960', imageUrl: `${process.env.PUBLIC_URL}/council/WhatsApp Image 2026-06-28 at 1.21.12 AM.jpeg` },
-  { id: 712, category: 'DAMP', name: 'Shivansh Gupta', email: '24b0078@iitb.ac.in', contact: '7004628491', imageUrl: `${process.env.PUBLIC_URL}/council/arnav.jpg` },
+  { id: 712, category: 'DAMP', name: 'Shivansh Gupta', email: '24b0078@iitb.ac.in', contact: '7004628491', imageUrl: `${process.env.PUBLIC_URL}/council/Shivansh.jpeg` },
   { id: 713, category: 'DAMP', name: 'Abhishek Kumar', email: '24b0029@iitb.ac.in', contact: '9372600710', imageUrl: `${process.env.PUBLIC_URL}/council/Abhisek Kumar Yadav_24b0029.jpeg` },
   { id: 714, category: 'DAMP', name: 'Kunal Paroda', email: '24b0071@iitb.ac.in', contact: '7666686840', imageUrl: `${process.env.PUBLIC_URL}/council/Kunal_Paroda_24B0071.jpg`},
   { id: 715, category: 'DAMP', name: 'Divyansh Goyal', email: '24b0075@iitb.ac.in', contact: '9384674042', imageUrl: `${process.env.PUBLIC_URL}/council/Divyansh_Goyal_24B0075.jpg` },
