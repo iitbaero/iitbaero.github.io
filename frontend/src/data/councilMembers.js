@@ -1,7 +1,7 @@
 export const councilMembers = [
   // DAMPC Members
-  { id: 601, category: 'DAMPC', name: 'Ayush Singh', email: 'ayushetah27@gmail.com', contact: '8077563718', imageUrl: `${process.env.PUBLIC_URL}/council/ayushsingh.jpg` },
-  { id: 602, category: 'DAMPC', name: 'Gouri Rathi', email: 'gourirathi21@gmail.com', contact: '8955395900', imageUrl: `${process.env.PUBLIC_URL}/council/gouri.jpg` },
+  { id: 601, category: 'DAMPC', name: 'Krupa Guruprasad Pai', email: 'krupaagpai20@gmail.com', contact: '9833370147', imageUrl: `${process.env.PUBLIC_URL}/council/Krupa.jpg` },
+  //{ id: 602, category: 'DAMPC', name: 'Gouri Rathi', email: 'gourirathi21@gmail.com', contact: '8955395900', imageUrl: `${process.env.PUBLIC_URL}/council/gouri.jpg` },
 
   // Continuing DAMPs
   { id: 724, category: 'Continuing DAMP', name: 'Kalpesh Khare', email: 'kalpeshkhare7777@gmail.com', contact: '9022513006', imageUrl: `${process.env.PUBLIC_URL}/council/Kalpesh.jpg` },
