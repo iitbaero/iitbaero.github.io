@@ -1,6 +1,6 @@
 export const councilMembers = [
   // DAMPC Members
-  { id: 601, category: 'DAMPC', name: 'Krupa Guruprasad Pai', email: 'krupaagpai20@gmail.com', contact: '9833370147', imageUrl: `${process.env.PUBLIC_URL}/council/Krupa.jpg` },
+  { id: 601, category: 'DAMPC', name: 'Krupa Guruprasad Pai', email: 'krupaagpai20@gmail.com', contact: '9833370147', imageUrl: `${process.env.PUBLIC_URL}/council/KRUPA.jpeg` },
  
 
   // Continuing DAMPs
