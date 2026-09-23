@@ -12,7 +12,7 @@ export const councilMembers = [
   { id: 701, category: 'DAMP', name: 'Sahil Patil', email: '23b0005@iitb.ac.in', contact: '9666070697', imageUrl: `${process.env.PUBLIC_URL}/council/Sahil_Patil_23B0005.jpg` },
   { id: 702, category: 'DAMP', name: 'Mehul Bafna', email: '23b0044@iitb.ac.in', contact: '8369888070', imageUrl: `${process.env.PUBLIC_URL}/council/Mehul_Bafna_23B0044.jpeg` },
   { id: 703, category: 'DAMP', name: 'Diwesh Mallick', email: '23b0010@iitb.ac.in', contact: '9977160680', imageUrl: `${process.env.PUBLIC_URL}/council/Dipti.jpeg` },
-  { id: 704, category: 'DAMP', name: 'Vaibhav', email: '24b0003@iitb.ac.in', contact: '9833370147', imageUrl: `${process.env.PUBLIC_URL}/council/VAIBHAV 24B0003.HEIC` },
+  { id: 704, category: 'DAMP', name: 'Vaibhav', email: '24b0003@iitb.ac.in', contact: '9833370147', imageUrl: `${process.env.PUBLIC_URL}/council/VAIBHAV 24B0003.jpg` },
   { id: 705, category: 'DAMP', name: 'Dev Shrivastava', email: '24b0011@iitb.ac.in', contact: '7276132056', imageUrl: `${process.env.PUBLIC_URL}/council/dev shrivastava 24B0011.jpg`},
   { id: 706, category: 'DAMP', name: 'Atharva Ballal', email: '24b0074@iitb.ac.in', contact: '7020866433', imageUrl: `${process.env.PUBLIC_URL}/council/Atharva_Ballal.jpg` },
   { id: 707, category: 'DAMP', name: 'Udit Mittal', email: '24b0016@iitb.ac.in', contact: '8296541637', imageUrl: `${process.env.PUBLIC_URL}/council/Udit_Mittal_24B0016.jpg` },
@@ -31,6 +31,6 @@ export const councilMembers = [
   { id: 720, category: 'DAMP', name: 'Tanya Menghani', email: '24b0037@iitb.ac.in', contact: '8433857661', imageUrl: `${process.env.PUBLIC_URL}/council/Tanya_Menghani.jpg` },
   { id: 721, category: 'DAMP', name: 'Manvi Sheth', email: '24b0015@iitb.ac.in', contact: '9016215841', imageUrl: `${process.env.PUBLIC_URL}/council/Manvi_Sheth_24B0015.jpeg`},
   { id: 722, category: 'DAMP', name: 'Ayushi Sarkar', email: '24b0039@iitb.ac.in', contact: '7821052009', imageUrl: `${process.env.PUBLIC_URL}/council/Ayushi_Sarkar.jpeg`},
-  { id: 723, category: 'DAMP', name: 'Tanya Chauhan', email: '24b0035@iitb.ac.in', contact: '9667346879', imageUrl: `${process.env.PUBLIC_URL}/council/Tanya_Chauhan.HEIC`},
+  { id: 723, category: 'DAMP', name: 'Tanya Chauhan', email: '24b0035@iitb.ac.in', contact: '9667346879', imageUrl: `${process.env.PUBLIC_URL}/council/Tanya_Chauhan.jpg`},
 ];
 
