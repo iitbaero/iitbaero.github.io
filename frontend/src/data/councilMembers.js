@@ -6,10 +6,10 @@ export const councilMembers = [
   // Continuing DAMPs
   { id: 724, category: 'Continuing DAMP', name: 'Arnav Prativ', email: 'arnavprativ10@gmail.com', contact: '7004628491', imageUrl: `${process.env.PUBLIC_URL}/council/arnav.jpg` },
   { id: 725, category: 'Continuing DAMP', name: 'Aum Urmishkumar Mains', email: 'aummaisuriya526@gmail.com', contact: '9016215841', imageUrl: `${process.env.PUBLIC_URL}/council/Aum.jpg`},
-  { id: 726, category: 'Continuing DAMP', name: 'Henil Nageshkumar Parmar', email: 'henilparmar2410@gmail.com', contact: '9016215841', imageUrl: `${process.env.PUBLIC_URL}/council/Henil.jpg`},
+  { id: 726, category: 'Continuing DAMP', name: 'Henil Nageshkumar Parmar', email: 'henilparmar2410@gmail.com', contact: '9016215841', imageUrl: `${process.env.PUBLIC_URL}/council/HENIL.jpg`},
   { id: 727, category: 'Continuing DAMP', name: 'Ainsley Fernandes', email: 'Ainsley Fernandes', contact: '9016215841', imageUrl: `${process.env.PUBLIC_URL}/council/Ainsley.jpg`},
   { id: 728, category: 'Continuing DAMP', name: 'Urvi Lohana', email: 'lohanaurvi@gmail.com', contact: '9016215841', imageUrl: `${process.env.PUBLIC_URL}/council/Urvi.jpg`},
-  { id: 729, category: 'Continuing DAMP', name: 'Dipti Meshram', email: 'meshramdipti229@gmail.com', contact: '9016215841', imageUrl: `${process.env.PUBLIC_URL}/council/Dipti.jpg`},
+  { id: 729, category: 'Continuing DAMP', name: 'Dipti Meshram', email: 'meshramdipti229@gmail.com', contact: '9016215841', imageUrl: `${process.env.PUBLIC_URL}/council/Dipti.jpeg`},
   
 
   // DAMP Members
