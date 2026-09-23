@@ -117,5 +117,123 @@ export const internships = [
     "experience": "My role was to mainly to develop a code on the Basilisk program (its an open-source CFD solver, just like OpenFOAM) to capture the process in which bubble entrapment takes place on same liquid-liquid drop impact surface. I had to uncover the patterns of the entrapped bubble size, its shape, its depth of entrapment, and various other parameters, and come up with a plausible explanation using capillary wave theory and vortex shedding concept.\n\nThe environment was very conducive for performing research in areas especially where there hasn't been much work done. My professor was very supportive, and helped me shape my thoughts and ideas into reality (basically to come up with a reasonable theory). On top of this, I had great lab-mates, which made the experience enjoyable on a whole another level (Who said French people are rude? They are one of the sweetest I have known!). It's really one of your best times in life, where you get to stay in a major city like Paris for longer period of time, that too being a student.",
     "ppoCount": -1
   },
+
+   {
+    "id": 10,
+    "name": "Bhuvan K Prasad",
+    "domain": "University Intern",
+    "company": "Arizona State University",
+    "preparation": "Reach out to professors with cv, sop and one professor's reference",
+    "resumeLink": "",
+    "source": "Externally",
+    "approach": "Professor Recommendation",
+    "stages": "No interview, selection by emailing and resume review",
+    "experience": "Worked on robotics hardware set up utilising ros2. Research problem focused on failure prediction in robot learning policies",
+    "ppoCount": -1
+  },
+  {
+    "id": 11,
+    "name": "Avdhoot Golekar",
+    "domain": "Data Analytics",
+    "company": "Adobe",
+    "preparation": "The better your DSA skills, the better your chances. knowledge of any specific field would help (ML, Agentic AI, backend etc). Be confident. Have a good understanding of each and every line/word mentioned in your resume",
+    "resumeLink": "",
+    "source": "Placement Cell",
+    "approach": "Placement Cell",
+    "stages": "1 OA, 1 interview",
+    "experience": "Improved the production XGBoost model for click/conversion prediction by 12% PR-AUC via hyperparameter tuning and feature engineering on ad-auction, user-profile, and on-site behavioral event data. Built a stacked ensemble combining XGBoost with logistic regression via 4-fold cross-validation to further lift ranking. Implemented a custom focal loss objective for ~1:20 class imbalance, evaluating gains across 35 ad campaigns. Analyzed feature importance with SHAP and tree gain to drop ~500 near zero gain features, cutting scoring compute. Optimized the end-to-end data preparation pipeline, cutting preprocessing latency and speeding up retraining",
+    "ppoCount": -1
+  },
+  {
+    "id": 12,
+    "name": "Neel Prajapati",
+    "domain": "Finance",
+    "company": "Futures First",
+    "preparation": "Just be honest, and practice basic interview questions such as strengths, weakness etc, in my case I had only HR round, but some of my cointerns also had technical round in which they were asked question based on trading and technical analysis",
+    "resumeLink": "",
+    "source": "Placement Cell",
+    "approach": "Placement Cell",
+    "stages": "1",
+    "experience": "We thought they will give us trading terminal and we will trade, but nothing occured all they gave work to us was about data analysis and nothing (that too is mostly prompt engineering and they didn't give us claude pro also). We analysed 15yr of data in commodities and based on that have our trading patterns",
+    "ppoCount": -1
+  },
+  {
+    "id": 13,
+    "name": "Jeet Gurbani",
+    "domain": "Research intern",
+    "company": "IBM",
+    "preparation": "Make sure you know you project mentioned in resume they ask through questions related to it",
+    "resumeLink": "",
+    "source": "Placement Cell",
+    "approach": "Placement Cell",
+    "stages": "1 interview round",
+    "experience": "I worked in trustworthiness analyse of AI agents my task was to develop a benchmark to evaluate agents on the basis of how trustworthy they are in long tasks",
+    "ppoCount": -1
+  },
+  {
+    "id": 14,
+    "name": "Shreeram Jadhav",
+    "domain": "SDE",
+    "company": "Zinnia",
+    "preparation": "DSA and resume prep",
+    "resumeLink": "",
+    "source": "Placement Cell",
+    "approach": "Placement Cell",
+    "stages": "3",
+    "experience": "Developed AI powered Incident analysis agent",
+    "ppoCount": -1
+  },
+  {
+    "id": 15,
+    "name": "Mehul Bafna",
+    "domain": "Data Analytics",
+    "company": "Xpressbees (Busybees Logistics Solutions Pvt Ltd)",
+    "preparation": "the basic requirements are understanding of business, and interest in the domain. basic excel and python is a big plus",
+    "resumeLink": "",
+    "source": "Externally",
+    "approach": "Cold Outreach",
+    "stages": "3",
+    "experience": "my projects were around automation of flows, building ML models and models on excel, and ideation on new project and next phase of projects",
+    "ppoCount": -1
+  },
+  {
+    "id": 16,
+    "name": "Vrushabh Patil",
+    "domain": "Core Aerosapce",
+    "company": "Gulfstream",
+    "preparation": "Be authentic and engage the interviewer well ig",
+    "resumeLink": "",
+    "source": "Placement Cell",
+    "approach": "Placement Cell",
+    "stages": "Resume + 1 round",
+    "experience": "Novel tool design for aircraft service engineers.",
+    "ppoCount": -1
+  },
+  {
+    "id": 17,
+    "name": "Ratan Kokal",
+    "domain": "Quant",
+    "company": "Morgan Stanley",
+    "preparation": "Revise elementary math concepts related to linear algebra, probability and statistics. Good grasp of dsa helps. Not expected to live code in the interview. Be well versed with projects mentioned on resume which have a quantitative aspect",
+    "resumeLink": "",
+    "source": "Placement Cell",
+    "approach": "Placement Cell",
+    "stages": "3 Technical + 1 HR",
+    "experience": "Built an agentic interface for navigating and interacting with a complex financial dashboard spanning 180+ widgets and highly configurable workflows.",
+    "ppoCount": -1
+  },
+  {
+    "id": 18,
+    "name": "Kashish Jain",
+    "domain": "Data engg and Ai/ml",
+    "company": "MBRDI - Mercedes Benz research and development India",
+    "preparation": "The interview is a mix of Dsa, business, oops and aptitude. But, focusing more on Dsa would help clear most of the interview and rest depends on how well you communicate.",
+    "resumeLink": "",
+    "source": "Placement Cell",
+    "approach": "Placement Cell",
+    "stages": "2 interviews",
+    "experience": "I was given a data quality framework and was tasked with building AI use cases around it. So, first half of my intern was about researching and analysing what AI use cases could possible be built and what will bring value. Once I proposed few use cases then I started collaborating with senior architects and engineers to develop possible roadmap and architect.",
+    "ppoCount": -1
+  }
   
 ]
