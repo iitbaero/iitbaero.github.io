@@ -1,14 +1,12 @@
 export const councilMembers = [
   // DAMPC Members
   { id: 601, category: 'DAMPC', name: 'Krupa Guruprasad Pai', email: 'krupaagpai20@gmail.com', contact: '9833370147', imageUrl: `${process.env.PUBLIC_URL}/council/Krupa.jpg` },
-  //{ id: 602, category: 'DAMPC', name: 'Gouri Rathi', email: 'gourirathi21@gmail.com', contact: '8955395900', imageUrl: `${process.env.PUBLIC_URL}/council/gouri.jpg` },
+ 
 
   // Continuing DAMPs
   { id: 724, category: 'Continuing DAMP', name: 'Arnav Prativ', email: 'arnavprativ10@gmail.com', contact: '7004628491', imageUrl: `${process.env.PUBLIC_URL}/council/arnav.jpg` },
   { id: 725, category: 'Continuing DAMP', name: 'Aum Urmishkumar Mains', email: 'aummaisuriya526@gmail.com', contact: '9016215841', imageUrl: `${process.env.PUBLIC_URL}/council/Aum.jpg`},
-  //{ id: 726, category: 'Continuing DAMP', name: 'Tarshit Sehgal', email: 'tarshitsehgal@gmail.com', contact: '8847484635', imageUrl: `${process.env.PUBLIC_URL}/council/Tarshit.png` },
-  //{ id: 727, category: 'Continuing DAMP', name: 'Ananditha Somannagari', email: 'anandithas2021@gmail.com', contact: '8639630018', imageUrl: `${process.env.PUBLIC_URL}/council/Anandhita.jpg` },
-  //{ id: 728, category: 'Continuing DAMP', name: 'Palak Jain', email: 'palak.aeroiitb@gmail.com', contact: '9460991561', imageUrl: `${process.env.PUBLIC_URL}/council/Palak.jpg` },
+  
 
   // DAMP Members
   { id: 701, category: 'DAMP', name: 'Sahil Patil', email: '23b0005@iitb.ac.in', contact: '9666070697', imageUrl: `${process.env.PUBLIC_URL}/council/Sahil_Patil_23B0005.jpg` },
