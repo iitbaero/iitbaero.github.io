@@ -235,5 +235,63 @@ export const internships = [
     "experience": "I was given a data quality framework and was tasked with building AI use cases around it. So, first half of my intern was about researching and analysing what AI use cases could possible be built and what will bring value. Once I proposed few use cases then I started collaborating with senior architects and engineers to develop possible roadmap and architect.",
     "ppoCount": -1
   }
+
+  {
+    "id": 19,
+    "name": "Krupa Pai",
+    "domain": "Consult",
+    "company": "Accenture Strategy & Consulting",
+    "role": "Management Consulting Associate",
+    "location": "Gurugram",
+    "preparation": "Prepare well for aerospace core basics, HR questions regarding the transition from core to consulting, and your future career plans. Resume preparation and related HR questions are also important.",
+    "resumeLink": "",
+    "source": "Placement Cell",
+    "approach": "Placement Cell",
+    "stages": "2 rounds - HR + Resume + Core",
+    "experience": "Worked on AI-led solutions for Air Traffic Management System Modernisation. The work involved global market research using publications from major authorities and organisations, identifying operational gaps in existing ATM systems, developing AI-based solutions, and detailing the implementation roadmap with regulatory milestones.",
+    "managerExperience": "Managers and supervisors were knowledgeable, supportive, and approachable. Although they had limited time due to other commitments, the overall experience was good.",
+    "learnings": "Gained exposure to the corporate world, learned how to interact with experienced professionals, and developed a stronger sense of ownership.",
+    "challenge": "Since the project was not client-facing, deliverables were less defined and the work was open-ended, which sometimes made it difficult to find direction. However, navigating this was part of the learning process.",
+    "ppoCount": -1
+}
+
+ 
+{
+    "id": 20,
+    "name": "Anushka Bharti",
+    "domain": "FMCG/Product Management",
+    "company": "Swiggy",
+    "role": "Process Excellence: Supply Chain",
+    "location": "Onsite - Mumbai",
+    "preparation": "Prepare for case interviews using the IIMA Casebook and SRCC casebook. There is also a preliminary supply chain knowledge test for shortlisting, which is relatively easy but requires some macroeconomics knowledge (EC101). Prepare your resume thoroughly. SQL and Excel knowledge are an added advantage.",
+    "resumeLink": "",
+    "source": "Placement Cell",
+    "approach": "Cold Outreach",
+    "stages": "2 rounds",
+    "experience": "Worked on reducing inventory losses at Swiggy Instamart dark stores. The problem involved freezer-related inventory losses caused by poor space utilization, inventory misallocation, equipment issues and inefficient handling. Used operational data to identify the root causes of complaints and expiry losses, and translated the findings into practical improvements in freezer layout, inventory flow and operating processes. Each intern was assigned a dark store (Instamart megapod), where solutions were implemented and successful ideas could be scaled across the country.",
+    "managerExperience": "The manager, a General Manager at Swiggy Instamart, was supportive and provided guidance throughout the project. Interns were expected to take initiative, schedule weekly meetings with their buddy and manager, present their work and incorporate feedback. The role offered significant ownership and independence.",
+    "learnings": "Gained exposure to real business problems, stakeholder interaction, data-driven decision-making and translating insights into operational changes. Developed problem-solving skills and end-to-end project ownership, particularly in supply chain operations.",
+    "challenge": "Coordination between the Mumbai team and the central Bangalore office was difficult, resulting in more fieldwork at dark stores rather than a conventional office-based internship.",
+    "advice": "For external applications, actively track LinkedIn job postings, contact recruiters through LinkedIn DMs and emails after applying, build connections with talent acquisition teams, and follow up consistently. Cold emailing can take months, so persistence is important.",
+    "ppoCount": 4
+}
+
+{
+  "id": 21,
+  "name": "Lopamudra Biswal",
+  "domain": "SDE",
+  "company": "Motilal Oswal Financial Services",
+  "role": "DevOps",
+  "location": "Mumbai",
+  "preparation": "Get well-versed with DSA topics. OOPs and CS fundamentals are important. There are standard puzzles, so practising easy-level puzzles from GFG should be sufficient.",
+  "resumeLink": "",
+  "source": "Placement Cell",
+  "approach": "Placement Cell",
+  "stages": "1 round",
+  "experience": "Automated backend processes using Jenkins, integrated Checkmarx with GitHub Actions to identify vulnerabilities in the codebase, worked on an SMTP server to automate emails for successful pipeline builds, and created a proof of concept for a Nexus repository. Also developed a synthetic pipeline for automatically forwarding ports during repository release maintenance.",
+  "learnings": "Learned tools such as Checkmarx, Jenkins, GitHub Actions and Nexus, along with gaining a deeper understanding of SMTP servers. Learned the importance of balancing time and quality, and that consulting experienced colleagues early can help resolve issues such as version conflicts more efficiently.",
+  "challenge": "NA",
+  "ppoCount": 3
+}
   
 ]
