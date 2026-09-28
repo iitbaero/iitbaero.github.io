@@ -234,7 +234,7 @@ export const internships = [
     "stages": "2 interviews",
     "experience": "I was given a data quality framework and was tasked with building AI use cases around it. So, first half of my intern was about researching and analysing what AI use cases could possible be built and what will bring value. Once I proposed few use cases then I started collaborating with senior architects and engineers to develop possible roadmap and architect.",
     "ppoCount": -1
-  }
+  },
 
   {
     "id": 19,
@@ -253,7 +253,7 @@ export const internships = [
     "learnings": "Gained exposure to the corporate world, learned how to interact with experienced professionals, and developed a stronger sense of ownership.",
     "challenge": "Since the project was not client-facing, deliverables were less defined and the work was open-ended, which sometimes made it difficult to find direction. However, navigating this was part of the learning process.",
     "ppoCount": -1
-}
+},
 
  
 {
@@ -274,7 +274,7 @@ export const internships = [
     "challenge": "Coordination between the Mumbai team and the central Bangalore office was difficult, resulting in more fieldwork at dark stores rather than a conventional office-based internship.",
     "advice": "For external applications, actively track LinkedIn job postings, contact recruiters through LinkedIn DMs and emails after applying, build connections with talent acquisition teams, and follow up consistently. Cold emailing can take months, so persistence is important.",
     "ppoCount": 4
-}
+},
 
 {
   "id": 21,
